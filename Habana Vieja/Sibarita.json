@@ -1,0 +1,54 @@
+{
+
+    "name" : "Sibarita" ,
+
+    "type_of_establishment" : ["restaurante" , "bar"] ,
+
+    "municipality" : "La Habana Vieja" ,
+
+    "services" : ["Reservaciones" , "Asiento" , "Sirve alcohol" , "Bar completo" , "Servicio de mesa"],
+
+    "qualification" : 5.0
+
+}
+
+{
+    "hours"
+
+    "monday"
+            "open":[ 00:00 "pm" ],
+            "close":[00:00 "am"],
+    
+    "tuesday"
+            "open":[ 00:00 "pm" ],
+            "close":[00:00 "am"],
+
+
+    "wednesday" 
+               "open":[00:00 "pm"],
+               "close":[00:00 "am"],
+
+    "thursday" 
+                "open":[00:00 "pm"],
+               "close":[00:00 "am"],
+
+
+
+    "friday"
+                "open":[00:00 "pm"],
+               "close":[00:00 "am"],
+
+
+
+    "saturday" 
+                "open":[00:00 "pm"],
+               "close":[02:00 "am"],
+
+
+    "sunday"
+                "open":[00:00 "pm"],
+               "close":[00:00 "am"],
+
+
+
+}
