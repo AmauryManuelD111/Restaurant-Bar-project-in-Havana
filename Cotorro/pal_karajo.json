@@ -1,0 +1,181 @@
+{
+    "establishment": {
+    
+      "general_info": {
+    
+        "name": "pal'karajo",
+    
+        "township": "Cotorro",
+    
+        "address": "Avenida 101 Esquina 16 Centro Cotorro",
+    
+        "type": "cafeteria",
+    
+        "hours": {
+    
+          "monday": {
+    
+            "open": "10:00",
+    
+            "close": "22:00"
+          },
+    
+          "tuesday": {
+    
+            "open": "10:00",
+    
+            "close": "22:00"
+          },
+    
+          "wednesday": {
+    
+            "open": "10:00",
+    
+            "close": "22:00"
+          },
+          "thursday": {
+    
+            "open": "10:00",
+    
+            "close": "22:00"
+          },
+          "friday": {
+    
+            "open": "10:00",
+    
+            "close": "22:00"
+          },
+          "saturday": {
+    
+            "open": "10:00",
+    
+            "close": "22:00"
+          },
+          "sunday": {
+    
+            "open": "10:00",
+    
+            "close": "22:00"
+          }
+        },
+        "sector": "privado",
+       
+        "capability": 12,
+       
+        "contact_info": ["Instagram", "Facebook"]
+       
+      },
+      "economy": {
+       
+        "accepted_payment_methods": ["efectivo", "transferencia"],
+       
+        "online_reservation": true,
+       
+        "tips_included": false,
+       
+        "delivery": false
+      },
+      "food": {
+        "menu": {
+          "categories": [
+            {
+              "category": "starters",
+              "items": [
+       
+                {"name": "chicarrita de boniato", "price": 200}
+              ]
+            },
+            {
+              "category": "bread",
+              "items": [
+       
+                {"name": "pan Pal'Karajo", "price": 790},
+       
+                {"name": "pan con lechon", "price": 450},
+       
+                {"name": "pan con jamon", "price": 300},
+       
+                {"name": "pan con chorizo", "price": 250},
+       
+                {"name": "pan con jamon y chorizo", "price": 400}
+              ]
+            },
+            {
+              "category": "main_course",
+              "items": [
+       
+                {"name": "tacos de cerdo mechados", "price": 890},
+       
+                {"name": "tacos de cerdo estofados", "price": 990}
+              ]
+            },
+            {
+              "category": "drinks",
+              "items": [
+       
+                {"name": "michelada con cristal", "price": 550},
+       
+                {"name": "chelada con cristal", "price": 550},
+       
+                {"name": "expresso", "price": 100},
+       
+                {"name": "cortado", "price": 150},
+       
+                {"name": "capuccino", "price": 300},
+       
+                {"name": "frapuccino", "price": 400},
+       
+                {"name": "bombon", "price": 300},
+       
+                {"name": "jugo de mango", "price": 200},
+       
+                {"name": "jugo de piña", "price": 200},
+       
+                {"name": "batido de mango", "price": 380},
+       
+                {"name": "batido de mamey", "price": 400},
+       
+                {"name": "batido de trigo", "price": 380},
+       
+                {"name": "batido de mani", "price": 400},
+       
+                {"name": "batido de mani con chocolate", "price": 450},
+       
+                {"name": "piña colada", "price": 400},
+       
+                {"name": "malteada", "price": 500},
+       
+                {"name": "limonada", "price": 400}
+              ]
+            }
+          ]
+        },
+       
+        "popular_food": ["pan con lechon", "tacos"],
+       
+        "popular_drink": ["cerveza"],
+       
+        "type_of_food": ["rapida"],
+       
+        "house_speciality": []
+      },
+      "social": {
+       
+        "kids_seat": false,
+       
+        "blackout_alternatives": false,
+       
+        "entertainment": [],
+       
+        "peak_hour": ["almuerzo"],
+       
+        "tourism": true,
+       
+        "pets": true,
+       
+        "bathroom": true,
+       
+        "heated": false
+      }
+    }
+  }
