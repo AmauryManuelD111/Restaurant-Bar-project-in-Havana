@@ -1,0 +1,169 @@
+{
+  "name": "Divino",
+  "address": "#50, Calle Raquel entre Esperanza y Lindero, Mantilla",
+  "municipality": "Arroyo Naranjo",
+  "type": "Restaurante",
+  "type_of_food": "Cocina mixta",
+  "sector": "Privado",
+  "hours": {
+      "Friday": {
+          "open": "12:00",
+          "close": "22:00"
+      },
+      "Saturday": {
+          "open": "12:00",
+          "close": "22:00"
+      },
+      "Sunday": {
+          "open": "12:00",
+          "close": "22:00"
+      }
+  },
+  "qualification": [
+      {
+          "Tripadvisor": 4.5,
+          "Google Maps": 4.4
+      }
+  ],
+  "Reservations": true,
+  "Delivery": [
+      {
+          "Service existence": false,
+          "Delivery area": null
+      }
+  ],
+  "Phone number": "55627175 / 63733055 / 76437734",
+  "Accounts or website": [
+      {
+          "Facebook": "Divino"
+      },
+      {
+          "Instagram": "@restaurantedivino_official"
+      },
+      {
+          "Website": "www.cubarestaurantedivino.com"
+      },
+      {
+          "Email": "cubarestaurantedivino@gmail.com"
+      }
+  ],
+  "Parking": true,
+  "Wifi": false,
+  "Smoking area": true,
+  "Menu card": {
+      "Starters": [
+          {
+              "name": "Crema de vegetales",
+              "Price": 450
+          },
+          {
+              "name": "Coctel de mariscos",
+              "Price": 1700
+          },
+          {
+              "name": "Croquetas de la casa",
+              "Price": 1200
+          },
+          {
+              "name": "Tostones rellenos mixtos",
+              "Price": 1500
+          },
+          {
+              "name": "Canapes agridulces de jamon y queso con pina",
+              "Price": 1200
+          },
+          {
+              "name": "Pulpo sobre boniato a lass brasas y salsa de pimiento",
+              "Price": 2500
+          },
+          {
+              "name": "Surtido Divino",
+              "Price": 1800
+          }
+      ],
+      "Main course": [
+          {
+              "name": "Pollo a la Campesina",
+              "Price": 1800
+          },
+          {
+              "name": "Cerdo ahumado al mangle rojo",
+              "Price": 2880
+          },
+          {
+              "name": "Langosta marinera",
+              "Price": 3000
+          },
+          {
+              "name": "Pinchos de camaron aromatizados con aceite de trufa",
+              "Price": 3200
+          },
+          {
+              "name": "Suprema de pollo a la mostaza",
+              "Price": 1950
+          },
+          {
+              "name": "Pulpo a la gallega",
+              "Price": 4500
+          },
+          {
+              "name": "Reino del Mar",
+              "Price": 9500
+          },
+          {
+              "name": "Arroz a la cubana",
+              "Price": 1500
+          }
+      ],
+      "Drinks": [
+          {
+              "name": "Cerveza importada",
+              "Price": 350
+          },
+          {
+              "name": "Cerveza nacional",
+              "Price": 500
+          },
+          {
+              "name": "Cubetazo",
+              "Price": 3000
+          },
+          {
+              "name": "Refresco",
+              "Price": 400
+          },
+          {
+              "name": "Agua natural",
+              "Price": 200
+          },
+          {
+              "name": "Jugo natural",
+              "Price": 250
+          },
+          {
+              "name": "Batido de helado",
+              "Price": 700
+          },
+          {
+              "name": "Copa de vino tinto",
+              "Price": 700
+          },
+          {
+              "name": "Cafe Expresso",
+              "Price": 250
+          },
+          {
+              "name": "Cafe Tradicional",
+              "Price": 150
+          },
+          {
+              "name": "Cafe Cortado",
+              "Price": 250
+          },
+          {
+              "name": "Cerveza artesanal",
+              "Price": 600
+          }
+      ]
+  }
+}
