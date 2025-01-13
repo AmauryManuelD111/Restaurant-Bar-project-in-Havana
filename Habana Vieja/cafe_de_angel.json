@@ -1,0 +1,274 @@
+{
+    "establishment": {
+        "type": ["restaurante"],
+        "name": "cafe del angel",
+        "contact_info": {
+            "phone": {
+                "number": "078015162",
+                "type": ["landline"]
+            },
+            "email": null,
+            "website": null
+        },
+        "hours": {
+            "monday": {
+                "open": "08:00",
+                "close": "22:00"
+            },
+            "tuesday": {
+                "open": "08:00",
+                "close": "22:00"
+            },
+            "wednesday": {
+                "open": "08:00",
+                "close": "22:00"
+            },
+            "thursday": {
+                "open": "08:00",
+                "close": "22:00"
+            },
+            "friday": {
+                "open": "08:00",
+                "close": "22:00"
+            },
+            "saturday": {
+                "open": "08:00",
+                "close": "22:00"
+            },
+            "sunday": {
+                "open": "08:00",
+                "close": "22:00"
+            }
+        },
+        "address": "Chacon #201 esquina Compostela, Habana Vieja",
+        "municipality": "habana vieja",
+        "province": "la habana",
+        "social_media": {
+            "facebook": null,
+            "instagram": null
+        },
+        "accepted_payment_methods": [],
+        "delivery_available": false,
+        "service_fee": {
+            "name": "cargo por servicio del 10%",
+            "description": "Se le adiciona el 10% a su cuenta por los servicios.",
+            "applies": true
+        },
+        "features": {
+            "reservation_required": true,
+            "outdoor_seating": true,
+            "dine_in": true,
+            "takeaway": false,
+            "type_of_establishment": ["restaurante", "bar"],
+            "local_options": ["desayunos", "almuerzo", "cena", "postres"],
+            "services": ["sanitario", "tiene bar"],
+            "usual_customers": ["grupos"],
+            "planning": ["se aceptan reservas"],
+            "children": null,
+            "pets": null,
+            "parking": null
+        },
+        "meals": ["comidas", "cenas", "brunch"],
+        "advantages": ["reservas", "capacidad", "sirve alcohol", "bar completo", "servicio de mesa"],
+        "highlights": ["aperitivos", "buenos cocteles", "agradable", "informal", "recomendable para ir en grupo"]
+    },
+    "menu": {
+        "categories": [
+            {
+                "category": "para empezar / small & shared",
+                "items": [
+                    {
+                        "name": "croquetas serrano",
+                        "price": 1480
+                    },
+                    {
+                        "name": "rillete de cerdo",
+                        "price": 1500
+                    },
+                    {
+                        "name": "tacos de cerdo",
+                        "price": 2200
+                    },
+                    {
+                        "name": "mixto de brusquetas",
+                        "price": 2200
+                    },
+                    {
+                        "name": "tacos de camarones",
+                        "price": 2380
+                    },
+                    {
+                        "name": "empanadillas de queso",
+                        "price": 1400
+                    },
+                    {
+                        "name": "tabla charcuteria",
+                        "price": 4000
+                    }
+                ]
+            },
+            {
+                "category": "principales / mains",
+                "items": [
+                    {
+                        "name": "solomillo de cerdo",
+                        "price": 4200
+                    },
+                    {
+                        "name": "pescado a la siciliana",
+                        "price": 3580
+                    },
+                    {
+                        "name": "ropa vieja",
+                        "price": 3580
+                    },
+                    {
+                        "name": "costillas de cerdo",
+                        "price": 4950
+                    },
+                    {
+                        "name": "hamburguesa de res",
+                        "price": 3200
+                    },
+                    {
+                        "name": "langosta caribeña",
+                        "price": 5400
+                    },
+                    {
+                        "name": "pollo mediterraneo",
+                        "price": 2340
+                    }
+                ]
+            },
+            {
+                "category": "postres y dessert",
+                "items": [
+                    {
+                        "name": "mousse de chocolate",
+ "price": 1925
+                    },
+                    {
+                        "name": "esfera de maracuya",
+                        "price": 1925
+                    },
+                    {
+                        "name": "arroz con leche",
+                        "price": 1500
+                    },
+                    {
+                        "name": "dados de guayaba",
+                        "price": 1500
+                    }
+                ]
+            },
+            {
+                "category": "desayunos / breakfast",
+                "items": [
+                    {
+                        "name": "del angel",
+                        "price": 2500
+                    },
+                    {
+                        "name": "croissant madame",
+                        "price": 2500
+                    },
+                    {
+                        "name": "omelette al queso",
+                        "price": 1630
+                    },
+                    {
+                        "name": "americano",
+                        "price": 2400
+                    },
+                    {
+                        "name": "pancakes",
+                        "price": 1700
+                    },
+                    {
+                        "name": "continental",
+                        "price": 1600
+                    },
+                    {
+                        "name": "bagel nordico",
+                        "price": 2450
+                    },
+                    {
+                        "name": "yogurt parfait",
+                        "price": 1360
+                    },
+                    {
+                        "name": "bagel catalan",
+                        "price": 2450
+                    }
+                ]
+            },
+            {
+                "category": "ensaladas & sandwiches",
+                "items": [
+                    {
+                        "name": "ensalada del angel",
+                        "price": 2340
+                    },
+                    {
+                        "name": "baguette de jamon y queso",
+                        "price": 1600
+                    }
+                ]
+            },
+            {
+                "category": "bocadillos y sandwiches",
+                "items": [
+                    {
+                        "name": "bocata catalana",
+                        "price": 2400
+                    },
+                    {
+                        "name": "sandwich de atun",
+                        "price": 1530
+                    },
+                    {
+                        "name": "sandwich vegetales",
+                        "price": 1530
+                    },
+                    {
+                        "name": "sandwich cubano",
+                        "price": 2600
+                    },
+                    {
+                        "name": "huevos & pesto",
+                        "price": 2400
+                    }
+                ]
+            },
+            {
+                "category": "pastas",
+                "items": [
+                    {
+                        "name": "spaghetti pomodoro",
+                        "price": 1880
+                    },
+                    {
+                        "name": "ragu de cordero",
+                        "price": 3450
+                    },
+                    {
+                        "name": "ravioli carbonara",
+                        "price": 3200
+                    },
+                    {
+                        "name": "spaghetti al pesto",
+                        "price": 2200
+                    },
+                    {
+                        "name": "rigatoni amatriciana",
+                        "price": 3200
+                    },
+                    {
+                        "name": "spaghetti altamar",
+                        "price": 3450
+                    }
+                ]
+            }
+        ]
+    }
+}

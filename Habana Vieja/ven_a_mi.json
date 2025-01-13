@@ -1,0 +1,346 @@
+{
+    "establishment": {
+        "classification": {
+            "type": ["restaurante"]
+        },
+        "name": "Venami",
+        "type": ["Italiana", "Pizza", "Mediterranea", "Europea"],
+        "contact_info": {
+            "phone": {
+                "number": "(07) 8605156",
+                "type": "landline"
+            },
+            "email": null,
+            "website": "http://venamihabana.com"
+        },
+        "hours": {
+            "monday": {
+                "open": "11:30",
+                "close": "23:00"
+            },
+            "tuesday": {
+                "open": "11:30",
+                "close": "23:00"
+            },
+            "wednesday": {
+                "open": "11:30",
+                "close": "23:00"
+            },
+            "thursday": {
+                "open": "11:30",
+                "close": "23:00"
+            },
+            "friday": {
+                "open": "11:30",
+                "close": "23:00"
+            },
+            "saturday": {
+                "open": "11:30",
+                "close": "23:00"
+            },
+            "sunday": {
+                "open": "11:30",
+                "close": "23:00"
+            }
+        },
+        "address": "Monserrate #435 e/ Teniente Rey y Lamparilla, Habana Vieja",
+        "municipality": "Habana Vieja",
+        "province": "La Habana",
+        "social_media": {
+            "instagram": "https://www.instagram.com/venami_habana?igsh=MWh3a25mb3B2NmMxcw==",
+            "facebook": "https://m.facebook.com/100066988458475/?profile_tab_item_selected=about",
+            "whatsapp": null
+        },
+        "accepted_payment_methods": [],
+        "delivery_available": false,
+        "service_fee": {
+            "name": "10% service charge",
+            "description": "Se le adiciona el 10% a su cuenta por los servicios.",
+            "applies": true
+        },
+        "features": {
+            "reservation_required": false,
+            "outdoor_seating": false,
+            "dine_in": true,
+            "takeaway": true,
+            "offers": ["Restaurante"],
+            "local_options": ["Almuerzo", "Cena", "Postres"],
+            "services": ["Sanitario"],
+            "ambience": ["Agradable", "Informal"],
+            "usual_customers": ["Grupos"],
+            "planning": ["Se aceptan reservas"],
+            "children": true,
+            "pets": false,
+            "parking": null
+        },
+        "dietary_options": ["Opciones vegetarianas", "Opciones veganas"],
+        "meals": ["Comidas", "Cenas", "Abierto hasta tarde"],
+        "advantages": ["Para llevar", "Capacidad", "Acceso para discapacitados", "Sirve alcohol", "Servicio de mesa"],
+        "highlights": ["Aperitivos", "Agradable", "Informal", "Ideal para ir con ninos", "Recomendable para ir en grupo"]
+    },
+    "menu": {
+        "courses": [
+            {
+                "category": "Antipasta",
+                "items": [
+                    {
+                        "name": "Focaccia a las Hierbas",
+                        "price": 300
+                    },
+                    {
+                        "name": "Brusquetas",
+                        "price": 350
+                    },
+                    {
+                        "name": "Melanzane Bolonesa",
+                        "price": 450
+                    },
+                    {
+                        "name": "Melanzane Vegetales",
+                        "price": 400
+                    },
+                    {
+                        "name": "Focaccia Rellena",
+                        "price": 350
+                    },
+                    {
+                        "name": "Ensalada Capresi",
+                        "price": 350
+                    },
+                    {
+                        "name": "Ensalada Vegetales",
+                        "price": 1350
+                    },
+                    {
+                        "name": "Estrofolino Vegetal",
+                        "price": 850
+                    },
+                    {
+                        "name":"Estrofolino Jamon",
+                    "price": 900
+                    },
+                    {
+                        "name": "Estrofolino Natural",
+                        "price": 650
+                    },
+                    {
+                        "name": "Focaccia con Jamon Serrano",
+                        "price": 1100
+                    }
+                ]
+            },
+            {
+                "category": "Cremas",
+                "items": [
+                    {
+                        "name": "Crema de Queso",
+                        "price": 600
+                    },
+                    {
+                        "name": "Crema Virginia",
+                        "price": 630
+                    },
+                    {
+                        "name": "Crema Champinon",
+                        "price": 650
+                    }
+                ]
+            },
+            {
+                "category": "Rissotos",
+                "items": [
+                    {
+                        "name": "Al Fungi",
+                        "price": 1100
+                    },
+                    {
+                        "name": "Al Fruto del Mar",
+                        "price": 1350
+                    },
+                    {
+                        "name": "Al Venami",
+                        "price": 1050
+                    }
+                ]
+            },
+            {
+                "category": "Segundo Plato",
+                "items": [
+                    {
+                        "name": "Pollo al Limon",
+                        "price": 1210
+                    },
+                    {
+                        "name": "Pollo a la Piazzola",
+                        "price": 1250
+                    },
+                    {
+                        "name": "Cerdo al Limon",
+                        "price": 1300
+                    },
+                    {
+                        "name": "Pescado Livonnesa",
+                        "price": 1310
+                    },
+                    {
+                        "name": "Pescado al Camaron",
+                        "price": 1400
+                    }
+                ]
+            },
+            {
+                "category": "Pastas",
+                "items": [
+                    {
+                        "name": "Penne Champinon/Serrano",
+                        "price": 1380
+                    },
+                    {
+                        "name": "Spaghetti Amatriciana",
+                        "price": 1100
+                    },
+                    {
+                        "name": "Spaghetti Alfredo (Jamon)",
+                        "price": 1050
+                    },
+                    {
+                        "name": "Spaghetti a la Carbonara",
+                        "price": 1200
+                    },
+                    {
+                        "name": "Penne Arrabiatta",
+                        "price": 950
+                    },
+                    {
+                        "name": "Penne a la Bolonesa",
+                        "price": 1050
+                    },
+                    {
+                        "name": "Spaghetti de Atún/Alcaparras",
+                        "price": 1000
+                    },
+                    {
+                        "name": "Spaghetti Pomodoro Basilico",
+                        "price": 800
+                    },
+                    {
+                        "name": "Spaghetti Fruto del Mar",
+                        "price": 1450
+                    },
+                    {
+                        "name": "Spaghetti al Pesto",
+                        "price": 950
+                    },
+                    {
+                        "name": "Spaghetti al Venami",
+                        "price": 1250
+                    },
+                    {
+                        "name": "Spaghetti Ajo/Peperonchino",
+                        "price": 850
+                    },
+                    {
+                        "name": "Spaghetti al Camaron",
+                        "price": 1250
+                    },
+                    {
+                        "name": "Timbal de Pollo",
+                        "price": 1200
+                    },
+                    {
+                        "name": "Timbal de Bolonesa",
+                        "price": 1100
+                    }
+                ]
+            },
+            {
+                "category": "Postres",
+                "items": [
+                    {
+                        "name": "Flan",
+                        "price": 400
+                    },
+                    {
+                        "name": "Tarta con Helado",
+                        "price": 450
+                    },
+                    {
+                        "name": "Helado",
+                        "price": 300
+                    }
+                ]
+            },
+            {
+                "category": "Bebidas No Alcoholicas",
+                "items": [
+                    {
+                        "name": "Agua Natural (500ml)",
+                        "price": 150
+                    },
+                    {
+                        "name": "Agua Natural (1500ml)",
+                        "price": 300
+                    },
+                    {
+                        "name": "Refresco",
+                        "price": 400
+                    },
+                    {
+                        "name": "Malta",
+                        "price": 310
+                    },
+                    {
+                        "name": "Jugo de Frutas Naturales",
+                        "price": 250
+                    },
+                    {
+                        "name": "Limonada",
+                        "price": 200
+                    }
+                ]
+            },
+            {
+                "category": "Bebidas Alcoholicas",
+                "items": [
+                    {
+                        "name": "Cerveza Nacional",
+                        "price": 330
+                    },
+                    {
+                        "name": "Cocteles",
+                        "price": 450
+                    }
+                ]
+            },
+            {
+                "category": "Infusiones",
+                "items": [
+                    {
+                        "name": "Cafe",
+                        "price": 150
+                    },
+                    {
+                        "name": "Cafe Capuchino",
+                        "price": 350
+                    },
+                    {
+                        "name": "Cafe Cortadito",
+                        "price": 350
+                    },
+                    {
+                        "name": "Cafe con Leche",
+                        "price": 350
+                    },
+                    {
+                        "name": "Cafe Americano",
+                        "price": 150
+                    },
+                    {
+                        "name": "Te",
+                        "price": 110
+                    }
+                ]
+            }
+        ]
+    }
+}

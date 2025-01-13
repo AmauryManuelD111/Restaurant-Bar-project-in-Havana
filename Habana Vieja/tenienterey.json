@@ -1,0 +1,268 @@
+{
+    "establishment": {
+        "classification": {
+            "type": ["bar-restaurante"]
+        },
+        "name": "Teniente Rey 360",
+        "contact_info": {
+            "phone": {
+                "number": "7 8602916",
+                "type": "landline"
+            },
+            "email": null,
+            "website": null
+        },
+        "hours": {
+            "monday": {
+                "open": "11:00",
+                "close": "21:30"
+            },
+            "tuesday": {
+                "open": "11:00",
+                "close": "21:30"
+            },
+            "wednesday": {
+                "open": "11:00",
+                "close": "21:30"
+            },
+            "thursday": {
+                "open": "11:00",
+                "close": "21:30"
+            },
+            "friday": {
+                "open": "11:00",
+                "close": "21:30"
+            },
+            "saturday": {
+                "open": "11:00",
+                "close": "21:30"
+            },
+            "sunday": {
+                "open": "11:00",
+                "close": "21:30"
+            }
+        },
+        "address": "Calle Teniente Rey #360 entre Aguacate y Villegas, Habana Vieja",
+        "municipality": "Habana Vieja",
+        "province": "La Habana",
+        "social_media": {
+            "instagram": "https://www.instagram.com/teniente_rey360",
+            "facebook": null,
+            "whatsapp": null
+        },
+        "delivery_available": false,
+        "service_fee": {
+            "name": "10% service charge",
+            "description": "Se le adiciona el 10% a su cuenta por los servicios.",
+            "applies": true
+        },
+        "features": {
+            "reservation_required": false,
+            "outdoor_seating": false,
+            "dine_in": true,
+            "takeaway": false,
+            "type_of_establishment": ["Restaurante", "Bar"],
+            "local_options": ["Comidas", "Cenas", "Brunch"],
+            "services": ["Sanitario", "Tiene bar", "Television", "Acceso para discapacitados"],
+            "usual_customers": ["Grupos"],
+            "planning": ["Se aceptan reservas"],
+            "children": null,
+            "pets": null,
+            "parking": null
+        },
+        "meals": ["Comidas", "Cenas", "Brunch"],
+        "advantages": ["Reservas", "Capacidad", "Sirve alcohol", "Bar completo", "Servicio de mesa"],
+        "highlights": ["Aperitivos", "Agradable", "Informal", "Recomendable para ir en grupo"]
+    },
+    "menu": {
+        "courses": [
+            {
+                "category": "Especialidad de la Casa",
+                "items": [
+                    {
+                        "name": "Coctel de Camarones",
+                        "price": 700
+                    },
+                    {
+                        "name": "Coctel de Langosta",
+                        "price": 700
+                    },
+                    {
+                        "name": "Langosta",
+                        "price": 2500
+                    },
+                    {
+                        "name": "Colas de Langosta",
+                        "price": 2600
+                    },
+                    {
+                        "name": "Camarones a la Orden",
+                        "price": 2500
+                    },
+                    {
+                        "name": "Camarones Rebosados",
+                        "price": 2800
+                    },
+                    {
+                        "name": "Pulpo",
+                        "price": 2700
+                    }
+                ]
+            },
+            {
+                "category": "Sugerencias del Chef",
+                "items": [
+                    {
+                        "name": "Cazuelita Tte Rey",
+                        "price": 2900
+                    },
+                    {
+                        "name": "Mariscada Tte Rey",
+                        "price": 12900
+                    },
+                    {
+                        "name": "Filete de Pescado",
+                        "price": 2400
+                    },
+                    {
+                        "name": "Filet Mignon",
+                        "price": 3200
+                    },
+                    {
+                        "name": "Punta de Filete",
+                        "price": 2900
+                    },
+                    {
+                        "name": "Filete Jhonvill",
+                        "price": 3500
+                    }
+                ]
+            },
+            {
+                "category": "Comida Criolla - Entrantes",
+                "items": [
+                    {
+                        "name": "Surtidos Tte Rey Especialidades",
+                        "price": null
+                    },
+                    {
+                        "name": "Croquetas",
+                        "price": 400
+                    },
+                    {
+                        "name": "Bolitas de Queso",
+                        "price": 500
+                    },
+                    {
+                        "name": "Tostones Rellenos",
+                        "price": 600
+                    },
+                    {
+                        "name": "Garbanzos Fritos",
+                        "price": 700
+                    }
+                ]
+            },
+            {
+                "category": "Comida Criolla - Platos Principales",
+                "items": [
+                    {
+                        "name": "Pechuga de Pollo",
+                        "price": 1950
+                    },
+                    {
+                        "name": "Fajitas de Pechuga de Pollo",
+                        "price": 2000
+                    },
+                    {
+                        "name": "Spaguettis",
+                        "price": null
+                    },
+                    {
+                        "name": "Ropa Vieja",
+                        "price": 2000
+                    },
+                    {
+                        "name": "Picadillo a la Cubana",
+                        "price": 1500
+                    },
+                    {
+                        "name": "Masas de Cerdo",
+                        "price": 1700
+                    },
+                    {
+                        "name": "Fricase de Cerdo",
+                        "price": 1750
+                    },
+                    {
+                        "name": "Solomillo",
+                        "price": 1900
+                    }
+                ]
+            },
+            {
+                "category": "Guarniciones",
+                "items": [
+                    {
+                        "name": "Arroz",
+                        "price": 200
+                    },
+                    {
+                        "name": "Chatinos",
+                        "price": 300
+                    },
+                    {
+                        "name": "Yuca",
+                        "price": 200
+                    }
+                ]
+            },
+            {
+                "category": "Bebidas No Alcoholicas",
+                "items": [
+                    {
+                        "name": "Refrescos Nacionales",
+                        "price": 380
+                    },
+                    {
+                        "name": "Refrescos Importados",
+                        "price": 420
+                    },
+                    {
+                        "name": "Malta Nacional",
+                        "price": 420
+                    },
+                    {
+                        "name": "Agua Natural Nacional",
+                        "price": 250
+                    },
+                    {
+                        "name": "Kermato",
+                        "price": 500
+                    },
+                    {
+                        "name": "Agua Tonica",
+                        "price": 450
+                    }
+                ]
+            },
+            {
+                "category": "Bebidas Alcoholicas",
+                "items": [
+                    {
+                        "name": "Cerveza Nacional Lata",
+                        "price": 360
+                    },
+                    {
+                        "name": "Cerveza Nacional Botella",
+                        "price": 460
+                    },
+                    {
+                        "name": "Cerveza Importada",
+                        "price": 460
+                    }
+                ]
+            }
+        ]
+    }
+}

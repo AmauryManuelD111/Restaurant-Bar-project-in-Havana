@@ -1,0 +1,131 @@
+{
+    "Restaurants": {
+      "Adastra": {
+        "Province": "La Habana",
+        "Municipality": "La Habana Vieja",
+        "Location": "255 Obispo, La Habana",
+        "Stars": {
+          "Social network": "Google",
+          "url": "https://g.co/kgs/xKva91z",
+          "total": 4.9,
+          "date": "20241210"
+        },
+        "hours": {
+          "monday": {
+            "open": "12:00",
+            "close": "00:00"
+          },
+          "tuesday": {
+            "open": "12:00",
+            "close": "00:00"
+          },
+          "wednesday": {
+            "open": "12:00",
+            "close": "00:00"
+          },
+          "thursday": {
+            "open": "12:00",
+            "close": "00:00"
+          },
+          "friday": {
+            "open": "12:00",
+            "close": "00:00"
+          },
+          "saturday": {
+            "open": "12:00",
+            "close": "00:00"
+          },
+          "sunday": {
+            "open": "12:00",
+            "close": "00:00"
+          }
+        },
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Cordero al Vino Tinto",
+        "Facilities": {
+          "Pets": false,
+          "Wheelchair ramp": false,
+          "infant stool": true,
+          "Smoking area": true,
+          "Parking": false,
+          "Home service": false,
+          "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 41,
+        "menu and prices": {
+          "Starters": {
+            "name": "Tapas de Bodega",
+            "price": "7600"
+          },
+          "Main Dishes": {
+            "name": "Osobuco Trufado con Champignoses",
+            "price": "7500"
+          },
+          "Pasta and Risottos": {
+            "name": "Pasta Bellahabana",
+            "price": "4300"
+          },
+          "Fish and Seafood": {
+            "name": "Langosta Islena",
+            "price": "4800"
+          },
+          "At Your Whim": {
+            "name": "Langosta",
+            "price": "4500"
+          },
+          "Fittings": {
+            "name": "Arroz Blanco",
+            "price": "700"
+          },
+          "Desserts": {
+            "name": "Cheesecake de Frutas",
+            "price": "1800"
+          },
+          "Cocktails": {
+            "name": "Mojito",
+            "price": "1000"
+          },
+          "Coffee": {
+            "name": "Espresso",
+            "price": "450"
+          },
+          "Rums": {
+            "name": "Havana Club Especial",
+            "price": "900"
+          },
+          "Vodka": {
+            "name": "Absolut",
+            "price": "1500"
+          },
+          "Brandy and Cognac": {
+            "name": "Napoleon",
+            "price": "450"
+          },
+          "Tequila and Mezcal": {
+            "name": "El Silencio",
+            "price": "3200"
+          },
+          "Creams and Liqueurs": {
+            "name": "Sambuca",
+            "price": "1500"
+          },
+          "Whisky": {
+            "name": "J&B",
+            "price": "1600"
+          },
+          "Geneva": {
+            "name": "Bombay Sapphire",
+            "price": "1800"
+          },
+          "Drinks": {
+            "name": "Coca Cola",
+            "price": "550"
+          },
+          "Juices": {
+            "name": "Jugo de Estacion",
+            "price": "500"
+          }
+        }
+      }
+    }
+  }
