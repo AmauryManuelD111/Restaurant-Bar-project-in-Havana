@@ -1,0 +1,189 @@
+{
+    "establishment": {
+        "name": "Cafe Toscano",
+        "phone_number": "",
+        "type": "cafeteria",
+        "type_of_food": "",
+        "website": null,
+        "hours": {
+            "monday": {
+                "open": "08:00",
+                "close": "22:00"
+            },
+            "tuesday": {
+                "open": "08:00",
+                "close": "22:00"
+            },
+            "wednesday": {
+                "open": "08:00",
+                "close": "22:00"
+            },
+            "thursday": {
+                "open": "08:00",
+                "close": "22:00"
+            },
+            "friday": {
+                "open": "08:00",
+                "close": "22:00"
+            },
+            "saturday": {
+                "open": "08:00",
+                "close": "22:00"
+            },
+            "sunday": {
+                "open": "08:00",
+                "close": "22:00"
+            }
+        },
+        "sector": "privado",
+        "capacity": 12,
+        "qualification": 4.5,
+        "location": {
+            "provincia": "La Habana",
+            "municipio": "San Miguel del Padron",
+            "direccion": "Calzada de Guines"
+        },
+        "facilities": {
+            "parking": null,
+            "wifi": null,
+            "delivery": true,
+            "reservation": false
+        },
+        "menu": {
+            "starters": {
+                "starters_list": [
+                    {
+                        "name": "tostones rellenos",
+                        "price": 250
+                    },
+                    {
+                        "name": "tostones",
+                        "price": 150
+                    },
+                    {
+                        "name": "platano",
+                        "price": 100
+                    }
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    {
+                        "name": "hamburguesa sencilla",
+                        "price": 300
+                    },
+                    {
+                        "name": "hamburguesa con queso",
+                        "price": 380
+                    },
+                    {
+                        "name": "hamburguesa doble con queso",
+                        "price": 550
+                    }
+                ]
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    {
+                        "name": "pollo chiflado",
+                        "price": 400
+                    },
+                    {
+                        "name": "pollo especial",
+                        "price": 1000
+                    }
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [
+                    {
+                        "name": "espaguetti",
+                        "price": 330
+                    },
+                    {
+                        "name": "espaguetti con queso gouda",
+                        "price": 400
+                    }
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    {
+                        "name": "pizza napolitana",
+                        "price": 17
+                    },
+                    {
+                        "name": "pizza doble de queso",
+                        "price": 250
+                    },
+                    {
+                        "name": "pizza hawaiana",
+                        "price": 290
+                    },
+                    {
+                        "name": "pizza gouda",
+                        "price": 250
+                    },
+                    {
+                        "name": "pizza cubana",
+                        "price": 320
+                    },
+                    {
+                        "name": "pizza grande napolitana",
+                        "price": 550
+                    },
+                    {
+                        "name": "pizza grande doble de queso",
+                        "price": 790
+                    },
+                    {
+                        "name": "pizza grande gouda",
+                        "price": 940
+                    }
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+            }
+        },
+        "popular_food": ["pizza"],
+        "popular_drink": ["cerveza"],
+        "food_specialization": ["criolla", " italiana"],
+        "house_speciality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": ["almuerzo", "comida"],
+        "tourism": true,
+        "pets": true,
+        "bathroom": false,
+        "heated": false
+    }
+}

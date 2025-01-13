@@ -1,0 +1,114 @@
+{
+    "establishment": {
+        "name": "Bar Colina",
+        "municipality": "San Miguel del Padron",
+        "address": "esquina b y calzada de guines reparto merceditas",
+        "local": "bar",
+        "hours": {
+            "monday": {
+                "open": "11:00",
+                "close": "23:00"
+            },
+            "tuesday": {
+                "open": "11:00",
+                "close": "23:00"
+            },
+            "wednesday": {
+                "open": "11:00",
+                "close": "23:00"
+            },
+            "thursday": {
+                "open": "11:00",
+                "close": "23:00"
+            },
+            "friday": {
+                "open": "11:00",
+                "close": "23:00"
+            },
+            "saturday": {
+                "open": "11:00",
+                "close": "23:00"
+            },
+            "sunday": {
+                "open": "11:00",
+                "close": "23:00"
+            }
+        },
+        "sector": "privado",
+        "capacity": 200,
+        "social_network": ["Instagram"]
+        
+    },
+    "economy": {
+        "payment_methods": ["efectivo", "transferencia"],
+        "online_reservation": true,
+        "tips_included": true,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "starters": {
+                "starters_list": ["entremes de jamon y queso", "croquetas", "frituras de malanga", "tostones", "tostones rellenos", "chicharrita"],
+                "starters_price": [600, 400, 550, 400, 600, 300]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [],
+                "main_price": []
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": ["espaguetti napolitano"],
+                "pasta_price": [550]
+            },
+            "pizza": {
+                "pizza_list": ["pizza napolitana grande", "pizza napolitana"],
+                "pizza_price": [650, 220]
+            },
+            "adds": {
+                "adds_list": ["queso", "chorizo", "jamon", "pina"],
+                "adds_price": [200, 300, 300, 150]
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+            }
+        },
+        "popular_food": ["tapas"],
+        "popular_drink": ["cerveza"],
+        "type_of_food": ["italiana"],
+        "house_speciality": []
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": ["comida"],
+        "tourism": true,
+        "pets": false,
+        "bathroom": true,
+        "heated": true
+    }
+}

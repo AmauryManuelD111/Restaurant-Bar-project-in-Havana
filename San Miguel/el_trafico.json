@@ -1,0 +1,111 @@
+{
+    "name": "el trafico",
+    "municipality": "san miguel del padron",
+    "address": "calzada de guines entre 90 y 94",
+    "local": "restaurante-cafeteria",
+    "hours": {
+        "monday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "tuesday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "wednesday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "thursday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "friday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "saturday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "22:00"
+        }
+    },
+    "sector": "privado",
+    "capacity": 20,
+    "social_network": ["facebook"],
+    "economy": {
+        "payment_methods": ["efectivo", "transferencia", "pago en linea"],
+        "online_reservation": true,
+        "tips_included": false,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "starters": {
+                "starters_list": [],
+                "starters_price": []
+            },
+            "garnishes": {
+                "garnishes_list": ["arroz moro", "vianda", "ensalada", "tamal", "papas fritas"],
+                "garnishes_price": [300, 150, 200, 200, 600]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": ["bistec de pollo", "bistec de cerdo", "bistec de res", "pechuga de pollo", "chuleta de cerdo", "masa de cerdo frita", "cerdo guisado", "lomo ahumado", "costilla de cerdo", "ropa vieja"],
+                "main_price": [1500, 1950, 1950, 1950, 1950, 2000, 2000, 2000, 2000, 2000]
+            },
+            "sea_food": {
+                "sea_food_list": ["filete de merluza"],
+                "sea_food_price": [2000]
+            },
+            "pasta": {
+                "pasta_list": ["espaguetti con queso blanco", "espaguetti con queso gouda", "espaguetti con queso parmesano"],
+                "pasta_price": [400, 420, 450]
+            },
+            "pizza": {
+                "pizza_list": ["pizza de queso blanco", "pizza de queso blanco XL", "pizza de queso gouda", "pizza de queso gouda XL", "pizza de queso parmesano", "pizza de queso parmesano XL"],
+                "pizza_price": [280, 770, 320, 830, 350, 850]
+            },
+            "adds": {
+                "adds_list": ["queso blanco", "queso gouda", "queso parmesano", "cebolla", "pimiento", "piña", "camaron", "jamon", "chorizo", "bacon", "salchicha", "aceituna", "atun"],
+                "adds_price": [300, 320, 350, 200, 200, 200, 350, 200, 200, 200, 200, 300, 300]
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+            }
+        },
+        "popular_food": ["pizza"],
+        "popular_drink": ["cerveza", "refresco"],
+        "type_of_food": ["italiana", "criolla"],
+        "house_speciality": []
+    },
+    "social": {
+        "kids_seat": true,
+        "black out_alternatives": true,
+        "entertainment": [],
+        "peak_hour": ["almuerzo"],
+        "tourism": false,
+        "pets": false,
+        "bathroom": true,
+        "heated": false
+    }
+}
