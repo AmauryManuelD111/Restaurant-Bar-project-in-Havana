@@ -1,0 +1,157 @@
+{
+    "BeerParaCreer": {
+    
+        "Location": {
+    
+            "Address": "Centro comercial Falcon, Alamar",
+    
+            "Municipality": "Habana del Este",
+    
+            "Coordinates": "5P88+9X3"
+        },
+    
+        "Type": "Bar-Cafeteria",
+    
+        "Type_Of_Food": "Comida mixta",
+    
+        "sector": "Privado",
+    
+        "Hours": {
+    
+            "Monday": {"Open": "10:00", "Close": "21:00"},
+    
+            "Tuesday": {"Open": "10:00", "Close": "21:00"},
+    
+            "Wednesday": {"Open": "10:00", "Close": "21:00"},
+    
+            "Thursday": {"Open": "10:00", "Close": "21:00"},
+    
+            "Friday": {"Open": "10:00", "Close": "21:00"},
+    
+            "Saturday": {"Open": "10:00", "Close": "21:00"},
+    
+            "Sunday": {"Open": "10:00", "Close": "21:00"}
+        },
+        "Qualification": {
+    
+            "Tripadvisor": null,
+    
+            "Google Maps": null
+        },
+    
+        "Reservations": false,
+    
+        "Delivery": {
+    
+            "ServiceExistence": false,
+    
+            "DeliveryArea": null
+        },
+        "Phone": null,
+    
+        "AccountsOrWebsite": {
+    
+            "Facebook": null,
+    
+            "Instagram": null,
+    
+            "Website": null,
+    
+            "Email": null
+        },
+        "Payment": {
+    
+            "Method": ["Tarjeta", "Efectivo"],
+    
+            "AcceptedCurrencies": ["CUP", "USD", "EUR", "Otras"]
+        },
+        "Capacity": 15,
+        "Parking": true,
+        "Wifi": false,
+        "SmokingArea": true,
+        "MenuCard": {
+            "Starters": [
+    
+                {"Name": "Hamurguesa simple", "Price": 450},
+    
+                {"Name": "Hamburguesa especial", "Price": 550},
+    
+                {"Name": "Sandwich pinareno", "Price": 900},
+    
+                {"Name": "Croquetas del Chef", "Price": 650},
+    
+                {"Name": "Pan con lechon", "Price": 350},
+    
+                {"Name": "Sandwish cubano con lechon", "Price": 950}
+            ],
+            "MainCourse": [
+    
+                {"Name": "Fajitas de pollo", "Price": 850},
+    
+                {"Name": "Spaghettis napolitanos", "Price": 520},
+    
+                {"Name": "Arroz frito", "Price": 800},
+    
+                {"Name": "Masas de cerdo fritas", "Price": 1350},
+    
+                {"Name": "Ropa vieja de cerdo", "Price": 1400},
+    
+                {"Name": "Fricase de cerdo", "Price": 1400},
+    
+                {"Name": "Bistec de cerdo grille", "Price": 850},
+    
+                {"Name": "Bistec de cerdo Princesa", "Price": 1100},
+    
+                {"Name": "Milanesa de cerdo", "Price": 1100},
+                
+                {"Name": "Envoltino de cerdo", "Price": 1250},
+    
+                {"Name": "Lomo ahumado", "Price": 1000},
+    
+                {"Name": "Lonjas de cerdo asadas al carbon", "Price": 1300},
+    
+                {"Name": "Uruguayo de cerdo", "Price": 1150},
+    
+                {"Name": "Escalope de cerdo", "Price": 950},
+    
+                {"Name": "Gordon Blue de cerdo", "Price": 1250},
+    
+                {"Name": "Bistec de pollo grille", "Price": 850},
+    
+                {"Name": "Bistec de pollo gratinado", "Price": 1200},
+    
+                {"Name": "Fricase de pollo", "Price": 1400},
+    
+                {"Name": "Arroz a la chorrera", "Price": 1400},
+    
+                {"Name": "Pollo chiflado", "Price": 850},
+    
+                {"Name": "Pizza de queso blanco", "Price": 160},
+    
+                {"Name": "Pizza de queso gouda", "Price": 250}
+            ],
+            "Additionals": [
+    
+                {"Name": "Jamon", "Price": 100},
+    
+                {"Name": "Queso blanco", "Price": 80},
+    
+                {"Name": "Cebolla", "Price": 120},
+    
+                {"Name": "Chorizo", "Price": 100}
+            ],
+            "Siders": [
+    
+                {"Name": "Arroz blanco", "Price": 250},
+ 
+                {"Name": "Arroz moro", "Price": 180},
+ 
+                {"Name": "Vianda frita", "Price": 100},
+ 
+                {"Name": "Ensalada de vegetales", "Price": 80}
+            ],
+            "Drinks": null,
+            "Desserts": null
+        }
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "DonaCarmela": {
+        "Location": {
+          
+            "Address": "Casa #10, Comunidad 1, Complejo Morro Cabana, Via Monumental",
+          
+            "Municipality": "Habana del Este",
+          
+            "Coordinates": null
+        },
+        
+        "Type": "Bar-Restaurante",
+        
+        "Type_Of_Food": "Cocina criolla",
+        
+        "sector": "Privado",
+        
+        "Hours": {
+        
+            "Monday": {"Open": "12:00", "Close": "23:00"},
+        
+            "Tuesday": {"Open": "12:00", "Close": "23:00"},
+        
+            "Wednesday": {"Open": "12:00", "Close": "23:00"},
+        
+            "Thursday": {"Open": "12:00", "Close": "23:00"},
+        
+            "Friday": {"Open": "12:00", "Close": "23:00"},
+        
+            "Saturday": {"Open": "12:00", "Close": "23:00"},
+        
+            "Sunday": {"Open": "12:00", "Close": "23:00"}
+        },
+        
+        "Qualification": {
+        
+            "Tripadvisor": 3.5,
+        
+            "GoogleMaps": 3.4
+        },
+        "Reservations": true,
+        "Delivery": {
+        
+            "ServiceExistence": false,
+        
+            "DeliveryArea": null
+        },
+        "PhoneNumber": "78636048",
+        "AccountsOrWebsite": {
+        
+            "Facebook": null,
+        
+            "Instagram": null,
+        
+            "Website": null,
+        
+            "Email": null
+        },
+        "Payment": {
+        
+            "Method": ["Tarjeta", "Efectivo"],
+        
+            "AcceptedCurrencies": ["CUP", "USD", "EUR", "MLC"]
+        },
+        
+        "Capacity": 25,
+        
+        "Parking": true,
+        
+        "Wifi": false,
+        
+        "SmokingArea": true,
+        
+        "MenuCard": {
+            "Starters": [
+        
+                {"Name": "Frituras de malanga y miel", "Price": 600},
+        
+                {"Name": "Croquetas de la casa", "Price": 600},
+        
+                {"Name": "Caldo de pescado", "Price": 600},
+        
+                {"Name": "Caldo de pollo", "Price": 600},
+        
+                {"Name": "Caldo de mariscos", "Price": 700},
+        
+                {"Name": "Coctel de camarones", "Price": 1000},
+        
+                {"Name": "Coctel de pescado", "Price": 900},
+        
+                {"Name": "Pulpitos para picar", "Price": 1200}
+            ],
+            "MainCourse": [
+        
+                {"Name": "Pollo Asado", "Price": 1800},
+        
+                {"Name": "Pollo frito", "Price": 1800},
+        
+                {"Name": "Bistec de cerdo encebollado", "Price": 2200},
+        
+                {"Name": "Costillas fritas", "Price": 2400},
+        
+                {"Name": "Milanesa de cerdo", "Price": 2500},
+        
+                {"Name": "Ropa Vieja de cerdo", "Price": 2200},
+        
+                {"Name": "Filete de pescado grille", "Price": 2200},
+        
+                {"Name": "Filete de pescado gratinado", "Price": 2400},
+        
+                {"Name": "Camaron al ajillo", "Price": 2500},
+        
+                {"Name": "Camaron a la criolla", "Price": 2500},
+        
+                {"Name": "Pulpo al ajillo", "Price": 2700},
+        
+                {"Name": "Pulpo a la criolla", "Price": 2700},
+        
+                {"Name": "Combinacion Carmela", "Price": 4000},
+        
+                {"Name": "Cordero al gusto", "Price": 3000},
+        
+                {"Name": "Langosta al gusto", "Price": 6000},
+        
+                {"Name": "Mariscada", "Price": 6000}
+            ],
+            "Additionals": null,
+            "Siders": [
+        
+                {"Name": "Arroz blanco", "Price": 300},
+        
+                {"Name": "Arroz moro", "Price": 300},
+        
+                {"Name": "Ensalada mixta", "Price": 300},
+        
+                {"Name": "Frijoles negros", "Price": 300},
+        
+                {"Name": "Yuca", "Price": 300}
+            ],
+            "Drinks": [
+        
+                {"Name": "Cappuccino", "Price": 350},
+        
+                {"Name": "Cafe Cortado", "Price": 250},
+        
+                {"Name": "Cafe Expresso", "Price": 200},
+        
+                {"Name": "Cafe con leche", " Price": 300},
+        
+                {"Name": "Cervezas", "Price": 500},
+        
+                {"Name": "Refrescos nacionales", "Price": 350},
+        
+                {"Name": "Refrescos importados", "Price": 350},
+        
+                {"Name": "Agua natural de 500ml", "Price": 250},
+        
+                {"Name": "Agua natural de 1.5L", "Price": 600},
+        
+                {"Name": "Mojito natural", "Price": 700},
+        
+                {"Name": "Mojito de la casa", "Price": 900},
+        
+                {"Name": "Cuba Libre", "Price": 700},
+        
+                {"Name": "Sangria", "Price": 800},
+        
+                {"Name": "Cubata", "Price": 700},
+        
+                {"Name": "Pina Colada", "Price": 900},
+        
+                {"Name": "Daiquiri natural", "Price": 700},
+        
+                {"Name": "Daiquiri", "Price": 800}
+            ],
+            "Desserts": [
+        
+                {"Name": "Postre del dia", "Price": 1000}
+            ]
+        }
+    }
+}

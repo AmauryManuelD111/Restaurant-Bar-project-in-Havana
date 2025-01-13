@@ -1,0 +1,147 @@
+{
+    "AiresDeCojimar": {
+     
+        "Address": "Pezuela #3e05 entre RUA y Espartero, Cojimar",
+     
+        "Municipality": "Habana del Este",
+     
+        "Type": "Bar-Restaurante",
+     
+        "Type_Of_Food": "Comida mixta",
+     
+        "sector": "Privado",
+     
+        "Hours": {
+     
+            "Monday": {"Open": "12:00", "Close": "00:00"},
+     
+            "Tuesday": {"Open": "12:00", "Close": "00:00"},
+     
+            "Wednesday": {"Open": "12:00", "Close": "00:00"},
+     
+            "Thursday": {"Open": "12:00", "Close": "00:00"},
+     
+            "Friday": {"Open": "12:00", "Close": "00:00"},
+     
+            "Saturday": {"Open": "12:00", "Close": "00:00"},
+     
+            "Sunday": {"Open": "12:00", "Close": "00:00"}
+        },
+     
+        "Qualification": "4.5 (Tripadvisor) / 4.3 (Google Maps)",
+     
+        "Reservations": true,
+     
+        "Delivery": false,
+     
+        "Phone": "77666890 / 58385050",
+     
+        "AccountsOrWebsite": "aires_decojimar (Instagram) / Aires de Cojimar (Facebook)",
+     
+        "PaymentMethod": "Tarjeta o efectivo (MN)",
+     
+        "Capacity": 15,
+     
+        "Parking": true,
+     
+        "Wifi": false,
+     
+        "SmokingArea": true,
+     
+        "MenuCard": {
+            "Starters": [
+     
+                {"Name": "Coctel de pescado", "Price": 550},
+     
+                {"Name": "Ensalada mixta", "Price": 400},
+     
+                {"Name": "Picadera mixta", "Price": 1200},
+     
+                {"Name": "Coctel Bella Mar", "Price": 750},
+     
+                {"Name": "Ceviche Aires de Cojimar", "Price": 850},
+     
+                {"Name": "Lomo de pescado en escabeche", "Price": 950},
+     
+                {"Name": "Bolitas de queso", "Price": 550},
+     
+                {"Name": "Eperlan", "Price": 950},
+     
+                {"Name": "Frituras de malanga", "Price": 550},
+     
+                {"Name": "Tapas caprichosas", "Price": 425},
+     
+                {"Name": "Surtido de croquetas", "Price": 450},
+     
+                {"Name": "Tostones al ajo", "Price": 350},
+     
+                {"Name": "Sopon de mariscos", "Price": 750},
+     
+                {"Name": "Sopa de pollo y vegetales", "Price": 550},
+     
+                {"Name": "Crema de calabaza y queso", "Price": 500},
+     
+                {"Name": "Crema de queso", "Price": 500},
+     
+                {"Name": "Crema de mariscos", "Price": 600}
+            ],
+            "MainCourse": [
+     
+                {"Name": "Costillas de cerdo fritas", "Price": 1950},
+     
+                {"Name": "Arroz con camarones", "Price": 1450},
+     
+                {"Name": "Milanesa a la napolitana", "Price": 1450},
+     
+                {"Name": "Uruguayo de cerdo", "Price": 1750},
+     
+                {"Name": "Camaron al ajillo", "Price": 1550},
+     
+                {"Name": "Langosta Varadero", "Price": 1950},
+     
+                {"Name": "Langosta Busito", "Price": 2000},
+     
+                {"Name": "Langosta Aires de Cojimar", "Price": 5500},
+     
+                {"Name": "Pulpo al vino tinto", "Price": 2850},
+     
+                {"Name": "Pulpo al ajillo", "Price": 2850},
+     
+                {"Name": "Filete de pescado grille", "Price": 1250},
+     
+                {"Name": "Filete de pescado en salsa de romero y limon", "Price": 1350},
+     
+                {"Name": "Filete de pescado con camarones al graten", "Price": 1650},
+     
+                {"Name": "Filete de pescado Canciller", "Price": 1650},
+     
+                {"Name": "Camarones tropicales", "Price": 1550},
+     
+                {"Name": "Enchilado de camarones", "Price": 1450},
+     
+                {"Name": "Camarones al sesamo", "Price": 1450},
+     
+                {"Name": "Caldereta Dona Blanca", "Price": 3500},
+     
+                {"Name": " Dados de cerdo a la cojimera", "Price": 1400},
+     
+                {"Name": "Bistec de cerdo al mojo criollo", "Price": 1400},
+     
+                {"Name": "Pollo con camarones al graten", "Price": 1450},
+     
+                {"Name": "Pollo Hawaiano", "Price": 1150},
+     
+                {"Name": "Sabor del cielo", "Price": 1550}
+            ],
+            "Siders": [
+     
+                {"Type": "Ensalada mixta", "Price": 400}
+            ],
+            "Drinks": null,
+            "Desserts": [
+     
+                {"Name": "Dulces finos", "Price": 450}
+            ]
+        }
+    }
+}

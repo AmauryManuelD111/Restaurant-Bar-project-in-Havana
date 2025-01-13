@@ -1,0 +1,110 @@
+{
+    "LosDoceApostoles": {
+        "Address": "Complejo Morro Cabana, Via Monumental",
+        "Municipality": "Habana Del Este",
+        "type": "Bar-Restaurant",
+        "type_Of_Food": "Criolla",
+        "Property": "Estatal",
+        "Hours": {
+        
+            "Monday": {"Open": "12:00", "Close": "24:00"},
+        
+            "Tuesday": {"Open": "12:00", "Close": "24:00"},
+        
+            "Wednesday": {"Open": "12:00", "Close": "24:00"},
+        
+            "Thursday": {"Open": "12:00", "Close": "24:00"},
+        
+            "Friday": {"Open": "12:00", "Close": "24:00"},
+        
+            "Saturday": {"Open": "12:00", "Close": "24:00"},
+        
+            "Sunday": {"Open": "12:00", "Close": "24:00"}
+        },
+        
+        "Qualification": "3.5 (Tripadvisor) / 3.7 (Google Maps)",
+        
+        "Reservations": true,
+        
+        "Delivery": false,
+        
+        "DeliveryArea": "False",
+        
+        "Phone": "77937733",
+        
+        "AccountsOrWebsite": "Restaurante Doce Apostoles (Facebook)",
+        
+        "PaymentMethod": "Tarjeta (MN o MLC)",
+        
+        "Capacity": 60,
+        
+        "Parking": true,
+        
+        "Wifi": false,
+        
+        "SmokingArea": true,
+        
+        "MenuCard": {
+            "Starters": [
+        
+                {"Name": "Entremes de jamon y queso", "Price": 400},
+        
+                {"Name": "Eperlan de pescado", "Price": 550},
+        
+                {"Name": "Anillas de calamar", "Price": 550},
+        
+                {"Name": "Alitas de pollo", "Price": 450},
+        
+                {"Name": "Nuggets de pollo", "Price": 250},
+        
+                {"Name": "Picadera especial", "Price": 600}
+            ],
+            "MainCourse": [
+        
+                {"Name": "Pollo grille", "Price": 700},
+        
+                {"Name": "Fajitas de res", "Price": 950},
+        
+                {"Name": "Steak de res", "Price": 950},
+        
+                {"Name": "Fajitas de cerdo", "Price": 800},
+        
+                {"Name": "Masas de cerdo", "Price": 900},
+        
+                {"Name": "Filete de pescado", "Price": 900},
+        
+                {"Name": "Pescado del Chef", "Price": 1100},
+        
+                {"Name": "Gambas al grill", "Price": 1200}
+            ],
+            "Siders": null,
+            "Drinks": [
+        
+                {"name": "Cerveza dispensada", "Price": 190},
+        
+                {"name": "Cerveza importada", "Price": 220},
+        
+                {"name": "Cerveza nacional", "Price": 215},
+        
+                {"name": "Maltas", "Price": 210},
+        
+                {"name": "Maltina Perla Negra", "Price": 180},
+        
+                {"name": "Jugo natural en caja", "Price": 300},
+        
+                {"name": "Refrescos nacionales", "Price": 280},
+        
+                {"name": "Vino tinto (copa)", "Price": 200},
+        
+                {"name": "Ron Habana Club Anejo Blanco (shot)", "Price": 80},
+        
+                {"name": "Ron Habana Club profundo (shot)", "Price": 160},
+        
+                {"name": "Ron Habana Club Selección de Maestro (shot)", "Price": 350},
+        
+                {"name": "Ron Cubay carta blanca (shot)", "Price": 100}
+            ],
+            "Desserts": null
+        }
+    }
+}
