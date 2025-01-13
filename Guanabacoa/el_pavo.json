@@ -1,0 +1,172 @@
+{
+    "ElPavo": {
+    
+        "Municipality": "Guanabacoa",
+    
+        "name": "Restaurante El Pavo",
+    
+        "type_of_food": ["criolla", "italiana"],
+    
+        "mobile": "58222469",
+    
+        "landline": "77976432"         
+    },
+  
+    "Hours": {
+  
+        "Monday": {"Open": "12:00", "Close": "23:00"},
+  
+        "Tuesday": {"Open": "12:00", "Close": "23:00"},
+  
+        "Wednesday": {"Open": "12:00", "Close": "23:00"},
+  
+        "Thursday": {"Open": "12:00", "Close": "23:00"},
+  
+        "Friday": {"Open": "12:00", "Close": "23:00"},
+  
+        "Saturday": {"Open": "12:00", "Close": "23:00"},
+  
+        "Sunday": {"Open": "12:00", "Close": "23:00"}
+    },
+        "Quality": {
+        
+            "QualificationGoogle": 4.3,
+        
+            "QualificationTripadvisor": 4.5,
+        
+            "QualificationFacebook": 3.9
+        },
+        
+        "Reservations": true,
+        
+        "SocialNetworks": ["Facebook", "WhatsApp", "Instagram"],
+        
+        "PaymentOptions": ["Transfermovil", "Efectivo"],
+        
+        "ServiceDetails": ["A domicilio"],
+        
+        "Menu": {
+        
+            "Starters": [
+        
+                {"Name": "Ensalada Fria de Jamon", "Price": 450},
+        
+                {"Name": "Ensalada Fria de Atun", "Price": 500},
+        
+                {"Name": "Croquetas", "Price": 200},
+        
+                {"Name": "Fajitas", "Price": 500},
+        
+                {"Name": "Toston relleno de Jamon", "Price": 450},
+        
+                {"Name": "Toston relleno de Atun", "Price": 450},
+        
+                {"Name": "Costillas", "Price": 800},
+        
+                {"Name": "Coctel de Camaron", "Price": 700},
+        
+                {"Name": "Garbanzo Frito", "Price": 400},
+        
+                {"Name": "Eperlan", "Price": 600},
+        
+                {"Name": "Entremes", "Price": 800}
+            ],
+            "MainCourses": [
+        
+                {"Name": "Pollo Grille", "Price": 1100},
+        
+                {"Name": "Masa de Cerdo", "Price": 1600},
+        
+                {"Name": "Cerdo a la Milanesa", "Price": 1400},
+        
+                {"Name": "Bistec de Cerdo", "Price": 1300},
+        
+                {"Name": "Bistec de Res", "Price": 1300},
+        
+                {"Name": "Ropa Vieja", "Price": 1600},
+        
+                {"Name": "Camarones Enchilados", "Price": 1300},
+        
+                {"Name": "Camarones al Ajillo", "Price": 1300},
+        
+                {"Name": "Camarones Grille", "Price": 1200},
+        
+                {"Name": "Camarones Rebosados", "Price": 1300},
+        
+                {"Name": "Enchilado de Langosta", "Price": 1400},
+        
+                {"Name": "Langosta Grille", "Price": 1300},
+        
+                {"Name": "Pescado Grille", "Price": 1400},
+        
+                {"Name": "Marinada al Pavo", "Price": 2500}
+            ],
+            "Pizzas": [
+             
+                {"Name": "Pizza Napolitana", "Price": 600},
+             
+                {"Name": "Pizza de Vegetales", "Price": 650},
+             
+                {"Name": "Pizza de Jamon", "Price": 800},
+              
+                {"Name": "Pizza de Chorizo", "Price": 800},
+              
+                {"Name": "Pizza Hawaiana", "Price": 850},
+              
+                {"Name": "Pizza de Carne", "Price": 800},
+              
+                {"Name": "Pizza de Camarones", "Price": 1000},
+             
+                {"Name": "Pizza Especial 'El Pavo'", "Price": 1500}
+            ],
+            "Pasta": [
+              
+                {"Name": "Espaguetis Napolitano", "Price": 600},
+              
+                {"Name": "Espaguetis con Jamon", "Price": 800},
+              
+                {"Name": "Espaguetis Bolonesa", "Price": 800},
+              
+                {"Name": "Espaguetis con Camarones", "Price": 1000},
+ 
+                {"Name": "Espaguetis con Atun", "Price": 950},
+              
+               
+                {"Name": "Espaguetis con Bacon", "Price": 800},
+             
+                {"Name": "Lasagna de Jamon", "Price": 800},
+             
+                {"Name": "Lasagna de Carne", "Price": 900}
+            ],
+            "Desserts": [
+            
+                {"Name": "Flan de Leche", "Price": 180}
+            ]
+        },
+        "Drinks": {
+            "Alcoholic": [
+             
+                {"Name": "Cerveza Nacional", "Price": 250},
+             
+                {"Name": "Cerveza Nacional", "Price": 200},
+             
+                {"Name": "Cerveza Corona", "Price": 300}
+            ],
+            "NonAlcoholic": [
+              
+                {"Name": "Agua Natural", "Price": 180},
+              
+                {"Name": "Agua Gaseada", "Price": 180},
+              
+                {"Name": "Refresco Nacional", "Price": 225},
+              
+                {"Name": "Refresco Importado", "Price": 260},
+              
+                {"Name": "Malta Importada", "Price": 225},
+              
+                {"Name": "Malta HyperMalt", "Price": 260},
+              
+                {"Name": "Jugo(Cajita)", "Price": 180}
+            ]
+        }
+    }

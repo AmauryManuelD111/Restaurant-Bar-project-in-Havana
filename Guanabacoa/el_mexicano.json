@@ -1,0 +1,107 @@
+{
+    "ElMexicano": {
+        "Location": {
+      
+            "Municipality": "Guanabacoa",
+      
+            "address": "Avenida Quinta, La Habana, Cuba"
+        },
+      
+        "Name": "El Mexicano",
+      
+        "Type_Of_Food": ["pizzas", "pastas"],
+      
+        "Hours": {
+      
+            "Monday": {"Open": "10:00", "Close": "22:00"},
+      
+            "Tuesday": {"Open": "10:00", "Close": "22:00"},
+      
+            "Wednesday": {"Open": "10:00", "Close": "22:00"},
+      
+            "Thursday": {"Open": "10:00", "Close": "22:00"},
+      
+            "Friday": {"Open": "10:00", "Close": "22:00"},
+      
+            "Saturday": {"Open": "10:00", "Close": "22:00"},
+      
+            "Sunday": {"Open": "10:00", "Close": "22:00"}
+        },
+        "Quality": {
+      
+            "QualificationGoogle": 4.7,
+      
+            "QualificationTripadvisor": null,
+      
+            "QualificationFacebook": null
+        },
+      
+        "Reservations": false,
+      
+        "SocialNetworks": [null],
+      
+        "PaymentOptions": ["Efectivo"],
+      
+        "ServiceDetails": ["A la carta"],
+      
+        "Menu": {
+      
+            "Starters": [null],
+      
+            "MainCourses": [
+      
+                {"Name": "Sandwich de Jamon y Queso", "Price": 350},
+      
+                {"Name": "Sandwich de Queso Jamon Especial", "Price": 600}
+            ],
+            "Pizzas": [
+      
+                {"Name": "Pizza Queso Gouda", "Price": 450}
+            ],
+            "Pasta": [
+            
+                {"Name": "Spaguetti Queso Gouda", "Price": 770}
+            ],
+            "Desserts": [null]
+        },
+        
+        "Drinks": {
+          
+            "AlcoholicDrinks": [
+           
+                {"Name": "Cerveza", "Price": 200},
+           
+                {"Name": "Holandia", "Price": 200},
+           
+                {"Name": "Cristal Lata", "Price": 250},
+           
+                {"Name": "Cristal Botella", "Price": 200},
+           
+                {"Name": "Shaka", "Price": 350}
+            ],
+            
+            "NonAlcoholic": [
+            
+                {"Name": "Tigon", "Price": 300},
+            
+                {"Name": "Malta 1 Hyper", "Price": 270},
+            
+                {"Name": "Pepsi", "Price": 270},
+            
+                {"Name": "Mirinda", "Price": 280},
+            
+                {"Name": "Perla negra", "Price": 270},
+            
+                {"Name": "Ironbeer", "Price": 240},
+            
+                {"Name": "Orange", "Price": 220},
+            
+                {"Name": "Cola Polo", "Price": 220},
+            
+                {"Name": "Limon", "Price": 220},
+            
+                {"Name": "Coca Cola", "Price": 280}
+            ]
+        }
+    }
+}
