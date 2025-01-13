@@ -1,0 +1,133 @@
+{
+    "municipality": "Centro Habana",
+    "name": "Salchipizza",
+    "type_of_food": ["cubana"],
+    "hours": {
+        "monday": {
+            "open": false,
+            "close": false
+        },
+        "tuesday": {
+            "open": "13:00",
+            "close": "23:00"
+        },
+        "wednesday": {
+            "open": "13:00",
+            "close": "23:00"
+        },
+        "thursday": {
+            "open": "13:00",
+            "close": "23:00"
+        },
+        "friday": {
+            "open": "13:00",
+            "close": "23:00"
+        },
+        "saturday": {
+            "open": "13:00",
+            "close": "23:00"
+        },
+        "sunday": {
+            "open": false,
+            "close": false
+        }
+    },
+    "qualification": 4.2,
+    "reservation_options": true,
+    "social_networks": ["Instagram", "Facebook", "WhatsApp"],
+    "payment_options": ["Efectivo", "Transfermovil"],
+    "service_details": ["A la carta", "A domicilio"],
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "tabla de panes artesanales",
+                    "price": 1500
+                },
+                {
+                    "name": "terrina de pescado",
+                    "price": 2700
+                },
+                {
+                    "name": "tinaja de carbon con crema Parmentier de verduras de estacion",
+                    "price": 2500
+                },
+                {
+                    "name": "ensalada de cerdo guayaba y fruta bomba",
+                    "price": 2000
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "carreton de boniato, rueda de quimbombo y latigo de carnero ahumado",
+                    "price": 3000
+                },
+                {
+                    "name": "volcan de maiz, lava de pescado ardiente y cenizas de pulpo",
+                    "price": 3500
+                },
+                {
+                    "name": "masa de cerdo con verduras al gratin",
+                    "price": 2300
+                },
+                {
+                    "name": "lasana de carne a la bolonesa",
+                    "price": 1600
+                },
+                {
+                    "name": "senorita de cerdo con verduras al gratin",
+                    "price": 3000
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": {
+            "items": [
+                {
+                    "name": "recuerdos de la infancia",
+                    "price": 2000
+                }
+            ]
+        },
+        "drinks": {
+            "water": [
+                {
+                    "name": "agua",
+                    "price": 200
+                }
+            ],
+            "soft_drinks": false,
+            "juices": false,
+            "smoothie": false,
+            "ice_cream_shake": false,
+            "alcoholic": [
+                {
+                    "name": "copa de vino",
+                    "price": 750
+                },
+                {
+                    "name": "copa de champagne",
+                    "price": 800
+                },
+                {
+                    "name": "cerveza nacional",
+                    "price": 350
+                },
+                {
+                    "name": "cerveza importada",
+                    "price": 400
+                }
+            ],
+            "coffee": [
+                {
+                    "name": "cafe",
+                    "price": 150
+                }
+            ]
+        },
+        "special_offers": null
+    }
+}

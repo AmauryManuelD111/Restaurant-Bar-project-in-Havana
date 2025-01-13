@@ -1,0 +1,114 @@
+{
+    "municipality": "Centro Habana",
+    "name": "Hamburgo",
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": false
+    },
+    "hours": {
+        "monday": {
+            "open": "09:00",
+            "close": "19:00"
+        },
+        "tuesday": {
+            "open": "09:00",
+            "close": "19:00"
+        },
+        "wednesday": {
+            "open": "09:00",
+            "close": "19:00"
+        },
+        "thursday": {
+            "open": "09:00",
+            "close": "19:00"
+        },
+        "friday": {
+            "open": "09:00",
+            "close": "19:00"
+        },
+        "saturday": {
+            "open": "09:00",
+            "close": "19:00"
+        },
+        "sunday": {
+            "open": "09:00",
+            "close": "19:00"
+        }
+    },
+    "qualification": null,
+    "type_of_food": ["americana"],
+    "services": {
+        "plant": false,
+        "child_care": true,
+        "disable_support": true,
+        "parking": true,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": false,
+        "main_courses": {
+            "items": [
+                {
+                    "name": "hamburguesa de cerdo (220g)",
+                    "price": 275
+                },
+                {
+                    "name": "hamburguesa de res (220g)",
+                    "price": 275
+                },
+                {
+                    "name": "hamburguesa vegetal con aderezos (235g)",
+                    "price": 300
+                },
+                {
+                    "name": "super hamburguesa (435g)",
+                    "price": 550
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "queso gouda (50g)",
+                    "price": 150
+                },
+                {
+                    "name": "jamon bravo (50g)",
+                    "price": 120
+                },
+                {
+                    "name": "jamon serrano (50g)",
+                    "price": 250
+                },
+                {
+                    "name": "aceitunas (50g)",
+                    "price": 120
+                },
+                {
+                    "name": "vegetales encurtidos (50g)",
+                    "price": 80
+                },
+                {
+                    "name": "papas fritas (50g)",
+                    "price": 75
+                },
+                {
+                    "name": "papas fritas (100g)",
+                    "price": 150
+                }
+            ]
+        },
+        "desserts": false,
+        "drinks": null,
+        "special_offers": false
+    }
+}
