@@ -1,0 +1,7837 @@
+"municipality":"arroyo naranjo"
+
+"name": "Atlanta",
+
+"hours": {
+
+  "monday": {"open": "10:00", "close": "22:00"},
+
+  "tuesday": {"open": "10:00", "close": "22:00"},
+
+  "wednesday": {"open": "10:00", "close": "22:00"},
+
+  "friday": {"open": "10:00", "close": "22:00"},
+
+  "saturday": {"open": "10:00", "close": "22:00"},
+
+  "sunday": {"open": "10:00", "close": "22:00"}
+
+
+
+  "name": "Casa del Maiz",
+    
+  "address": "Avenida 1er anillo / Calzada de Managua y San Agustin, Arroyo Naranjo",
+  
+  "hours": {
+  
+    "monday": {"open": "10:00", "close": "20:00"},
+  
+    "tuesday": {"open": "10:00", "close": "20:00"},
+  
+    "wednesday": {"open": "10:00", "close": "20:00"},
+  
+    "thursday": {"open": "10:00", "close": "20:00"},
+  
+    "friday": {"open": "10:00", "close": "20:00"},
+  
+    "saturday": {"open": "10:00", "close": "20:00"},
+  
+    "sunday": {"open": "10:00", "close": "20:00"}
+
+
+    "name": "Comida Criolla Ocho Vias",
+  
+    "address": "Avenida 1er Anillo 3km despues de San Agustin, Arroyo Naranjo",
+    
+    "hours": {
+    
+      
+        "monday": {"open": "11:00", "close": "23:00"},
+      
+        "tuesday": {"open": "11:00", "close": "23:00"},
+      
+        "wednesday": {"open": "11:00", "close": "23:00"},
+      
+        "thursday": {"open": "11:00", "close": "23:00"},
+      
+        "friday": {"open": "11:00", "close": "23:00"},
+      
+        "saturday": {"open": "11:00", "close": "23:00"},
+      
+        "sunday": {"open": "11:00", "close": "23:00"}
+      },
+
+      "name": "Divino",
+
+  "hours": {
+      "Friday": {
+          "open": "12:00",
+          "close": "22:00"
+      },
+      "Saturday": {
+          "open": "12:00",
+          "close": "22:00"
+      },
+      "Sunday": {
+          "open": "12:00",
+          "close": "22:00"
+      }
+  },
+
+
+  "name": "don burguer",
+  
+  
+  "hours": {
+  
+    "monday": {"open": "10:00", "close": "23:00"},
+  
+    "tuesday": {"open": "10:00", "close": "23:00"},
+  
+    "wednesday": {"open": "10:00", "close": "23:00"},
+  
+    "thursday": {"open": "10:00", "close": "23:00"},
+  
+    "friday": {"open": "10:00", "close": "23:00"},
+  
+    "saturday": {"open": "10:00", "close": "23:00"},
+  
+    "sunday": {"open": "10:00", "close": "23:00"}
+    },
+
+  "name": "dona almira",
+    
+    
+    "hours": {
+    
+      "monday": {"open": null, "close": null},
+    
+      "tuesday": {"open": null, "close": null},
+    
+      "wednesday": {"open": null, "close": null},
+    
+      "thursday": {"open": "12:00", "close": "23:00"},
+    
+      "friday": {"open": "12:00", "close": "23:00"},
+    
+      "saturday": {"open": "12:00", "close": "23:00"},
+    
+      "sunday": {"open": "12:00", "close": "23:00"}
+    },  
+
+    "name": "el triangulo",
+    
+    "hours": {
+    
+      "monday": {"open": "08:00", "close": "24:00"},
+    
+      "tuesday": {"open": "08:00", "close": "24:00"},
+    
+      "wednesday": {"open": "08:00", "close": "24:00"},
+    
+      "thursday": {"open": "08:00", "close": "24:00"},
+    
+      "friday": {"open": "08:00", "close": "24:00"},
+    
+      "saturday": {"open": "08:00", "close": "24:00"},
+    
+      "sunday": {"open": "08:00", "close": "24:00"}
+      },
+
+     
+      "name": "fiesta criolla",
+  
+  "hours": {
+  
+    "monday": {"open": "12:00", "close": "24:00"},
+  
+    "tuesday": {"open": "12:00", "close": "24:00"},
+  
+    "wednesday": {"open": "12:00", "close": "24:00"},
+  
+    "thursday": {"open": "12:00", "close": "24:00"},
+  
+    "friday": {"open": "12:00", "close": "24:00"},
+  
+    "saturday": {"open": "12:00", "close": "24:00"},
+  
+    "sunday": {"open": "12:00", "close": "24:00"}
+
+
+      
+  "name": "pizzeria los atrevidos",
+  
+  "hours": {
+  
+    "monday": {"open": "10:00", "close": "21:00"},
+  
+    "tuesday": {"open": "10:00", "close": "21:00"},
+  
+    "wednesday": {"open": "10:00", "close": "21:00"},
+  
+    "thursday": {"open": "10:00", "close": "21:00"},
+  
+    "friday": {"open": "10:00", "close": "21:00"},
+  
+    "saturday": {"open": "10:00", "close": "21:00"},
+  
+    "sunday": {"open": "10:00", "close": "21:00"}
+    },
+
+
+    "name": "los caneyes",
+  
+  "hours": {
+  
+    "monday": {"open": "12:00", "close": "23:00"},
+  
+    "tuesday": {"open": "12:00", "close": "23:00"},
+  
+    "wednesday": {"open": "12:00", "close": "23:00"},
+  
+    "thursday": {"open": "12:00", "close": "23:00"},
+  
+    "friday": {"open": "12:00", "close": "23:00"},
+  
+    "saturday": {"open": "12:00", "close": "23:00"},
+  
+    "sunday": {"open": "12:00", "close": "23:00"}
+    },
+
+    "name": "magic's cream & burguer",
+  
+  "address": "calzada de 10 de octubre, % santa amalia y arnao, arroyo naranjo",
+  
+  "hours": {
+  
+    "monday": {"open": "11:00", "close": "22:00"},
+  
+    "tuesday": {"open": "11:00", "close": "22:00"},
+  
+    "wednesday": {"open": "11:00", "close": "22:00"},
+  
+    "thursday": {"open": "11:00", "close": "22:00"},
+  
+    "friday": {"open": "11:00", "close": "22:00"},
+  
+    "saturday": {"open": "11:00", "close": "22:00"},
+  
+    "sunday": {"open": "11:00", "close": "22:00"}
+  },
+
+  "municipality":"Boyeros"
+  
+  "name": "abuelo de oro",
+  
+  "hours": {
+  
+    "monday": {"open": "12:00", "close": "24:00"},
+  
+    "tuesday": {"open": "12:00", "close": "24:00"},
+  
+    "wednesday": {"open": "12:00", "close": "24:00"},
+  
+    "thursday": {"open": "12:00", "close": "24:00"},
+  
+    "friday": {"open": "12:00", "close": "24:00"},
+  
+    "saturday": {"open": "12:00", "close": "24:00"},
+  
+    "sunday": {"open": "12:00", "close": "24:00"}
+    },
+
+      
+  "name": "altahabana_club",
+  
+  
+  "hours": {
+  
+    "monday": {"open": "14:00", "close": "02:00"},
+  
+    "tuesday": {"open": "14:00", "close": "02:00"},
+  
+    "wednesday": {"open": "14:00", "close": "02:00"},
+  
+    "thursday": {"open": "14:00", "close": "02:00"},
+  
+    "friday": {"open": "14:00", "close": "02:00"},
+  
+    "saturday": {"open": "14:00", "close": "02:00"},
+  
+    "sunday": {"open": "14:00", "close": "02:00"}
+    },
+
+
+    "name": "cafe tilin",
+  
+    
+    "hours": {
+    
+      "monday": {"open": null, "close": null},
+    
+      "tuesday": {"open": "11:00", "close": "22:00"},
+    
+      "wednesday": {"open": "11:00", "close": "22:00"},
+    
+      "thursday": {"open": "11:00", "close": "22:00"},
+    
+      "friday": {"open": "11:00", "close": "22:00"},
+    
+      "saturday": {"open": "11:00", "close": "22:00"},
+    
+      "sunday": {"open": "11:00", "close": "22:00"}
+      },
+
+      {
+        "name": "dominica like",
+        
+        "hours": {
+         
+          "monday": {"open": "12:00", "close": "24:00"},
+         
+          "tuesday": {"open": "12:00", "close": "24:00"},
+         
+          "wednesday": {"open": "12:00", "close": "24:00"},
+         
+          "thursday": {"open": "12:00", "close": "24:00"},
+         
+          "friday": {"open": "12:00", "close": "24:00"},
+         
+          "saturday": {"open": "12:00", "close": "24:00"},
+         
+          "sunday": {"open": "12:00", "close": "24:00"}
+        },
+
+        "name": "ranchon el pinareno",
+  
+  "hours": {
+  
+    "monday": {"open": "11:00", "close": "23:00"},
+  
+    "tuesday": {"open": "11:00", "close": "23:00"},
+  
+    "wednesday": {"open": "11:00", "close": "23:00"},
+  
+    "thursday": {"open": "11:00", "close": "23:00"},
+  
+    "friday": {"open": "11:00", "close": "23:00"},
+  
+    "saturday": {"open": "11:00", "close": "23:00"},
+  
+    "sunday": {"open": "11:00", "close": "23:00"}
+
+
+    "municipality": "boyeros",
+  
+  "info": {
+  
+    "type": "entabla2",
+  
+    "location": {
+  
+      "address": "carretera terminal 2, aeropuerto internacional j. marti",
+  
+      "barrio": "calixto sanchez"
+      },
+    
+      "hours": {
+    
+        "monday": {"open": "07:00", "close": "22:00"},
+     
+        "tuesday": {"open": "07:00", "close": "22:00"},
+     
+        "wednesday": {"open": "07:00", "close": "22:00"},
+      
+        "thursday": {"open": "07:00", "close": "22:00"},
+       
+        "friday": {"open": "07:00", "close": "22:00"},
+       
+        "saturday": {"open": "07:00", "close": "22:00"},
+       
+        "sunday": {"open": "07:00", "close": "22:00"}
+
+
+        "name": "kmpary",
+   
+    "address": "calle 184, #28511, e/ 285 a y 289, baluarte, boyeros",
+   
+    "hours": {
+   
+      "monday": {"open": "22:00", "close": "05:00"},
+    
+      "tuesday": {"open": "22:00", "close": "05:00"},
+    
+      "wednesday": {"open": "22:00", "close": "05:00"},
+    
+      "thursday": {"open": "22:00", "close": "05:00"},
+    
+      "friday": {"open": "22:00", "close": "05:00"},
+    
+      "saturday": {"open": "22:00", "close": "05:00"},
+    
+      "sunday": {"open": "22:00", "close": "05:00"}
+    },
+
+
+    {
+        "place": "tanokura",
+       
+        "location": {
+       
+          "address": "calle 403, esquina de av rancho boyeros y calle b, santiago de las vegas",
+       
+          "municipality": "boyeros"
+        },
+       
+        "type": "restaurante",
+       
+        "type_of_food": "comida mixta",
+       
+        "sector": "privado",
+       
+        "hours": {
+       
+          "monday": {"open": "11:00", "close": "23:00"},
+       
+          "tuesday": {"open": "11:00", "close": "23:00"},
+       
+          "wednesday": {"open": "11:00", "close": "23:00"},
+       
+          "thursday": {"open": "11:00", "close": "23:00"},
+       
+          "friday": {"open": "11:00", "close": "23:00"},
+       
+          "saturday": {"open": "11:00", "close": "23:00"},
+       
+          "sunday": {"open": "11:00", "close": "23:00"}
+        },
+
+
+        {
+   
+            "name": "the place",
+            
+            "address": "calle 100, pasando aldabo, boyeros",
+            
+            "hours": {
+            
+              "monday": {"open": "08:00", "close": "03:00"},
+            
+              "tuesday": {"open": "08:00", "close": "03:00"},
+            
+              "wednesday": {"open": "08:00", "close": "03:00"},
+            
+              "thursday": {"open": "08:00", "close": "03:00"},
+            
+              "friday": {"open": "08:00", "close": "03:00"},
+            
+              "saturday": {"open": "08:00", "close": "03:00"},
+            
+              "sunday": {"open": "08:00", "close": "03:00"}
+              },
+  
+              {
+                "name": "venavento",
+               
+                "address": "calle 10, esq. vento, boyeros",
+               
+                "hours": {
+               
+                  "monday": {"open": "12:00", "close": "24:00"},
+               
+                  "tuesday": {"open": "12:00", "close": "24:00"},
+               
+                  "wednesday": {"open": "12:00", "close": "24:00"},
+               
+                  "thursday": {"open": "12:00", "close": "24:00"},
+               
+                  "friday": {"open": "12:00", "close": "24:00"},
+               
+                  "saturday": {"open": "12:00", "close": "24:00"},
+               
+                  "sunday": {"open": "12:00", "close": "24:00"}
+                },
+
+
+                "municipality":"centro habana"
+                {
+                    "type_of_establishment": "bar - restaurante",
+                    "name": "Bone'Ma 62",
+                    "address": {
+                        "municipality": "Centro Habana",
+                        "address": "Calle 4 entre 15 y 17, Vedado"
+                    },
+                    "contact": {
+                        "phone_number": "78602134",
+                        "e-mail": false,
+                        "web_page": false,
+                        "whatsapp": "53470440",
+                        "facebook": "Bone Ma 62",
+                        "instagram": "@bonema_62"
+                    },
+                    "hours": {
+                        "monday": { "open": "09:00", "close": "24:00" },
+                        "tuesday": { "open": "09:00", "close": "24:00" },
+                        "wednesday": { "open": "09:00", "close": "24:00" },
+                        "thursday": { "open": "09:00", "close": "24:00" },
+                        "friday": { "open": "09:00", "close": "24:00" },
+                        "saturday": { "open": "09:00", "close": "24:00" },
+                        "sunday": { "open": "09:00", "close": "24:00" }
+                    },
+                    
+                    
+                    "name": "Buenissimo heladeria",
+    "address": {
+        "municipality": "Centro Habana",
+        "address": "Calle 4 entre 15 y 17, Vedado"
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": "https://buennissimo.com/",
+        "whatsapp": "54047156",
+        "facebook": false,
+        "instagram": "@buenissimo.heladeria"
+    },
+    "hours": {
+        "monday": { "open": "09:30", "close": "23:00" },
+        "tuesday": { "open": "09:30", "close": "23:00" },
+        "wednesday": { "open": "09:30", "close": "23:00" },
+        "thursday": { "open": "09:30", "close": "23:00" },
+        "friday": { "open": "09:30", "close": "24:00" },
+        "saturday": { "open": "09:30", "close": "24:00" },
+        "sunday": { "open": "09:30", "close": "24:00" }
+
+
+        "name": "Cafe Bulevar",
+        "address": {
+            "municipality": "Centro Habana",
+            "address": "Calle 4 entre 15 y 17, Vedado"
+        },
+        "contact": {
+            "phone_number": false,
+            "e-mail": false,
+            "web_page": false,
+            "whatsapp": false,
+            "facebook": false,
+            "instagram": false
+        },
+        "hours": {
+            "monday": { "open": "11:00", "close": "23:00" },
+            "tuesday": { "open": "11:00", "close": "23:00" },
+            "wednesday": { "open": "11:00", "close": "23:00" },
+            "thursday": { "open": "11:00", "close": "23:00" },
+            "friday": { "open": "11:00", "close": "23:00" },
+            "saturday": { "open": "11:00", "close": "23:00" },
+            "sunday": { "open": "11:00", "close": "23:00" }
+
+
+            "municipality": "Centro Habana",
+    "name": "Cohmar Cafe",
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "63683372",
+        "facebook": false,
+        "instagram": "@comhar_cafe"
+    },
+    "hours": {
+        "monday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "tuesday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "wednesday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "thursday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "friday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "saturday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "22:00"
+        }
+
+
+        "name": "Dona Alicia",
+        "address": "Reina esquina Belascoaín",
+        "contacts": {
+            "phone": [
+                "78666009"
+            ],
+            "website": "app.daalicia.com",
+            "facebook": "RestauranteDaAlicia",
+            "instagram": "restaurantedaalicia"
+        },
+        "qualification": {
+            "google": 4.4,
+            "tripadvisor": 5
+        },
+        "owner": "Particular",
+        "type_of_establishment": "Bar-Restaurante",
+        "type_of_food": "Comida Caribena",
+        "hours": {
+            "monday": { "open": "12:00", "close": "00:00" },
+            "tuesday": { "open": "12:00", "close": "00:00" },
+            "wednesday": { "open": "12:00", "close": "00:00" },
+            "thursday": { "open": "12:00", "close": "00:00" },
+            "friday": { "open": "12:00", "close": "00:00" },
+            "saturday": { "open": "12:00", "close": "00:00" },
+            "sunday": { "open": "12:00", "close": "00:00" }
+
+"name": "Doping pizza",
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "51260311",
+        "facebook": false,
+        "instagram": "@dopingpizzas"
+    },
+    "hours": {
+        "monday": {
+            "open": "12:00",
+            "close": "00:00"
+        },
+        "tuesday": {
+            "open": "12:00",
+            "close": "00:00"
+        },
+        "wednesday": {
+            "open": "12:00",
+            "close": "00:00"
+        },
+        "thursday": {
+            "open": "12:00",
+            "close": "00:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "close": "00:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "close": "00:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "close": "00:00"
+        }
+    },
+
+    "name": "El Biky",
+    "address": "Infanta Nº412 e/ San Lazaro y Concordia",
+    "contacts": {
+        "phone": [
+            "(+53) 7870 6515"
+        ],
+        "website": "elbiky.com",
+        "facebook": null,
+        "instagram": null
+    },
+    "qualification": {
+        "tripadvisor": 4.5
+    },
+    "owner": "Particular",
+    "type_of_establishment": "Bar",
+    "specialty": "Coctelería",
+    "hours": {
+        "monday": { "open": "08:00", "close": "23:00" },
+        "tuesday": { "open": "08:00", "close": "23:00" },
+        "wednesday": { "open": "08:00", "close": "23:00" },
+        "thursday": { "open": "08:00", "close": "23:00" },
+        "friday": { "open": "08:00", "close": "23:00" },
+        "saturday": { "open": "08:00", "close": "23:00" },
+        "sunday": { "open": "08:00", "close": "23:00" }
+
+        {
+            "municipality": "Centro Habana",
+            "name": "El Bleko",
+            "contact": {
+                "phone_number": false,
+                "e-mail": false,
+                "web_page": false,
+                "whatsapp": "50985368",
+                "facebook": "El Bleko",
+                "instagram": "@blecohavana"
+            },
+            "hours": {
+                "monday": {
+                    "open": "13:00",
+                    "close": "02:00"
+                },
+                "tuesday": {
+                    "open": "13:00",
+                    "close": "02:00"
+                },
+                "wednesday": {
+                    "open": "13:00",
+                    "close": "02:00"
+                },
+                "thursday": {
+                    "open": "13:00",
+                    "close": "02:00"
+                },
+                "friday": {
+                    "open": "13:00",
+                    "close": "02:00"
+                },
+                "saturday": {
+                    "open": "13:00",
+                    "close": "02:00"
+                },
+                "sunday": {
+                    "open": "13:00",
+                    "close": "02:00"
+                }
+            },
+
+
+            "name": "El cuarto de Tula",
+    "address": "San Lazaro entre San Fransico y Espada",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "qualification": {
+        "tripadvisor": 4.5
+    },
+    "owner": "Particular",
+    "type_of_establishment": "Bar-Restaurante",
+    "specialty": "Comida Internacional",
+    "hours": {
+        "monday": { "open": "08:00", "close": "23:00" },
+        "tuesday": { "open": "08:00", "close": "23:00" },
+        "wednesday": { "open": "08:00", "close": "23:00" },
+        "thursday": { "open": "08:00", "close": "23:00" },
+        "friday": { "open": "08:00", "close": "23:00" },
+        "saturday": { "open": "08:00", "close": "23:00" },
+        "sunday": { "open": "08:00", "close": "23:00" }
+        
+        
+        "name": "El portico",
+        "contact": {
+            "phone_number": false,
+            "e-mail": false,
+            "web_page": false,
+            "whatsapp": false,
+            "facebook": false,
+            "instagram": false
+        },
+        "hours": {
+            "monday": {
+                "open": false,
+                "close": false
+            },
+            "tuesday": {
+                "open": "00:00",
+                "close": "24:00"
+            },
+            "wednesday": {
+                "open": "00:00",
+                "close": "24:00"
+            },
+            "thursday": {
+                "open": "00:00",
+                "close": "24:00"
+            },
+            "friday": {
+                "open": "00:00",
+                "close": "24:00"
+            },
+            "saturday": {
+                "open": "00:00",
+                "close": "24:00"
+            },
+            "sunday": {
+                "open": "00:00",
+                "close": "24:00"
+            }
+        },
+
+        "name": "Fin de Siglo",
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "59529982",
+        "facebook": "Fin de Siglo",
+        "instagram": false
+    },
+    "hours": {
+        "monday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "tuesday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "wednesday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "thursday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "friday": {
+            "open": "10:00",
+            "close": "03:00"
+        },
+        "saturday": {
+            "open": "10:00",
+            "close": "03:00"
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "03:00"
+        }
+    },
+
+
+    "name": "Galy Cafe",
+    "contact": {
+        "phone_number": "78634580",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": "GalyCafé",
+        "instagram": false
+    },
+    "hours": {
+        "monday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "tuesday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "wednesday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "thursday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "friday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "saturday": {
+            "open": "11:00",
+            "close": "00:00"
+        },
+        "sunday": {
+            "open": "11:00",
+            "close": "00:00"
+        }
+    },
+
+
+    "name": "Guang Zhou",
+    "address": "Cuchillo entre San Nicolas y Rayo",
+    "contact": {
+        "phone": ["078615229"],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "qualification": {
+        "google": 3.1
+    },
+    "owner": "Particular",
+    "type_of_establishment": "Restaurante",
+    "specialty": "Comida China",
+    "hours": {
+        "monday": { "open": "11:00", "close": "00:00" },
+        "tuesday": { "open": "11:00", "close": "00:00" },
+        "wednesday": { "open": "11:00", "close": "00:00" },
+        "thursday": { "open": "11:00", "close": "00:00" },
+        "friday": { "open": "11:00", "close": "00:00" },
+        "saturday": { "open": "11:00", "close": "00:00" },
+        "sunday": { "open": "11:00", "close": "00:00" }
+
+        "name": "Hamburgo",
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": false
+    },
+    "hours": {
+        "monday": {
+            "open": "09:00",
+            "close": "19:00"
+        },
+        "tuesday": {
+            "open": "09:00",
+            "close": "19:00"
+        },
+        "wednesday": {
+            "open": "09:00",
+            "close": "19:00"
+        },
+        "thursday": {
+            "open": "09:00",
+            "close": "19:00"
+        },
+        "friday": {
+            "open": "09:00",
+            "close": "19:00"
+        },
+        "saturday": {
+            "open": "09:00",
+            "close": "19:00"
+        },
+        "sunday": {
+            "open": "09:00",
+            "close": "19:00"
+        }
+    },
+    
+    "municipality": "Centro Habana",
+    "name": "Infanta 560",
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": false
+    },
+    "hours": {
+        "monday": {
+            "open": "08:00",
+            "close": "22:00"
+        },
+        "tuesday": {
+            "open": "08:00",
+            "close": "22:00"
+        },
+        "wednesday": {
+            "open": "08:00",
+            "close": "22:00"
+        },
+        "thursday": {
+            "open": "08:00",
+            "close": "22:00"
+        },
+        "friday": {
+            "open": "08:00",
+            "close": "22:00"
+        },
+        "saturday": {
+            "open": "08:00",
+            "close": "22:00"
+        },
+        "sunday": {
+            "open": "08:00",
+            "close": "22:00"
+        }
+
+
+        "name": "Ivonne Cafe",
+    "type": "Bar-Restaurante",
+    "type_of_food": " ",
+    "address": "San Lazaro entre Espada y Hospital",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "qualification": {},
+    "sector": "Privado",
+    
+    "hours": {
+        
+        "monday": { "open": "09:00", "close": "22:00" },
+        
+        "tuesday": { "open": "09:00", "close": "22:00" },
+        
+        "wednesday": { "open": "09:00", "close": "22:00" },
+        
+        "thursday": { "open": "09:00", "close": "22:00" },
+        
+        "friday": { "open": "09:00", "close": "22:00" },
+        
+        "saturday": { "open": "09:00", "close": "22:00" },
+        
+        "sunday": { "open": "09:00", "close": "22:00" }
+    },
+
+    "municipality": "Centro Habana",
+    "name": "Kasa Takos",
+    "contact": {
+        "phone_number": false,
+        "e-mail": "kasatakos@gmail.com",
+        "web_page": "https://beacons.ai/kasatakos",
+        "whatsapp": "50122113",
+        "facebook": "KasaTakos",
+        "instagram": "@kasatakos_havana"
+    },
+    "hours": {
+        "monday": {
+            "open": "12:00",
+            "close": "00:30"
+        },
+        "tuesday": {
+            "open": "12:00",
+            "close": "00:30"
+        },
+        "wednesday": {
+            "open": "12:00",
+            "close": "00:30"
+        },
+        "thursday": {
+            "open": "12:00",
+            "close": "00:30"
+        },
+        "friday": {
+            "open": "12:00",
+            "close": "00:30"
+        },
+        "saturday": {
+            "open": "12:00",
+            "close": "00:30"
+        },
+        "sunday": {
+            "open": "12:00",
+            "close": "00:30"
+        }
+    },
+
+
+    "name": "La Juliana",
+    "contact": {
+        "phone_number": "78661823",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "58356065",
+        "facebook": "La Juliana",
+        "instagram": "@lajulianarestaurant"
+    },
+    "hours": {
+        "monday": {
+            "open": "10:00",
+            "close": "00:00"
+        },
+        "tuesday": {
+            "open": "10:00",
+            "close": "23:00"
+        },
+        "wednesday": {
+            "open": "10:00",
+            "close": "23:00"
+        },
+        "thursday": {
+            "open": "10:00",
+            "close": "23:00"
+        },
+        "friday": {
+            "open": "10:00",
+            "close": "00:00"
+        },
+        "saturday": {
+            "open": "10:00",
+            "close": "00:00"
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "00:00"
+        }
+    },
+
+    "municipality": "Centro Habana",
+    "name": "La Francesa",
+    "address": "Prado entre San Rafael y Neptuno",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "qualification": {},
+    "sector": "Particular",
+    "type": "Bar",
+    "type_of_food": "Tapas",
+    "hours": {
+        "monday": { "open": "08:00", "close": "23:00" },
+        "tuesday": { "open": "08:00", "close": "23:00" },
+        "wednesday": { "open": "08:00", "close": "23:00" },
+        "thursday": { "open": "08:00", "close": "23:00" },
+        "friday": { "open": "08:00", "close": "23:00" },
+        "saturday": { "open": "08:00", "close": "23:00" },
+        "sunday": { "open": "08:00", "close": "23:00" }
+
+        "name": "Mimosa",
+        "district": "Centro Habana",
+        "coordinates": {
+            "latitude": 23.134370150762123, 
+            "longitude": -82.3682591198702
+        },
+        "contact": {
+            "phone_number": "78671790",
+            "e-mail": "mercadomimosa2024@gmail.com",
+            "web_page": "https://mercadomimosa.com/",
+            "whatsapp": "59705636",
+            "facebook": "La Mimosa",
+            "instagram": "@restaurantemimosa"
+        },
+        "hours": {
+            "monday": { 
+                "open": "12:00",
+                "close": "23:00"
+            },
+            "tuesday": {
+                "open": "12:00",
+                "close": "23:00"
+            },
+            "wednesday": {
+                "open": "12:00",
+                "close": "23:00"
+            },
+            "thursday": {
+                "open": "12:00",
+                "close": "23:00"
+            },
+            "friday": {
+                "open": "12:00",
+                "close": "23:00"
+            },
+            "saturday": {
+                "open": "12:00",
+                "close": "23:00"
+            },
+            "sunday": {
+                "open": "12:00",
+                "close": "23:00"
+            }
+        },
+
+        "name": "Mundo Pizza",
+    "type_of_food": ["Internacional", "Bares para comer", "Pizzas"],
+    "hours": {
+        "monday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "tuesday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "wednesday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "thursday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "close": "22:00"
+        }
+    },
+
+    "name": "Pedro's Bar",
+    "type_of_food": ["cocteleria", "italiana"],
+    "hours": {
+        "monday": {
+            "open": "14:00",
+            "close": "02:00"
+        },
+        "tuesday": {
+            "open": "14:00",
+            "close": "02:00"
+        },
+        "wednesday": {
+            "open": "14:00",
+            "close": "02:00"
+        },
+        "thursday": {
+            "open": "14:00",
+            "close": "02:00"
+        },
+        "friday": {
+            "open": "14:00",
+            "close": "02:00"
+        },
+        "saturday": {
+            "open": "14:00",
+            "close": "02:00"
+        },
+        "sunday": {
+            "open": "14:00",
+            "close": "02:00"
+        }
+
+
+        "name": "RicarDon",
+    "district": "Centro Habana",
+    "contact": {
+        "phone_number": "78614325",
+        "e-mail": false,
+        "web_page": "https://ricardon.com",
+        "whatsapp": false,
+        "facebook": "RicarDon",
+        "instagram": "@restaurantericardon"
+    },
+    "hours": {
+        "monday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "tuesday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "wednesday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "thursday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "close": "24:00"
+        }
+
+        "name": "Salchipizza",
+    "type_of_food": ["cubana"],
+    "hours": {
+        "monday": {
+            "open": false,
+            "close": false
+        },
+        "tuesday": {
+            "open": "13:00",
+            "close": "23:00"
+        },
+        "wednesday": {
+            "open": "13:00",
+            "close": "23:00"
+        },
+        "thursday": {
+            "open": "13:00",
+            "close": "23:00"
+        },
+        "friday": {
+            "open": "13:00",
+            "close": "23:00"
+        },
+        "saturday": {
+            "open": "13:00",
+            "close": "23:00"
+        },
+        "sunday": {
+            "open": false,
+            "close": false
+        }
+    },
+
+
+    "name": "San Rafael 1051",
+    "municipality": "Centro Habana",
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": "https://sanrafael1051.carrta.app",
+        "whatsapp": "58058576",
+        "facebook": "san_rafael1051",
+        "instagram": "@san_rafael1051"
+    },
+    "schedule": {
+        "monday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "tuesday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "wednesday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "thursday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "close": "24:00"
+        }
+    },
+
+
+    "name": "Tong Do Laug",
+    "address": "Cuchillo entre San Nicolas y Rayo",
+    "contacts": {
+        "phone": [
+            "+53 55100355"
+        ],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "qualification": {},
+    "sector": "Particular",
+    "type": "Restaurante",
+    "type_of_food": "Comida China",
+    "hours": {
+        "monday": { "open": "10:00", "close": "21:00" },
+        "tuesday": { "open": "10:00", "close": "21:00" },
+        "wednesday": { "open": "10:00", "close": "21:00" },
+        "thursday": { "open": "10:00", "close": "21:00" },
+        "friday": { "open": "10:00", "close": "21:00" },
+        "saturday": { "open": "10:00", "close": "21:00" },
+        "sunday": { "open": "10:00", "close": "21:00" }
+
+
+       "name": "Tonyzz Bar",
+    "district": "Centro Habana",
+    "coordinates": {
+        "latitude": 23.13799192742151, 
+        "longitude": -82.36028647833432
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": "Tonyzz Bar",
+        "instagram": false
+    },
+    "hours": {
+        "monday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "tuesday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "wednesday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "thursday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "close": "24:00"
+        } 
+
+
+        "name": "Tu Tiempo",
+        "type_of_food": ["cubana"],
+        "hours": {
+            "monday": {
+                "open": "08:00",
+                "close": "20:00"
+            },
+            "tuesday": {
+                "open": "08:00",
+                "close": "20:00"
+            },
+            "wednesday": {
+                "open": "08:00",
+                "close": "20:00"
+            },
+            "thursday": {
+                "open": "08:00",
+                "close": "20:00"
+            },
+            "friday": {
+                "open": "08:00",
+                "close": "20:00"
+            },
+            "saturday": {
+                "open": "08:00",
+                "close": "20:00"
+            },
+            "sunday": {
+                "open": "08:00",
+                "close": "20:00"
+            }
+        },
+
+        "name": "Tutti Frutti",
+    "address": "San Lazaro entre San Fransico y Espada",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "qualification": {},
+    "sector": "Particular",
+    "type": "Restaurante",
+    "type_of_food": "Desayunos",
+    "hours": {
+        "monday": { "open": "08:00", "close": "20:00" },
+        "tuesday": { "open": "08:00", "close": "20:00" },
+        "wednesday": { "open": "08:00", "close": "20:00" },
+        "thursday": { "open": "08:00", "close": "20:00" },
+        "friday": { "open": "08:00", "close": "20:00" },
+        "saturday": { "open": "08:00", "close": "20:00" },
+        "sunday": { "open": "08:00", "close": "20:00" }
+    },
+
+    "name": "Macarena",
+    "address": {
+        "municipality": "Centro Habana",
+        "address": "Calle Línea entre Paseo y 2, Vedado"
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "58723821",
+        "facebook": "Cafe bar macarena",
+        "instagram": "@cafe_bar_macarena"
+    },
+    "hours": {
+        "monday": { "open": false, "close": false },
+        "tuesday": { "open": "16:00", "close": "03:00" },
+        "wednesday": { "open": "16:00", "close": "03:00" },
+        "thursday": { "open": "16:00", "close": "03:00" },
+        "friday": { "open": "16:00", "close": "03:00" },
+        "saturday": { "open": "16:00", "close": "03:00" },
+        "sunday": { "open": "16:00", "close": "03:00" }
+    },
+
+
+    "name": "Fenix Dorado",
+    "address": "Cuchillo entre San Nicolas y Rayo",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "qualification": {
+        "tripadvisor": 3.5
+    },
+    "owner": "Particular",
+    "type_of_establishment": "Restaurante",
+    "specialty": "Comida China",
+    "hours": {
+        "monday": { "open": "11:00", "close": "23:00" },
+        "tuesday": { "open": "11:00", "close": "23:00" },
+        "wednesday": { "open": "11:00", "close": "23:00" },
+        "thursday": { "open": "11:00", "close": "23:00" },
+        "friday": { "open": "11:00", "close": "23:00" },
+        "saturday": { "open": "11:00", "close": "23:00" },
+        "sunday": { "open": "11:00", "close": "23:00" }
+
+        
+        
+        "municipality":"cerro"
+
+"type": ["Restaurante"],
+  
+    "name": "brutal habana",
+  
+    "type_of_food": "hamburguesería",
+  
+    "contact": {
+  
+      "phone": {
+  
+        "number": "050989151",
+  
+        "type": "mobile"
+      },
+      "email": null,
+      "website": null
+    },
+    "hours": {
+  
+      "monday": {
+  
+        "open": "12:00",
+  
+        "close": "00:00"
+      },
+      "tuesday": {
+  
+        "open": "12:00",
+  
+        "close": "00:00"
+      },
+      "wednesday": {
+  
+        "open": "12:00",
+  
+        "close": "00:00"
+      },
+      "thursday": {
+  
+        "open": "12:00",
+  
+        "close": "00:00"
+      },
+      "friday": {
+  
+        "open": "12:00",
+  
+        "close": "00:00"
+      },
+      "saturday": {
+  
+        "open": "12:00",
+  
+        "close": "00:00"
+      },
+      "sunday": {
+  
+        "open": "12:00",
+  
+        "close": "00:00"
+      }
+
+
+      "municipality": "cerro",
+     
+      "name": "el batazo",
+     
+      "address": "Primelles 356 entre Santa Teresa y Daois",
+     
+      "contact_info": {
+     
+        "phone": [
+          "53 58050408"
+        ],
+     
+        "website": null,
+     
+        "facebook": null,
+     
+        "instagram": null
+      },
+     
+      "qualification": {},
+     
+      "sector": "Particular",
+     
+      "type": "Bar-Restaurante",
+     
+      "type_of_food": "Pizzeria",
+     
+      "hours": {
+     
+        "monday": {
+     
+          "open": "11:00",
+     
+          "close": "22:00"
+        },
+     
+        "tuesday": {
+     
+          "open": "11:00",
+     
+          "close": "22:00"
+        },
+     
+        "wednesday": {
+     
+          "open": "11:00",
+     
+          "close": "22:00"
+        },
+     
+        "thursday": {
+     
+          "open": "11:00",
+     
+          "close": "22:00"
+        },
+     
+        "friday": {
+     
+          "open": "11:00",
+     
+          "close": "22:00"
+        },
+     
+        "saturday": {
+     
+          "open": "11:00",
+     
+          "close": "22:00"
+        },
+     
+        "sunday": {
+     
+          "open": null,
+     
+          "close": null
+        }
+      },
+
+
+      "municipality": "cerro",
+   
+      "name": "el rapido",
+   
+      "address": "Cruz del Pader entre Pedrosa y Amenidares",
+   
+      "contact_info": {
+   
+        "phone": [],
+   
+        "website": null,
+   
+        "facebook": null,
+   
+        "instagram": null
+      },
+   
+      "qualification": {},
+   
+      "sector": "Particular",
+   
+      "type": "Restaurante",
+   
+      "type_of_food": "entrantes",
+   
+      "hours": {
+   
+        "monday": {
+   
+          "open": "07:30",
+   
+          "close": "19:30"
+   
+        },
+   
+        "tuesday": {
+   
+          "open": "07:30",
+   
+          "close": "19:30"
+        },
+       
+        "wednesday": {
+       
+          "open": "07:30",
+       
+          "close": "19:30"
+        },
+       
+        "thursday": {
+       
+          "open": "07:30",
+       
+          "close": "19:30"
+        },
+       
+        "friday": {
+       
+          "open": "07:30",
+       
+          "close": "19:30"
+        },
+       
+        "saturday": {
+       
+          "open": "07:30",
+       
+          "close": "19:30"
+        },
+       
+        "sunday": {
+       
+          "open": "07:30",
+       
+          "close": "19:30"
+        }
+      },
+
+
+      "municipality": "cerro",
+  
+    "name": "jorgito's pizzas",
+  
+    "address": "Pedroso entre Infanta y Cruz del Pader",
+  
+    "contact_info": {
+  
+      "phone": [
+          "+53 54031349",
+          "78780156"
+        ],
+  
+        "website": null,
+  
+        "facebook": null,
+  
+        "instagram": null
+      },
+  
+      "qualification": {
+  
+        "google": 4
+      },
+  
+      "sector": "Privado",
+  
+      "type": "Restaurante",
+  
+      "type_of_food": "Pizzeria",
+  
+      "hours": {
+  
+        "monday": {
+  
+          "open": "11:00",
+  
+          "close": "23:00"
+        },
+  
+        "tuesday": {
+  
+          "open": "11:00",
+  
+          "close": "23:00"
+        },
+  
+        "wednesday": {
+  
+          "open": "11:00",
+  
+          "close": "23:00"
+        },
+  
+        "thursday": {
+  
+          "open": "11:00",
+  
+          "close": "23:00"
+        },
+  
+        "friday": {
+  
+          "open": "11:00",
+  
+          "close": "23:00"
+        },
+  
+        "saturday": {
+  
+          "open": "11:00",
+  
+          "close": "23:00"
+        },
+  
+        "sunday": {
+  
+          "open": "11:00",
+  
+          "close": "23:00"
+        }
+      },
+
+
+
+      "municipality": "cerro",
+      
+      "name": "la barrita onbazar",
+      
+      "address": "Amenida entre Cruz del Pader e Infanta",
+      
+      "contact_info": {
+      
+        "phone": [
+          "+53 54494741"
+        ],
+      
+        "website": "labarrita.onbazar.net",
+      
+        "facebook": null,
+      
+        "instagram": "la_barrita_onbazar"
+      },
+      
+      "qualification": {},
+      
+      "sector": "Particular",
+      
+      "type": "Bar-Restaurante",
+      
+      "type_of_food": "Pizzeria",
+      
+      "hours": {
+      
+        "monday": {
+      
+          "open": "09:00",
+      
+          "close": "23:00"
+        },
+        "tuesday": {
+      
+          "open": "09:00",
+      
+          "close": "23:00"
+        },
+        "wednesday": {
+      
+          "open": "09:00",
+      
+          "close": "23:00"
+        },
+        "thursday": {
+      
+          "open": "09:00",
+      
+          "close": "23:00"
+        },
+        "friday": {
+      
+          "open": "09:00",
+      
+          "close": "01:00"
+        },
+        "saturday": {
+      
+          "open": "09:00",
+      
+          "close": "01:00"
+        },
+        "sunday": {
+      
+          "open": "09:00",
+      
+          "close": "01:00"
+        }
+      },
+
+
+
+      "municipality": "cerro",
+   
+      "name": "la casona del cerro",
+   
+      "address": "Calzada del Cerro entre Alzobispo y Peñón",
+   
+      "contact_info": {
+   
+        "phone": [],
+   
+        "website": null,
+   
+        "facebook": null,
+   
+        "instagram": null
+      },
+   
+      "qualification": {},
+   
+      "sector": "Particular",
+   
+      "type": "Restaurante",
+   
+      "type_of_food": "Comida Criolla",
+   
+      "hours": {
+   
+        "monday": {
+   
+          "open": "10:00",
+   
+          "close": "22:00"
+        },
+        "tuesday": {
+   
+          "open": "10:00",
+   
+          "close": "22:00"
+        },
+        "wednesday": {
+   
+          "open": "10:00",
+   
+          "close": "22:00"
+        },
+        "thursday": {
+   
+          "open": "10:00",
+   
+          "close": "22:00"
+        },
+        "friday": {
+   
+          "open": "10:00",
+   
+          "close": "22:00"
+        },
+        "saturday": {
+   
+          "open": "10:00",
+   
+          "close": "22:00"
+        },
+        "sunday": {
+   
+          "open": "10:00",
+   
+          "close": "14:00"
+        }
+
+
+        "municipality": "cerro",
+    
+        "name": "la lola",
+      
+        "address": "Calle Ayestaran entre San Pablo y Pedro Perez",
+      
+        "contact_info": {
+      
+          "phone": [
+      
+            "+53 53654726"
+          ],
+      
+          "website": null,
+      
+          "facebook": null,
+      
+          "instagram": null
+        },
+      
+        "qualification": {},
+      
+        "sector": "Particular",
+      
+        "type": "Bar",
+      
+        "type_of_food": "Cocteleria",
+      
+        "hours": {
+      
+          "monday": {
+      
+            "open": "14:00",
+      
+            "close": "02:00"
+          },
+          "tuesday": {
+      
+            "open": "14:00",
+      
+            "close": "02:00"
+          },
+          "wednesday": {
+      
+            "open": "14:00",
+      
+            "close": "02:00"
+          },
+          "thursday": {
+      
+            "open": "14:00",
+      
+            "close": "02:00"
+          },
+          "friday": {
+      
+            "open": "14:00",
+      
+            "close": "02:00"
+          },
+          "saturday": {
+      
+            "open": "14:00",
+      
+            "close": "02:00"
+          },
+          "sunday": {
+      
+            "open": "14:00",
+      
+            "close": "02:00"
+          }
+        },
+
+
+        "municipality": "cerro",
+  
+        "name": "leyendhabana",
+      
+        "address": "Calle Santa Rosa No. 217 e/ Infanta y Cruz del Padre",
+      
+        "contact_info": {
+      
+          "phone": [
+      
+            "78781332"
+            ],
+      
+            "website": "leyendhabana.com",
+      
+            "facebook": null,
+      
+            "instagram": "@restaurante.leyendhabana"
+          },
+      
+          "qualification": {
+      
+            "google": 4.6,
+      
+            "tripadvisor": 4.5
+          },
+      
+          "sector": "Particular",
+      
+          "type": "Bar-Restaurante",
+      
+          "type_of_food": "Comida Caribena",
+      
+          "hours": {
+            "monday": {
+      
+              "open": "12:00",
+      
+              "close": "23:00"
+            },
+            "tuesday": {
+      
+              "open": "12:00",
+      
+              "close": "23:00"
+            },
+            "wednesday": {
+      
+              "open": "12:00",
+      
+              "close": "23:00"
+            },
+            "thursday": {
+      
+              "open": "12:00",
+      
+              "close": "23:00"
+            },
+            "friday": {
+            
+              "open": "12:00",
+             
+              "close": "23:00"
+            },
+            "saturday": {
+            
+              "open": "12:00",
+            
+              "close": "23:00"
+            },
+            "sunday": {
+            
+              "open": "12:00",
+            
+              "close": "23:00"
+            }
+          },
+
+
+          "municipality": "cerro",
+      
+      "name": "rico rico",
+      
+      "address": "Calle Ayestaran entre Perfecto Lacoste y Aranguren",
+      
+      "contact_info": {
+      
+        "phone": [
+      
+          "78701632"
+        ],
+      
+        "website": null,
+      
+        "facebook": "RicoRicopizzeria",
+      
+        "instagram": "@ricoricopizzeria"
+      },
+      
+      "qualification": {
+      
+        "google": 2.4
+      },
+      
+      "sector": "particular",
+      
+      "type": "Restaurante",
+      
+      "type_of_food": "Comida Italiana",
+      
+      "hours": {
+        "monday": {
+      
+          "open": "09:00",
+      
+          "close": "23:00"
+        },
+        "tuesday": {
+      
+          "open": "09:00",
+      
+          "close": "23:00"
+        },
+        "wednesday": {
+      
+          "open": "09:00",
+      
+          "close": "23:00"
+        },
+        "thursday": {
+      
+          "open": "09:00",
+      
+          "close": "23:00"
+        },
+        "friday": {
+      
+          "open": "09:00",
+      
+          "close": "23:00"
+        },
+        "saturday": {
+      
+          "open": "09:00",
+      
+          "close": "23:00"
+        },
+        "sunday": {
+      
+          "open": "09:00",
+      
+          "close": "23:00"
+        }
+      },
+
+
+      "municipality": "cerro",
+   
+      "name": "shapuseros",
+   
+      "address": "Calzada de Ayestaran entre San Pedro y Ayuntamineto",
+   
+      "contact_info": {
+   
+        "phone": [],
+   
+        "website": null,
+   
+        "facebook": null,
+   
+        "instagram": null
+      },
+   
+      "qualification": {},
+   
+      "sector": "particular",
+   
+      "type": "Restaurante",
+   
+      "type_of_food": "Hamburguesera",
+   
+      "hours": {
+        "monday": {
+   
+          "open": "09:00",
+   
+          "close": "21:00"
+        },
+        "tuesday": {
+   
+          "open": "09:00",
+   
+          "close": "21:00"
+        },
+        "wednesday": {
+   
+          "open": "09:00",
+   
+          "close": "21:00"
+        },
+        "thursday": {
+       
+          "open": "09:00",
+       
+          "close": "21:00"
+        },
+        "friday": {
+          "open": "09:00",
+          "close": "21:00"
+        },
+        "saturday": {
+       
+          "open": "09:00",
+       
+          "close": "21:00"
+        },
+        "sunday": {
+       
+          "open": "09:00",
+        
+          "close": "21:00"
+        }
+      },
+
+
+      "municipality":"cotorro"
+
+      "name":"crystal"
+
+      "hours": {
+  
+        "monday": {
+  
+          "open": "11:00",
+  
+          "close": "24:00"
+        },
+        "tuesday": {
+  
+          "open": "11:00",
+  
+          "close": "24:00"
+        },
+        "wednesday": {
+  
+          "open": "11:00",
+  
+          "close": "24:00"
+        },
+        "thursday": {
+  
+          "open": "11:00",
+  
+          "close": "24:00"
+        },
+        "friday": {
+  
+          "open": "11:00",
+  
+          "close": "24:00"
+        },
+        "saturday": {
+  
+          "open": "11:00",
+  
+          "close": "24:00"
+        },
+        "sunday": {
+  
+          "open": "11:00",
+  
+          "close": "24:00"
+        }
+      },
+
+
+      "name": "el bache",
+  
+      "township": "Cotorro",
+  
+      "address": "Calle 30 entre 95 y 97, Las Brisas",
+  
+      "type": "cafeteria",
+  
+      "hours": {
+  
+        "monday": {
+  
+          "open": "10:30",
+  
+          "close": "22:30"
+          },
+          "tuesday": {
+  
+            "open": "10:30",
+  
+            "close": "22:30"
+          },
+          "wednesday": {
+  
+            "open": "10:30",
+  
+            "close": "22:30"
+          },
+          "thursday": {
+  
+            "open": "10:30",
+  
+            "close": "22:30"
+          },
+          "friday": {
+  
+            "open": "10:30",
+  
+            "close": "22:30"
+          }
+        },
+      
+
+        "name": "el cocal",
+   
+    "address": "Direccion completa del restaurante",
+   
+    "contact_info": {
+   
+      "phone": "76822199",
+   
+      "website": {
+   
+        "website": null,
+   
+        "instagram": null,
+   
+        "facebook": null
+      }
+    },
+   
+    "qualification": "Categoria del restaurante (ej: Casual, Lujo, Familiar)",
+   
+    "type": "restaurante",
+   
+    "type_of_food": "cubana",
+   
+    "parking": true,
+   
+    "reservations": false,
+   
+    "accepted_payment_methods": {
+   
+      "cash_national": true,
+   
+      "digital_transfer_national": true,
+   
+      "usd_cash": true,
+   
+      "usd_transfer": true,
+  
+      "mlc": true
+    },
+   
+    "free_wifi": false,
+   
+    "delivery_areas": [
+      null
+    ],
+   
+    "power_generator": "Si",
+   
+    "capacity": "mucha",
+   
+    "hours": {
+      "monday": {
+   
+        "open": "12:00",
+   
+        "close": "24:00"
+      },
+      "tuesday": {
+   
+        "open": null,
+   
+        "close": null
+      },
+      "wednesday": {
+   
+        "open": null,
+   
+        "close": null
+      },
+      "thursday": {
+   
+        "open": "12:00",
+   
+        "close": "24:00"
+   
+      },
+   
+      "friday": {
+   
+        "open": "12:00",
+   
+        "close": "24:00"
+      },
+      "saturday": {
+   
+        "open": "12:00",
+   
+        "close": "24:00"
+      },
+      "sunday": {
+   
+        "open": "12:00",
+   
+        "close": "24:00"
+      }
+    },
+
+
+    "name": "el desafio",
+  
+    "address": "calle 58 numero 6712 % 67 y 69, Cotorro",
+  
+    "contact_info": {
+  
+      "phone": "+5363510685",
+  
+      "website": {
+  
+        "website": null,
+  
+        "instagram": null,
+  
+        "facebook": null
+        }
+      },
+  
+      "qualification": "Categoria del restaurante (ej: Casual, Lujo, Familiar)",
+  
+      "type": "restaurante",
+  
+      "type_of_food": "cubana",
+  
+      "parking": true,
+  
+      "reservations": false,
+  
+      "accepted_payment_methods": {
+  
+        "cash_national": true,
+  
+        "digital_transfer_national": true,
+  
+        "usd_cash": true,
+  
+        "usd_transfer": true,
+  
+        "mlc": true
+      },
+  
+      "free_wifi": false,
+  
+      "delivery_areas": [
+        null
+      ],
+  
+      "power_generator": "Si",
+  
+      "capacity": "mucha",
+  
+      "hours": {
+  
+        "monday": {
+  
+          "open": "12:00",
+  
+          "close": "22:00"
+        },
+        "tuesday": {
+  
+          "open": "12:00",
+  
+          "close": "22:00"
+        },
+        "wednesday": {
+  
+          "open": "12:00",
+  
+          "close": "22:00"
+        },
+        "thursday": {
+  
+          "open": "12:00",
+  
+          "close": "22:00"
+        },
+        "friday": {
+  
+          "open": "12:00",
+  
+          "close": "22:00"
+        },
+        "saturday": {
+  
+          "open": "12:00",
+  
+          "close": "22:00"
+        },
+        "sunday": {
+  
+          "open": "12:00",
+  
+          "close": "22:00"
+        }
+      },
+
+
+
+      "general_info": {
+    
+      "name": "la esquinita del cotorro",
+    
+      "township": "Cotorro",
+    
+      "address": "Avenida 71",
+    
+      "type": "cafeteria",
+    
+      "hours": {
+        "monday": {
+        
+          "open": "10:00",
+        
+          "close": "20:00"
+        },
+        "tuesday": {
+        
+          "open": "10:00",
+        
+          "close": "20:00"
+        },
+        "wednesday": {
+        
+          "open": "10:00",
+        
+          "close": "20:00"
+        
+        },
+        "thursday": {
+        
+          "open": "10:00",
+        
+          "close": "20:00"
+        },
+        "friday": {
+        
+          "open": "10:00",
+        
+          "close": "20:00"
+        },
+        "saturday": {
+        
+          "open": "10:00",
+        
+          "close": "20:00"
+        },
+        "sunday": {
+        
+          "open": "10:00",
+        
+          "close": "20:00"
+        }
+      },
+
+
+
+      "general_info": {
+    
+        "name": "martinez club",
+    
+        "township": "Cotorro",
+    
+        "address": null,
+    
+        "type": "cafeteria",
+    
+        "hours": {
+          "monday": {
+    
+            "open": "09:00",
+    
+            "close": "21:00"
+          },
+          "tuesday": {
+    
+            "open": "09:00",
+    
+            "close": "21:00"
+          },
+          "wednesday": {
+    
+            "open": "09:00",
+    
+            "close": "21:00"
+          },
+          "thursday": {
+    
+            "open": "09:00",
+    
+            "close": "21:00"
+          },
+          "friday": {
+    
+            "open": "09:00",
+    
+            "close": "21:00"
+          },
+          "saturday": {
+    
+            "open": "09:00",
+    
+            "close": "21:00"
+          },
+          "sunday": {
+    
+            "open": "09:00",
+    
+            "close": "21:00"
+          }
+        },
+
+
+
+        "general_info": {
+       
+        "name": "mc.cesar",
+       
+        "address": "calle primer entre 220 y 221, Cotorro",
+       
+        "type": "bar-restaurante",
+       
+        "hours": {
+       
+            "monday": {
+       
+                "open": "09:30",
+       
+                "close": "23:00"
+          },
+          "tuesday": {
+       
+            "open": "09:30",
+       
+            "close": "23:00"
+          },
+          "wednesday": {
+       
+            "open": "09:30",
+       
+            "close": "23:00"
+       
+        },
+          "thursday": {
+       
+            "open": "09:30",
+       
+            "close": "23:00"
+          },
+          "friday": {
+       
+            "open": "09:30",
+       
+            "close": "23:00"
+          },
+          "saturday": {
+       
+            "open": "09:30",
+       
+            "close": "23:00"
+          },
+          "sunday": {
+       
+            "open": "09:30",
+       
+            "close": "23:00"
+          }
+        },
+
+
+
+        "general_info": {
+  
+            "name": "ole ole",
+        
+            "address": "71 esquina 46 y 48, Loteria, Cotorro",
+        
+            "hours": {
+        
+              "monday": {
+        
+                "open": "09:00",
+        
+                "close": "24:00"
+                },
+        
+                "tuesday": {
+        
+                  "open": "09:00",
+        
+                  "close": "24:00"
+                },
+        
+                "wednesday": {
+        
+                  "open": "09:00",
+        
+                  "close": "24:00"
+                },
+        
+                "thursday": {
+        
+                  "open": "09:00",
+        
+                  "close": "24:00"
+                },
+        
+                "friday": {
+        
+                  "open": null,
+        
+                  "close": null
+                },
+        
+                "saturday": {
+        
+                  "open": "18:00",
+        
+                  "close": "24:00"
+                },
+        
+                "sunday": {
+        
+                  "open": "09:00",
+        
+                  "close": "24:00"
+                }
+              },
+
+
+
+
+              "general_info": {
+    
+                "name": "pal'karajo",
+            
+                "township": "Cotorro",
+            
+                "address": "Avenida 101 Esquina 16 Centro Cotorro",
+            
+                "type": "cafeteria",
+            
+                "hours": {
+            
+                  "monday": {
+            
+                    "open": "10:00",
+            
+                    "close": "22:00"
+                  },
+            
+                  "tuesday": {
+            
+                    "open": "10:00",
+            
+                    "close": "22:00"
+                  },
+            
+                  "wednesday": {
+            
+                    "open": "10:00",
+            
+                    "close": "22:00"
+                  },
+                  "thursday": {
+            
+                    "open": "10:00",
+            
+                    "close": "22:00"
+                  },
+                  "friday": {
+            
+                    "open": "10:00",
+            
+                    "close": "22:00"
+                  },
+                  "saturday": {
+            
+                    "open": "10:00",
+            
+                    "close": "22:00"
+                  },
+                  "sunday": {
+            
+                    "open": "10:00",
+            
+                    "close": "22:00"
+                  }
+                },
+
+
+                
+                
+                "municipality":"diez de octubre"
+
+                "Name": "Bar Secret Garden",
+    
+                "Location": {
+            
+                    "Address": "Boutique VOYA Habana, #255, Calle Juan Delgado entre Santa Catalina y Milagros, Santos Suarez",
+            
+                    "Municipality": "10 de Octubre"
+                },
+            
+                "Type": "Bar-Cafeteria",
+            
+                "Type_of_Food": "Cocina mixta",
+            
+                "Sector": "Privado",
+            
+                "Capacity": 12,
+            
+                "ParkingService": true,
+            
+                "WiFi": true,
+            
+            
+                "SmokingArea": true,
+                "Hours": {
+                    
+                    "Monday": {"Open": "09:00", "Close": "00:00"},
+                    
+                    "Tuesday": {"Open": "09:00", "Close": "00:00"},
+                    
+                    "Wednesday": {"Open": "09:00", "Close": "00:00"},
+                    
+                    "Thursday": {"Open": "09:00", "Close": "00:00"},
+                    
+                    "Friday": {"Open": "09:00", "Close": "00:00"},
+                    
+                    "Saturday": {"Open": "09:00", "Close": "00:00"},
+                    
+                    "Sunday": {"Open": "09:00", "Close": "00:00"}
+                },
+
+
+
+                "Name": "Brasserie 255",
+    
+        "Location": {
+    
+            "Address": "Calle Juan Delgado #255 entre Santa Catalina y Milagros, Santos Suarez, Diez de Octubre"
+    
+        },
+        "Hours": {
+    
+            "Monday": {"Open": "08:00", "Close": "23:00"},
+    
+            "Tuesday": {"Open": "08:00", "Close": "23:00"},
+    
+            "Wednesday": {"Open": "08:00", "Close": "23:00"},
+    
+            "Thursday": {"Open": "08:00", "Close": "23:00"},
+    
+            "Friday": {"Open": "08:00", "Close": "23:00"},
+    
+            "Saturday": {"Open": "08:00", "Close": "23:00"},
+    
+            "Sunday": {"Open": "08:00", "Close": "23:00"}
+        },
+
+
+
+        "Name": "Crispy Chicken",
+    
+        "Location": {
+    
+            "Address": "Avenida de Acosta y Juan Delgado, Monaco",
+    
+            "Municipality": "10 de Octubre"
+        },
+    
+        "Type": "Cafeteria",
+    
+        "TypeOfFood": "Cocina rapida",
+    
+        "Sector": "Privado",
+    
+        "Capacity": 10,
+    
+        "Parking": true,
+    
+        "WiFi": false,
+    
+        "SmokingArea": true,
+    
+        "Hours": {
+    
+            "Monday": {"Open": "11:00", "Close": "23:00"},
+    
+            "Tuesday": {"Open": "11:00", "Close": "23:00"},
+    
+            "Wednesday": {"Open": "11:00", "Close": "23:00"},
+    
+            "Thursday": {"Open": "11:00", "Close": "23:00"},
+    
+            "Friday": {"Open": "11:00", "Close": "23:00"},
+    
+            "Saturday": {"Open": "11:00", "Close": "23:00"},
+    
+            "Sunday": {"Open": "11:00", "Close": "23:00"}
+        },
+
+
+
+        "Name": "D'Mitu",
+       
+        "Location": {
+       
+            "Address": "#64, Calle 1ra entre Gertrudis y Lagueruela, La Vibora",
+       
+            "Municipality": "10 de Octubre"
+        },
+       
+        "Type": "Pizzeria",
+       
+        "TypeOfFood": "Cocina italiana",
+       
+        "Sector": "Privado",
+       
+        "Capacity": 16,
+       
+        "ParkingService": true,
+       
+        "WiFi": false,
+       
+        "SmokingArea": false,
+       
+        "Hours": {
+       
+            "Monday": {"Open": "10:00", "Close": "22:00"},
+       
+            "Tuesday": {"Open": "10:00", "Close": "22:00"},
+       
+            "Wednesday": {"Open": "10:00", "Close": "22:00"},
+       
+            "Thursday": {"Open": "10:00", "Close": "22:00"},
+       
+            "Friday": {"Open": "10:00", "Close": "22:00"},
+       
+            "Saturday": {"Open": "10:00", "Close": "22:00"},
+       
+            "Sunday": {"Open": "10:00", "Close": "22:00"}
+        },
+
+
+
+        "Name": "El Monakeno",
+    
+        "Location": {
+    
+            "Address": "Avenida Mayia Rodriguez entre Acosta y O'Farril",
+    
+            "Municipality": "10 de Octubre",
+    
+            "Coordinates": "3JQC+XMX"
+        },
+    
+        "Type": "Restaurante",
+    
+        "TypeOfFood": "Cocina rapida",
+    
+        "Sector": "Privado",
+    
+        "Capacity": 40,
+    
+        "ParkingService": true,
+    
+        "WiFi": false,
+    
+        "SmokingArea": true,
+    
+        "Hours": {
+    
+            "Monday": {"Open": "12:00", "Close": "00:00"},
+    
+            "Tuesday": {"Open": "12:00", "Close": "00:00"},
+    
+            "Wednesday": {"Open": "12:00", "Close": "00:00"},
+    
+            "Thursday": {"Open": "12:00", "Close": "00:00"},
+    
+            "Friday": {"Open": "12:00", "Close": "02:00"},
+    
+            "Saturday": {"Open": "12:00", "Close": "02:00"},
+    
+            "Sunday": {"Open": "12:00", "Close": "02:00"}
+        },
+    
+
+
+
+        "Name": "Kimera",
+   
+        "Location": {
+   
+            "Address": "#311, Calle Lacret entre Juan Bruno Zallas y Cortina, Santos Suarez",
+   
+            "Municipality": "10 de Octubre",
+   
+            "Coordinates": null
+        },
+   
+        "Type": "Bar-Cafeteria",
+   
+        "TypeOfFood": "Cocina mixta",
+   
+        "Sector": "Privado",
+   
+        "Capacity": 25,
+   
+        "ParkingService": false,
+   
+        "WiFi": false,
+   
+        "SmokingArea": true,
+   
+        "Hours": {
+   
+            "Monday": {"Open": "12:00", "Close": "01:00"},
+   
+            "Tuesday": {"Open": "12:00", "Close": "01:00"},
+   
+            "Wednesday": {"Open": "12:00", "Close": "01:00"},
+   
+            "Thursday": {"Open": "12:00", "Close": "01:00"},
+   
+            "Friday": {"Open": "12:00", "Close": "01:00"},
+   
+            "Saturday": {"Open": "12:00", "Close": "01:00"},
+   
+            "Sunday": {"Open": "12:00", "Close": "01:00"}
+        },
+
+
+
+        "Name": "La Esquinita",
+   
+        "Location": {
+   
+            "Address": "Calle Juan Lefont entre Libertad y Johnson",
+   
+            "Municipality": "10 de Octubre",
+   
+            "Coordinates": "3JXC+W79"
+   
+        },
+   
+        "Type": "Bar-Cafeteria",
+   
+        "TypeOfFood": "Cocina mixta",
+   
+        "Sector": "Privado",
+   
+        "Capacity": 12,
+   
+        "ParkingService": true,
+   
+        "WiFi": false,
+   
+        "SmokingArea": true,
+   
+        "Hours": {
+   
+            "Monday": {"Open": "09:00", "Close": "21:00"},
+   
+            "Tuesday": {"Open": "09:00", "Close": "21:00"},
+   
+            "Wednesday": {"Open": "09:00", "Close": "21:00"},
+   
+            "Thursday": {"Open": "09:00", "Close": "21:00"},
+   
+            "Friday": {"Open": "10:00", "Close": "23:00"},
+   
+            "Saturday": {"Open": "10:00", "Close": "23:00"},
+   
+            "Sunday": {"Open": "10:00", "Close": "23:00"}
+        },
+
+
+
+
+        "Name": "La Fela",
+    
+        "Location": {
+    
+            "Address": "#4, Nuestra Senora de Regla entre Remedios y Calzada de Luyano",
+    
+            "Municipality": "10 de Octubre",
+    
+            "Coordinates": "4J4R+2R"
+        },
+    
+        "Type": "Restaurante",
+    
+        "TypeOfFood": "Cocina criolla e italiana",
+    
+        "Sector": "Privado",
+    
+        "Capacity": 50,
+    
+        "ParkingService": true,
+    
+        "WiFi": false,
+    
+        "SmokingArea": true,
+    
+        "Hours": {
+    
+            "Monday": {"Open": "12:00", "Close": "00:00"},
+    
+            "Tuesday": {"Open": "12:00", "Close": "00:00"},
+    
+            "Wednesday": {"Open": "12:00", "Close": "00:00"},
+    
+            "Thursday": {"Open": "12:00", "Close": "00:00"},
+    
+            "Friday": {"Open": "12:00", "Close": "00:00"},
+    
+            "Saturday": {"Open": "12:00", "Close": "00:00"},
+    
+            "Sunday": {"Open": "12:00", "Close": "00:00"}
+    
+        },
+
+
+
+        "LaFuente": {
+   
+        "Name": "La Fuente",
+   
+        "Location": {
+        
+            "Address": "Avenida Acosta entre 5ta y 6ta, La Vibora",
+        
+            "Municipality": "10 de Octubre",
+        
+            "Coordinates": "3JQQ+FPX"
+        },
+       
+        "Type": "Bar-Restaurante",
+       
+        "TypeOfFood": "Cocina mixta",
+       
+        "Sector": "Privado",
+       
+        "Capacity": 40,
+       
+        "ParkingService": true,
+        
+        "WiFi": false,
+       
+        "SmokingArea": true,
+       
+        "Hours": {
+       
+            "Monday": {"Open": "11:00", "Close": "00:00"},
+       
+            "Tuesday": {"Open": "11:00", "Close": "00:00"},
+       
+            "Wednesday": {"Open": "11:00", "Close": "00:00"},
+       
+            "Thursday": {"Open": "11:00", "Close": "00:00"},
+       
+            "Friday": {"Open": "11:00", "Close": "00:00"},
+       
+            "Saturday": {"Open": "11:00", "Close": "00:00"},
+       
+            "Sunday": {"Open": "11:00", "Close": "00:00"}
+        },
+
+
+
+
+        "Name": "La Rosa De Ortega",
+   
+        "Location": {
+   
+            "Address": "Patrocinio #252 esq. a Juan Bruno Zayas, Diez de Octubre",
+   
+            "Municipality": "10 de Octubre",
+   
+            "Coordinates": "4J4R+2R"
+        },
+   
+        "Type": "Cafetería-Restaurante",
+   
+        "type_of_food": ["Internacional"],
+   
+        "ParkingService": true,
+   
+        "Reservations": false,
+   
+        "PaymentMethods": {
+   
+            "CashNational": true,
+           
+            "DigitalTransferNational": true,
+           
+            "USDCash": true,
+           
+            "USDTransfer": true,
+           
+            "MLC": true
+        },
+        
+        "DeliveryAreas": [
+            null
+        ],
+        "PowerGenerator": true,
+        "Hours": {
+        
+            "Monday": {"Open": "07:30", "Close": "23:00"},
+         
+            "Tuesday": {"Open": "07:30", "Close": "23:00"},
+        
+            "Wednesday": {"Open": "07:30", "Close": "23:00"},
+        
+            "Thursday": {"Open": "07:30", "Close": "23:00"},
+        
+            "Friday": {"Open": "07:30", "Close": "23:00"},
+        
+            "Saturday": {"Open": "07:30", "Close": "23:00"},
+        
+            "Sunday": {"Open": "07:30", "Close": "23:00"}
+        },
+
+
+
+        "Name": "Lacret 559",
+        "Location": {
+            "Address": "#559, Calle Lacret entre Goicuria y Mayia Rodriguez, Santos Suarez",
+            "Municipality": "10 de Octubre",
+            "Coordinates": "4J2G+J2P"
+        },
+        "Type": "Bar-Cafeteria",
+        "type_of_food": "Cocteleria y comida mixta",
+        "Sector": "Privado",
+        "Capacity": 20,
+        "ParkingService": false,
+        "WiFi": false,
+        "SmokingArea": true,
+        "Hours": {
+            
+            "Monday": {"Open": "14:00", "Close": "02:00"},
+            
+            "Tuesday": {"Open": "14:00", "Close": "02:00"},
+            
+            "Wednesday": {"Open": "14:00", "Close": "02:00"},
+            
+            "Thursday": {"Open": "14:00", "Close": "02:00"},
+            
+            "Friday": {"Open": "14:00", "Close": "02:00"},
+            
+            "Saturday": {"Open": "14:00", "Close": "02:00"},
+            
+            "Sunday": {"Open": "14:00", "Close": "02:00"}
+        },
+
+
+
+        
+        "municipality":"Guanabacoa"
+
+        "Location": {
+       
+            "Municipality": "Guanabacoa",
+       
+            "address": "Primer Anillo de La Habana, La Habana"
+       
+        },
+        "Name": "Anillo Habanero",
+        
+        "Type_Of_Food": ["criolla", "pizzas", "cócteles", "pastas"],
+        
+        "Hours": {
+        
+            "Monday": {"Open": "10:00", "Close": "23:00"},
+        
+            "Tuesday": {"Open": "10:00", "Close": "23:00"},
+        
+            "Wednesday": {"Open": "10:00", "Close": "23:00"},
+        
+            "Thursday": {"Open": "10:00", "Close": "23:00"},
+        
+            "Friday": {"Open": "10:00", "Close": "23:00"},
+        
+            "Saturday": {"Open": "10:00", "Close": "23:00"},
+        
+            "Sunday": {"Open": "10:00", "Close": "23:00"}
+        },
+
+
+        "Location": {
+        
+            "Municipality": "Guanabacoa",
+        
+            "address": "4MFW+P84, Maximo Gomez, La Habana, Cuba"
+        },
+        
+        "Name": "El Faro",
+        
+        "Type_Of_Food": ["Bar", "Criolla", "Pizzas"],
+        
+        "Hours": {
+        
+            "Monday": {"Open": "09:00", "Close": "23:00"},
+        
+            "Tuesday": {"Open": "09:00", "Close": "23:00"},
+        
+            "Wednesday": {"Open": "09:00", "Close": "23:00"},
+        
+            "Thursday": {"Open": "09:00", "Close": "23:00"},
+        
+            "Friday": {"Open": "09:00", "Close": "23:00"},
+        
+            "Saturday": {"Open": "09:00", "Close": "23:00"},
+        
+            "Sunday": {"Open": "09:00", "Close": "23:00"}
+        },
+
+
+
+        "Municipality": "Guanabacoa",
+      
+        "address": "Avenida Quinta, La Habana, Cuba"
+    },
+  
+    "Name": "El Mexicano",
+  
+    "Type_Of_Food": ["pizzas", "pastas"],
+  
+    "Hours": {
+  
+        "Monday": {"Open": "10:00", "Close": "22:00"},
+  
+        "Tuesday": {"Open": "10:00", "Close": "22:00"},
+  
+        "Wednesday": {"Open": "10:00", "Close": "22:00"},
+  
+        "Thursday": {"Open": "10:00", "Close": "22:00"},
+  
+        "Friday": {"Open": "10:00", "Close": "22:00"},
+  
+        "Saturday": {"Open": "10:00", "Close": "22:00"},
+  
+        "Sunday": {"Open": "10:00", "Close": "22:00"}
+    },
+
+
+
+    "ElPavo": {
+    
+        "Municipality": "Guanabacoa",
+    
+        "name": "Restaurante El Pavo",
+    
+        "type_of_food": ["criolla", "italiana"],
+    
+        "mobile": "58222469",
+    
+        "landline": "77976432"         
+    },
+  
+    "Hours": {
+  
+        "Monday": {"Open": "12:00", "Close": "23:00"},
+  
+        "Tuesday": {"Open": "12:00", "Close": "23:00"},
+  
+        "Wednesday": {"Open": "12:00", "Close": "23:00"},
+  
+        "Thursday": {"Open": "12:00", "Close": "23:00"},
+  
+        "Friday": {"Open": "12:00", "Close": "23:00"},
+  
+        "Saturday": {"Open": "12:00", "Close": "23:00"},
+  
+        "Sunday": {"Open": "12:00", "Close": "23:00"}
+    },
+
+
+
+    "Name": "El Pellizco",
+    "Type_Of_Food": ["criolla"],
+    
+    "Hours": {
+      
+        "Monday": {"Open": "11:00", "Close": "24:00"},
+      
+        "Tuesday": {"Open": "11:00", "Close": "24:00"},
+      
+        "Wednesday": {"Open": "11:00", "Close": "24:00"},
+      
+        "Thursday": {"Open": "11:00", "Close": "24:00"},
+      
+        "Friday": {"Open": "11:00", "Close": "24:00"},
+      
+        "Saturday": {"Open": "11:00", "Close": "24:00"},
+      
+        "Sunday": {"Open": "11:00", "Close": "24:00"}
+    },
+
+
+    "Name": "Pizzas Vip",
+    "Type_Of_Food": ["Pizzas", "Pastas"],
+    "Hours": {
+       
+        "Monday": {"Open": "10:00", "Close": "22:00"},
+       
+        "Tuesday": {"Open": "10:00", "Close": "22:00"},
+       
+        "Wednesday": {"Open": "10:00", "Close": "22:00"},
+      
+        "Thursday": {"Open": "10:00", "Close": "22:00"},
+      
+        "Friday": {"Open": "10:00", "Close": "22:00"},
+      
+        "Saturday": {"Open": "10:00", "Close": "22:00"},
+      
+        "Sunday": {"Open": "10:00", "Close": "22:00"}
+    },
+
+
+    "Municipality": "Guanabacoa",
+       
+    "address": "4MCR+RR9, Cruz Verde, La Habana"
+},
+
+"Name": "Polo",
+
+"Type_Of_Food": ["Bar", "Internacional"],
+
+"Hours": {
+
+    "Monday": {"Open": "12:00", "Close": "00:00"},
+
+    "Tuesday": {"Open": "12:00", "Close": "00:00"},
+
+    "Wednesday": {"Open": "12:00", "Close": "00:00"},
+
+    "Thursday": {"Open": "12:00", "Close": "00:00"},
+
+    "Friday": {"Open": "12:00", "Close": "00:00"},
+
+    "Saturday": {"Open": "12:00", "Close": "00:00"},
+
+    "Sunday": {"Open": "12:00", "Close": "00:00"}
+},
+
+
+"Name": "Ruta 66",
+      
+"Type_Of_Food": ["criolla", "hamburguesas", "pizzas", "pastas"],
+
+"Hours": {
+
+    "Monday": {"Open": null, "Close": null},
+
+    "Tuesday": {"Open": "12:00", "Close": "21:30"},
+
+    "Wednesday": {"Open": "12:00", "Close": "21:30"},
+
+    "Thursday": {"Open": "12:00", "Close": "21:30"},
+
+    "Friday": {"Open": "12:00", "Close": "21:30"},
+
+    "Saturday": {"Open": "12:00", "Close": "21:30"},
+
+    "Sunday": {"Open": "12:00", "Close": "21:30"}
+},
+
+
+
+
+"Name": "Vale & Vane",
+       
+"Type_Of_Food": ["italiana", "criolla"],
+
+"Hours": {
+
+    "Monday": {"Open": null, "Close": null},
+
+    "Tuesday": {"Open": "09:00", "Close": "21:00"},
+
+    "Wednesday": {"Open": "09:00", "Close": "21:00"},
+
+    "Thursday": {"Open": "09:00", "Close": "21:00"},
+
+    "Friday": {"Open": "09:00", "Close": "21:00"},
+
+    "Saturday": {"Open": "09:00", "Close": "21:00"},
+
+    "Sunday": {"Open": "09:00", "Close": "21:00"}
+},
+
+
+"Name": "Cafe Versalles",
+        
+        "Type_Of_Food": ["Bar", "Criolla"],
+        
+        "Hours": {
+        
+            "Monday": {"Open": "09:00", "Close": "24:00"},
+        
+            "Tuesday": {"Open": "09:00", "Close": "24:00"},
+        
+            "Wednesday": {"Open": "09:00", "Close": "24:00"},
+        
+            "Thursday": {"Open": "09:00", "Close": "24:00"},
+        
+            "Friday": {"Open": "09:00", "Close": "24:00"},
+        
+            "Saturday": {"Open": "09:00", "Close": "24:00"},
+        
+            "Sunday": {"Open": "09:00", "Close": "24:00"}
+        },
+
+
+        "municipality":"Habana del este"
+
+
+       
+        "AiresDeCojimar": {
+     
+        "Address": "Pezuela #3e05 entre RUA y Espartero, Cojimar",
+     
+        "Municipality": "Habana del Este",
+     
+        "Type": "Bar-Restaurante",
+     
+        "Type_Of_Food": "Comida mixta",
+     
+        "sector": "Privado",
+     
+        "Hours": {
+     
+            "Monday": {"Open": "12:00", "Close": "00:00"},
+     
+            "Tuesday": {"Open": "12:00", "Close": "00:00"},
+     
+            "Wednesday": {"Open": "12:00", "Close": "00:00"},
+     
+            "Thursday": {"Open": "12:00", "Close": "00:00"},
+     
+            "Friday": {"Open": "12:00", "Close": "00:00"},
+     
+            "Saturday": {"Open": "12:00", "Close": "00:00"},
+     
+            "Sunday": {"Open": "12:00", "Close": "00:00"}
+        },
+
+
+
+        "AlCampestre": {
+    
+        "Address": "El Intermitente, Via Blanca, Alamar",
+    
+        "Municipality": "Habana del Este",
+    
+        "Type": "Parrillada-Restaurant",
+    
+        "Type_Of_Food": "Comida mixta",
+    
+        "Property": "Privado",
+    
+        "Hours": {
+    
+            "Monday": {"Open": "09:00", "Close": "23:00"},
+    
+            "Tuesday": {"Open": "09:00", "Close": "23:00"},
+    
+            "Wednesday": {"Open": "09:00", "Close": "23:00"},
+    
+            "Thursday": {"Open": "09:00", "Close": "23:00"},
+    
+            "Friday": {"Open": "09:00", "Close": "23:00"},
+    
+            "Saturday": {"Open": "09:00", "Close": "23:00"},
+    
+            "Sunday": {"Open": "09:00", "Close": "23:00"}
+        },
+
+
+      
+        "Allegro": {
+    
+            "Address": "Paseo de la Villa, Villa Panamericana",
+        
+            "Municipality": "Habana del Este",
+        
+            "Type": "Restaurant",
+        
+            "Type_Of_Food": "Comida italiana",
+        
+            "sector": "Estatal",
+        
+            "Hours": {
+        
+                "Monday": {"Open": "12:00", "Close": "21:00"},
+        
+                "Tuesday": {"Open": "12:00", "Close": "21:00"},
+        
+                "Wednesday": {"Open": "12:00", "Close": "21:00"},
+        
+                "Thursday": {"Open": "12:00", "Close": "21:00"},
+        
+                "Friday": {"Open": "12:00", "Close": "21:00"},
+        
+                "Saturday": {"Open": "12:00", "Close": "21:00"},
+        
+                "Sunday": {"Open": "12:00", "Close": "21:00"}
+            },
+
+
+
+            "BeerParaCreer": {
+    
+                "Location": {
+            
+                    "Address": "Centro comercial Falcon, Alamar",
+            
+                    "Municipality": "Habana del Este",
+            
+                    "Coordinates": "5P88+9X3"
+                },
+            
+                "Type": "Bar-Cafeteria",
+            
+                "Type_Of_Food": "Comida mixta",
+            
+                "sector": "Privado",
+            
+                "Hours": {
+            
+                    "Monday": {"Open": "10:00", "Close": "21:00"},
+            
+                    "Tuesday": {"Open": "10:00", "Close": "21:00"},
+            
+                    "Wednesday": {"Open": "10:00", "Close": "21:00"},
+            
+                    "Thursday": {"Open": "10:00", "Close": "21:00"},
+            
+                    "Friday": {"Open": "10:00", "Close": "21:00"},
+            
+                    "Saturday": {"Open": "10:00", "Close": "21:00"},
+            
+                    "Sunday": {"Open": "10:00", "Close": "21:00"}
+                },
+                
+                
+
+
+                "chicken_little": {
+        
+                    "province": "la habana",
+                    
+                    "municipality": "la habana del este",
+                    
+                    "location": "5ta. b y 5ta. c, 5b15 e 504, la habana",
+                    
+                    "stars": {
+                    
+                        "social_network": "google",
+                    
+                        "url": "https://g.co/kgs/nUo9MdE",
+                    
+                        "total": 4.5
+                    },
+                    "hours": {
+                    
+                        "monday": {"open": "09:00", "close": "23:00"},
+                    
+                        "tuesday": {"open": "09:00", "close": "23:00"},
+                    
+                        "wednesday": {"open": "09:00", "close": "23:00"},
+                    
+                        "thursday": {"open": "09:00", "close": "23:00"},
+                    
+                        "friday": {"open": "09:00", "close": "23:00"},
+                    
+                        "saturday": {"open": "09:00", "close": "23:00"},
+                    
+                        "sunday": {"open": "09:00", "close": "23:00"}
+                    },
+
+
+
+              "LosDoceApostoles": {
+        "Address": "Complejo Morro Cabana, Via Monumental",
+        "Municipality": "Habana Del Este",
+        "type": "Bar-Restaurant",
+        "type_Of_Food": "Criolla",
+        "Property": "Estatal",
+        "Hours": {
+        
+            "Monday": {"Open": "12:00", "Close": "24:00"},
+        
+            "Tuesday": {"Open": "12:00", "Close": "24:00"},
+        
+            "Wednesday": {"Open": "12:00", "Close": "24:00"},
+        
+            "Thursday": {"Open": "12:00", "Close": "24:00"},
+        
+            "Friday": {"Open": "12:00", "Close": "24:00"},
+        
+            "Saturday": {"Open": "12:00", "Close": "24:00"},
+        
+            "Sunday": {"Open": "12:00", "Close": "24:00"}
+        },
+        
+        
+
+        "DonaCarmela": {
+        "Location": {
+          
+            "Address": "Casa #10, Comunidad 1, Complejo Morro Cabana, Via Monumental",
+          
+            "Municipality": "Habana del Este",
+          
+            "Coordinates": null
+        },
+        
+        "Type": "Bar-Restaurante",
+        
+        "Type_Of_Food": "Cocina criolla",
+        
+        "sector": "Privado",
+        
+        "Hours": {
+        
+            "Monday": {"Open": "12:00", "Close": "23:00"},
+        
+            "Tuesday": {"Open": "12:00", "Close": "23:00"},
+        
+            "Wednesday": {"Open": "12:00", "Close": "23:00"},
+        
+            "Thursday": {"Open": "12:00", "Close": "23:00"},
+        
+            "Friday": {"Open": "12:00", "Close": "23:00"},
+        
+            "Saturday": {"Open": "12:00", "Close": "23:00"},
+        
+
+
+            "DonaCotolin": {
+    
+                "Location": {
+            
+                    "Address": "Calle 482 entre 5ta Avenida y 5ta D, Guanabo",
+            
+                    "Municipality": "Habana del Este",
+            
+                    "Coordinates": "5V97+P4H"
+                },
+            
+                "Type": "Bar-Restaurante",
+            
+                "Type_Of_Food": "Cocina criolla y cocteleria",
+            
+                "sector": "Privado",
+            
+                "Hours": {
+               
+                    "Monday": {"Open": "11:00", "Close": "22:00"},
+               
+                    "Tuesday": {"Open": "11:00", "Close": "22:00"},
+               
+                    "Wednesday": {"Open": "11:00", "Close": "22:00"},
+               
+                    "Thursday": {"Open": "11:00", "Close": "22:00"},
+               
+                    "Friday": {"Open": "11:00", "Close": "22:00"},
+               
+                    "Saturday": {"Open": "11:00", "Close": "22:00"},
+               
+                    "Sunday": {"Open": "11:00", "Close": "22:00"}
+                },
+                
+                
+
+           "place": "el ajiaco",
+   
+    "address": "esquina de calle los pinos y cuba, cojimar",
+   
+    "municipality": "habana del este",
+   
+    "type": "restaurante",
+   
+    "type_of_food": "criolla",
+   
+    "sector": "privado",
+   
+    "hours": {
+   
+        "monday": {"open": "12:00", "close": "00:00"},
+   
+        "tuesday": {"open": "12:00", "close": "00:00"},
+   
+        "wednesday": {"open": "12:00", "close": "00:00"},
+   
+        "thursday": {"open": "12:00", "close": "00:00"},
+   
+        "friday": {"open": "12:00", "close": "00:00"},
+   
+        "saturday": {"open": "12:00", "close": "00:00"},
+   
+        "sunday": {"open": "12:00", "close": "00:00"}
+    },
+    
+    
+
+    "place": "el chanchullero",
+    "location": [
+        {
+         
+            "address": "#162D entre calle 5G y calle 162, zona 6, alamar",
+         
+            "municipality": "habana del este",
+         
+            "coordinates": null
+        }
+    ],
+    
+    "type": "bar-restaurant",
+    
+    "type_of_food": "comida criolla",
+    
+    "sector": "privado",
+    
+    "hours": {
+    
+        "monday": {"open": "12:00", "close": "00:00"},
+    
+        "tuesday": {"open": "12:00", "close": "00:00"},
+    
+        "wednesday": {"open": "12:00", "close": "00:00"},
+    
+        "thursday": {"open": "12:00", "close": "00:00"},
+    
+        "friday": {"open": "12:00", "close": "00:00"},
+    
+        "saturday": {"open": "12:00", "close": "00:00"},
+    
+        "sunday": {"open": "12:00", "close": "00:00"}
+    },
+
+
+
+
+    "el_lechoncito": {
+        
+        "province": "la habana",
+    
+        "municipality": "la habana del este",
+    
+        "location": "5vc8+58g, la habana",
+    
+        "qualification": {
+    
+            "social_network": "google",
+    
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/El%2BLechoncito%2BBar-Restaurante/%4023.1704388,-82.1341683,15z/data%3D!4m2!3m1!1s0x0:0xdd6aad3f24eceeb1%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwjwrcyk1PqJAxXySjABHVfCGiUQ_BJ6BAg6EAk&usg=AOvVaw1ZhMLDd_hJ6TXqR61nT30N",
+    
+            "total": 3.6
+        
+        },
+       
+        "hours": {
+        
+            "monday": {"open": "24:00", "close": "24:00"},
+        
+            "tuesday": {"open": "24:00", "close": "24:00"},
+        
+            "wednesday": {"open": "24:00", "close": "24:00"},
+        
+            "thursday": {"open": "24:00", "close": "24:00"},
+        
+            "friday": {"open": "24:00", "close": "24:00"},
+        
+            "saturday": {"open": "24:00", "close": "24:00"},
+        
+            "sunday": {"open": "24:00", "close": "24:00"}
+        },
+
+
+      
+        "municipality":"Habana Vieja" 
+
+        "name": "5 Esquinas Trattoria",
+        "type": ["Italiana", "Pizza", "Mediterranea", "Europea"],
+        "contact_info": {
+            "phone": {
+                "number": "+53 7 860 6295",
+                "type": "mobile"
+            },
+            "email": "trattoria5esquinashabana@gmail.com",
+            "website": null
+        },
+        "hours": {
+            "monday": {
+                "open": "11:00",
+                "close": "22:30"
+            },
+            "tuesday": {
+                "open": "11:00",
+                "close": "22:30"
+            },
+            "wednesday": {
+                "open": "11:00",
+                "close": "22:30"
+            },
+            "thursday": {
+                "open": "11:00",
+                "close": "22:30"
+            },
+            "friday": {
+                "open": "11:00",
+                "close": "22:30"
+            },
+            "saturday": {
+                "open": "11:00",
+                "close": "22:30"
+            },
+            "sunday": {
+                "open": "11:00",
+                "close": "22:30"
+            }
+
+
+
+            "name": "Antojos",
+            "type": ["Caribeña", "Latina", "Cubana", "Centroamericana"],
+            "contact_info": {
+                "phone": {
+                    "number": "+53 5 282 4907",
+                    "type": "mobile"
+                },
+                "email": null,
+                "website": null
+            },
+            "opening_hours": {
+                "monday": {
+                    "open": "11:00",
+                    "close": "00:00"
+                },
+                "tuesday": {
+                    "open": "11:00",
+                    "close": "00:00"
+                },
+                "wednesday": {
+                    "open": "11:00",
+                    "close": "00:00"
+                },
+                "thursday": {
+                    "open": "11:00",
+                    "close": "00:00"
+                },
+                "friday": {
+                    "open": "11:00",
+                    "close": "00:00"
+                },
+                "saturday": {
+                    "open": "11:00",
+                    "close": "00:00"
+                },
+                "sunday": {
+                    "open": "11:00",
+                    "close": "00:00"
+                }
+            },
+
+
+            "name": "Bone Ma 62",
+            "type": ["Comida Cubana"],
+            "contact_info": {
+                "phone": {
+                    "number": "78602134",
+                    "type": "landline"
+                },
+                "email": null,
+                "website": null
+            },
+            "hours": {
+                "monday": {
+                    "open": "09:00",
+                    "close": "00:00"
+                },
+                "tuesday": {
+                    "open": "09:00",
+                    "close": "00:00"
+                },
+                "wednesday": {
+                    "open": "09:00",
+                    "close": "00:00"
+                },
+                "thursday": {
+                    "open": "09:00",
+                    "close": "00:00"
+                },
+                "friday": {
+                    "open": "09:00",
+                    "close": "00:00"
+                },
+                "saturday": {
+                    "open": "09:00",
+                    "close": "00:00"
+                },
+                "sunday": {
+                    "open": "09:00",
+                    "close": "00:00"
+                }
+
+
+
+                "name": "Buena Vista Curry Club",
+                "type": ["Indio", "Grill"],
+                "contact_info": {
+                    "phone": {
+                        "number": "+53 5 975 77 91",
+                        "type": "mobile"
+                    },
+                    "email": null,
+                    "website": null,
+                    "whatsapp": null
+                },
+                "hours": {
+                    "monday": {
+                        "open": "12:00",
+                        "close": "23:00"
+                    },
+                    "tuesday": {
+                        "open": "12:00",
+                        "close": "23:00"
+                    },
+                    "wednesday": {
+                        "open": "12:00",
+                        "close": "23:00"
+                    },
+                    "thursday": {
+                        "open": "12:00",
+                        "close": "23:00"
+                    },
+                    "friday": {
+                        "open": "12:00",
+                        "close": "23:00"
+                    },
+                    "saturday": {
+                        "open": "12:00",
+                        "close": "23:00"
+                    },
+                    "sunday": {
+                        "open": "12:00",
+                        "close": "23:00"
+                    }
+                    
+                    
+
+               "name": "Cafe Del angel",
+        "contact_info": {
+            "phone": {
+                "number": "078015162",
+                "type": ["landline"]
+            },
+            "email": null,
+            "website": null
+        },
+        "hours": {
+            "monday": {
+                "open": "08:00",
+                "close": "22:00"
+            },
+            "tuesday": {
+                "open": "08:00",
+                "close": "22:00"
+            },
+            "wednesday": {
+                "open": "08:00",
+                "close": "22:00"
+            },
+            "thursday": {
+                "open": "08:00",
+                "close": "22:00"
+            },
+            "friday": {
+                "open": "08:00",
+                "close": "22:00"
+            },
+            "saturday": {
+                "open": "08:00",
+                "close": "22:00"
+            },
+            "sunday": {
+                "open": "08:00",
+                "close": "22:00"
+            }
+        },
+        
+        
+
+        "name": "Cafe Fortuna Joe",
+        "contact_info": {
+            "phone": {
+                "number": "(07) 860080",
+                "type": ["landline"]
+            },
+            "email": null,
+            "website": null
+        },
+        "hours": {
+            "monday": {
+                "open": "09:00",
+                "close": "00:00"
+            },
+            "tuesday": {
+                "open": "09:00",
+                "close": "00:00"
+            },
+            "wednesday": {
+                "open": "09:00",
+                "close": "00:00"
+            },
+            "thursday": {
+                "open": "09:00",
+                "close": "00:00"
+            },
+            "friday": {
+                "open": "09:00",
+                "close": "00:00"
+            },
+            "saturday": {
+                "open": "09:00",
+                "close": "00:00"
+            },
+            "sunday": {
+                "open": "09:00",
+                "close": "00:00"
+            }
+
+
+            "name": "Cafe Bohemia",
+            "type": ["Latina", "Saludable", "Cubana"],
+            "contact_info": {
+              "phone": {
+                "number": "+53 5 4031568",
+                "type": "mobile"
+              },
+              "email": "annalisa.gallina78@gmail.com",
+              "website": "https://www.havanabohemia.com/?fbclid=PAZXh0bgNhZW0CMTEAAaZfdC42A_xW3vKEhflH7fuNicWLPKj7CRNRWwJ7QMvMfz5eZPclZM_wXy0_aem_lFcK0zHOafgVrnYQpGOsnw"
+            },
+            "opening_hours": {
+              "monday": {
+                "open": "08:00",
+                "close": "22:00"
+              },
+              "tuesday": {
+                "open": "08:00",
+                "close": "22:00"
+              },
+              "wednesday": {
+                "open": "08:00",
+                "close": "22:00"
+              },
+              "thursday": {
+                "open": "08:00",
+                "close": "22:00"
+              },
+              "friday": {
+                "open": "08:00",
+                "close": "22:00"
+              },
+              "saturday": {
+                "open": "08:00",
+                "close": "22:00"
+              },
+              "sunday": {
+                "open": "08:00",
+                "close": "22:00"
+              }
+            },
+
+
+            "name": "ChaChaCha",
+            "type": "Internacional, Fusión, Cubana",
+            "contact_info": {
+                "phone": {
+                    "number": "078672450",
+                    "type": ["mobile"]
+                },
+                "email": null,
+                "website": null
+            },
+            "hours": {
+                "monday": {
+                    "open": "12:00",
+                    "close": "00:00"
+                },
+                "tuesday": {
+                    "open": "12:00",
+                    "close": "00:00"
+                },
+                "wednesday": {
+                    "open": "12:00",
+                    "close": "00:00"
+                },
+                "thursday": {
+                    "open": "12:00",
+                    "close": "00:00"
+                },
+                "friday": {
+                    "open": "12:00",
+                    "close": "00:00"
+                },
+                "saturday": {
+                    "open": "12:00",
+                    "close": "00:00"
+                },
+                "sunday": {
+                    "open": "12:00",
+                    "close": "00:00"
+                }
+            },
+
+
+
+            "name": "El Rincon De Las Letras",
+            "type": ["Caribena", "Cubana"],
+            "description": "Comida criolla e internacional",
+            "contact_info": {
+                "phone": {
+                    "number": "78014746",
+                    "type": "landline"
+                },
+                "email": null,
+                "website": null
+            },
+            "hours": {
+                "monday": {
+                    "open": "08:30",
+                    "close": "23:00"
+                },
+                "tuesday": {
+                    "open": "08:30",
+                    "close": "23:00"
+                },
+                "wednesday": {
+                    "open": "08:30",
+                    "close": "23:00"
+                },
+                "thursday": {
+                    "open": "08:30",
+                    "close": "23:00"
+                },
+                "friday": {
+                    "open": "08:30",
+                    "close": "23:00"
+                },
+                "saturday": {
+                    "open": "08:30",
+                    "close": "23:00"
+                },
+                "sunday": {
+                    "open": "08:30",
+                    "close": "23:00"
+                }
+            },
+
+
+            "name": "Esto No Es Un Cafe",
+        "contact_info": {
+            "phone": {
+                "number": "78013109",
+                "type": ["landline"]
+            },
+            "email": "estonoesuncafe@gmail.com",
+            "website": "https://estonoesuncafe.wordpress.com"
+        },
+        "hours": {
+            "monday": {
+                "open": "08:00",
+                "close": "00:00"
+            },
+            "tuesday": {
+                "open": "08:00",
+                "close": "00:00"
+            },
+            "wednesday": {
+                "open": "08:00",
+                "close": "00:00"
+            },
+            "thursday": {
+                "open": "08:00",
+                "close": "00:00"
+            },
+            "friday": {
+                "open": "08:00",
+                "close": "00:00"
+            },
+            "saturday": {
+                "open": "08:00",
+                "close": "00:00"
+            },
+            "sunday": {
+                "open": "08:00",
+                "close": "00:00"
+            }
+        },
+        
+        
+
+        "name": "Fonda Al Pirata",
+        "type": ["Caribeña", "Cubana"],
+        "contact_info": {
+            "phone": {
+                "number": "5 2539750",
+                "type": "mobile"
+            },
+            "email": "alpiratasanignacio@gmail.com",
+            "website": "qr14334.buenacarta.com"
+        },
+        "hours": {
+            "monday": {
+                "open": "08:00",
+                "close": "00:00"
+            },
+            "tuesday": {
+                "open": "08:00",
+                "close": "00:00"
+            },
+            "wednesday": {
+                "open": "08:00",
+                "close": "00:00"
+            },
+            "thursday": {
+                "open": "08:00",
+                "close": "00:00"
+            },
+            "friday": {
+                "open": "08:00",
+                "close": "00:00"
+            },
+            "saturday": {
+                "open": "08:00",
+                "close": "00:00"
+            },
+            "sunday": {
+                "open": "08:00",
+                "close": "00:00"
+            }
+        },
+        
+        
+
+        "name": "Habana Tokio",
+        "type": "Restaurante Japonés",
+        "contact_info": {
+            "phone": [
+                {
+                    "number": "+53 59172392",
+                    "type": "mobile"
+                },
+                {
+                    "number": "+53 52723402",
+                    "type": "mobile"
+                }
+            ],
+            "email": null,
+            "website": null
+        },
+        "hours": {
+            "monday": {
+                "open": "11:00",
+                "close": "02:00"
+            },
+            "tuesday": {
+                "open": "11:00",
+                "close": "02:00"
+            },
+            "wednesday": {
+                "open": "11:00",
+                "close": "02:00"
+            },
+            "thursday": {
+                "open": "11:00",
+                "close": "02:00"
+            },
+            "friday": {
+                "open": "11:00",
+                "close": "02:00"
+            },
+            "saturday": {
+                "open": "11:00",
+                "close": "02:00"
+            },
+            "sunday": {
+                "open": "11:00",
+                "close": "02:00"
+            }
+        },
+
+
+
+        "name": "Habana 61",
+        "type": "Marisco, Internacional, Saludable, Cubana",
+        "contact_info": {
+            "phone": {
+                "number": "+53 7-8016433",
+                "type": ["landline"]
+            },
+            "email": null,
+            "website": null
+        },
+        "hours": {
+            "monday": {
+                "open": "12:00",
+                "close": "00:00"
+            },
+            "tuesday": {
+                "open": "12:00",
+                "close": "00:00"
+            },
+            "wednesday": {
+                "open": "12:00",
+                "close": "00:00"
+            },
+            "thursday": {
+                "open": "12:00",
+                "close": "00:00"
+            },
+            "friday": {
+                "open": "12:00",
+                "close": "00:00"
+            },
+            "saturday": {
+                "open": "12:00",
+                "close": "00:00"
+            },
+            "sunday": {
+                "open": "12:00",
+                "close": "00:00"
+            }
+        },
+
+
+        "name": "JAMA Asian Food",
+        "type": "Japonesa, Sushi, Asiatica",
+        "contact_info": {
+            "phone": [
+                {
+                    "number": "+53 52970745",
+                    "type": "mobile"
+                }
+            ],
+            "email": null,
+            "website": null
+        },
+        "hours": {
+            "monday": {
+                "open": "12:00",
+                "close": "00:00"
+            },
+            "tuesday": {
+                "open": "12:00",
+                "close": "00:00"
+            },
+            "wednesday": {
+                "open": "12:00",
+                "close": "00:00"
+            },
+            "thursday": {
+                "open": "12:00",
+                "close": "00:00"
+            },
+            "friday": {
+                "open": "12:00",
+                "close": "00:00"
+            },
+            "saturday": {
+                "open": "12:00",
+                "close": "00:00"
+            },
+            "sunday": {
+                "open": "12:00",
+                "close": "00:00"
+            }
+        },
+
+
+        "name": "Kilometro Zero",
+        "type": ["Caribeña", "Latina", "Bar", "Internacional", "Cubana", "Centroamericana"],
+        "contact_info": {
+            "phone": {
+                "number": "+53 5 9710666",
+                "type": "mobile"
+            },
+            "email": null,
+            "website": "https://kilometrozerocuba.com/en-us/"
+        },
+        "hours": {
+            "monday": {
+                "open": "08:00",
+                "close": "02:00"
+            },
+            "tuesday": {
+                "open": "08:00",
+                "close": "02:00"
+            },
+            "wednesday": {
+                "open": "08:00",
+                "close": "02:00"
+            },
+            "thursday": {
+                "open": "08:00",
+                "close": "02:00"
+            },
+            "friday": {
+                "open": "08:00",
+                "close": "02:00"
+            },
+            "saturday": {
+                "open": "08:00",
+                "close": "02:00"
+            },
+            "sunday": {
+                "open": "08:00",
+                "close": "02:00"
+            }
+        },
+
+
+
+        "name": "La Hamburguesita",
+        "type": ["Americana", "Comida rapida"],
+        "contact_info": {
+            "phone": {
+                "number": null,
+                "type": null
+            },
+            "email": null,
+            "website": null
+        },
+        "hours": {
+            "monday": {
+                "open": "11:00",
+                "close": "23:00"
+            },
+            "tuesday": {
+                "open": "11:00",
+                "close": "23:00"
+            },
+            "wednesday": {
+                "open": "11:00",
+                "close": "23:00"
+            },
+            "thursday": {
+                "open": "11:00",
+                "close": "23:00"
+            },
+            "friday": {
+                "open": "11:00",
+                "close": "23:00"
+            },
+            "saturday": {
+                "open": "11:00",
+                "close": "23:00"
+            },
+            "sunday": {
+                "open": "11:00",
+                "close": "23:00"
+            }
+        },
+
+
+        "name": "La Republica",
+        "contact_info": {
+            "phone": [
+                {
+                    "number": "(07) 860080",
+                    "type": "landline"
+                }
+            ],
+            "mobile": null,
+            "email": null,
+            "website": "http://venamihabana.com",
+            "whatsapp": null
+        },
+        "hours": {
+            "monday": {
+                "open": "12:00",
+                "close": "22:00"
+            },
+            "tuesday": {
+                "open": "12:00",
+                "close": "22:00"
+            },
+            "wednesday": {
+                "open": "12:00",
+                "close": "22:00"
+            },
+            "thursday": {
+                "open": "12:00",
+                "close": "22:00"
+            },
+            "friday": {
+                "open": "12:00",
+                "close": "22:00"
+            },
+            "saturday": {
+                "open": "12:00",
+                "close": "22:00"
+            },
+            "sunday": {
+                "open": "12:00",
+                "close": "22:00"
+            }
+        },
+        
+        
+        "name": "La Torre De Marfil",
+        "contact_info": {
+            "phone": [
+                {
+                    "number": "(07) 860080",
+                    "type": "landline"
+                }
+            ],
+            "mobile": null,
+            "email": null,
+            "website": null,
+            "whatsapp": null
+        },
+        "hours": {
+            "monday": {
+                "open": "11:00",
+                "close": "23:00"
+            },
+            "tuesday": {
+                "open": "11:00",
+                "close": "23:00"
+            },
+            "wednesday": {
+                "open": "11:00",
+                "close": "23:00"
+            },
+            "thursday": {
+                "open": "11:00",
+                "close": "23:00"
+            },
+            "friday": {
+                "open": "11:00",
+                "close": "23:00"
+            },
+            "saturday": {
+                "open": "11:00",
+                "close": "23:00"
+            },
+            "sunday": {
+                "open": "11:00",
+                "close": "23:00"
+            }
+        },
+
+
+
+        "name": "La Vitrola",
+        "type": ["Americana", "Caribena", "Latina", "Bar", "Cubana", "Centroamericana"],
+        "contact_info": {
+          "phone": [
+            {
+              "number": "(+53) 78018264",
+              "type": "landline"
+            },
+            {
+              "number": "(+53) 59518899",
+              "type": "mobile"
+            },
+            {
+              "number": "(+53) 52945995",
+              "type": "mobile"
+            }
+          ],
+          "email": null,
+          "website": "http://www.lavitrolacuba.com"
+        },
+        "opening_hours": {
+          "monday": {
+            "open": "08:30",
+            "close": "02:00"
+          },
+          "tuesday": {
+            "open": "08:30",
+            "close": "02:00"
+          },
+          "wednesday": {
+            "open": "08:30",
+            "close": "02:00"
+          },
+          "thursday": {
+            "open": "08:30",
+            "close": "02:00"
+          },
+          "friday": {
+            "open": "08:30",
+            "close": "02:00"
+          },
+          "saturday": {
+            "open": "08:30",
+            "close": "02:00"
+          },
+          "sunday": {
+            "open": "08:30",
+            "close": "02:00"
+          }
+
+
+          "name": "Ley Seca",
+          "type": ["Caribena", "Pub", "Cubana"],
+         
+          "contact_info": {
+              "phone": {
+                  "number": "+53 5668.5088",
+                  "type": "mobile"
+              },
+              "email": null,
+              "website": null
+          },
+          "hours": {
+              "monday": {
+                  "open": "11:30",
+                  "close": "04:00"
+              },
+              "tuesday": {
+                  "open": "11:30",
+                  "close": "04:00"
+              },
+              "wednesday": {
+                  "open": "11:30",
+                  "close": "04:00"
+              },
+              "thursday": {
+                  "open": "11:30",
+                  "close": "04:00"
+              },
+              "friday": {
+                  "open": "11:30",
+                  "close": "04:00"
+              },
+              "saturday": {
+                  "open": "11:30",
+                  "close": "04:00"
+              },
+              "sunday": {
+                  "open": "11:30",
+                  "close": "04:00"
+              }
+          },
+
+
+
+          "establishment": {
+            "classification": {
+                "type": ["bar-restaurante"]
+            },
+            "name": "Lo de Monik",
+            "contact_info": {
+                "phone": {
+                    "number": "052811595",
+                    "type": "mobile"
+                },
+                "email": null,
+                "website": null
+            },
+            "hours": {
+                "monday": {
+                    "open": "11:00",
+                    "close": "23:00"
+                },
+                "tuesday": {
+                    "open": "11:00",
+                    "close": "23:00"
+                },
+                "wednesday": {
+                    "open": "11:00",
+                    "close": "23:00"
+                },
+                "thursday": {
+                    "open": "11:00",
+                    "close": "23:00"
+                },
+                "friday": {
+                    "open": "11:00",
+                    "close": "23:00"
+                },
+                "saturday": {
+                    "open": "11:00",
+                    "close": "23:00"
+                },
+                "sunday": {
+                    "open": "11:00",
+                    "close": "23:00"
+                }
+            },
+
+
+
+            "name": "Mini Bar (Hotel Royalton Paseo Del Prado)",
+        "contact_info": {
+            "phone": null,
+            "email": null,
+            "website": null
+        },
+        "hours": {
+            "monday": {
+                "open": "00:00",
+                "close": "24:00"
+            },
+            "tuesday": {
+                "open": "00:00",
+                "close": "24:00"
+            },
+            "wednesday": {
+                "open": "00:00",
+                "close": "24:00"
+            },
+            "thursday": {
+                "open": "00:00",
+                "close": "24:00"
+            },
+            "friday": {
+                "open": "00:00",
+                "close": "24:00"
+            },
+            "saturday": {
+                "open": "00:00",
+                "close": "24:00"
+            },
+            "sunday": {
+                "open": "00:00",
+                "close": "24:00"
+            } 
+
+
+
+            "name": "Mythos",
+            "contact_info": {
+                "phone": {
+                    "number": "+53 63691718",
+                    "type": "mobile"
+                },
+                "email": null,
+                "website": null
+            },
+            "hours": {
+                "monday": {
+                    "open": "08:00",
+                    "close": "23:00"
+                },
+                "tuesday": {
+                    "open": "08:00",
+                    "close": "23:00"
+                },
+                "wednesday": {
+                    "open": "08:00",
+                    "close": "23:00"
+                },
+                "thursday": {
+                    "open": "08:00",
+                    "close": "23:00"
+                },
+                "friday": {
+                    "open": "08:00",
+                    "close": "23:00"
+                },
+                "saturday": {
+                    "open": "08:00",
+                    "close": "23:00"
+                },
+                "sunday": {
+                    "open": "08:00",
+                    "close": "23:00"
+                }
+            },
+
+
+
+            "name": "Planh Enoteca & Restaurante Mithai",
+        "contact_info": {
+            "phone": [
+                {
+                    "number": "78616212",
+                    "type": "landline"
+                },
+                {
+                    "number": "+53 53867350",
+                    "type": "mobile"
+                }
+            ],
+            "email": null,
+            "website": null
+        },
+        "hours": {
+            "monday": {
+                "open": "Closed",
+                "close": "Closed"
+            },
+            "tuesday": {
+                "open": "11:30",
+                "close": "00:00"
+            },
+            "wednesday": {
+                "open": "11:30",
+                "close": "00:00"
+            },
+            "thursday": {
+                "open": "11:30",
+                "close": "00:00"
+            },
+            "friday": {
+                "open": "11:30",
+                "close": "00:00"
+            },
+            "saturday": {
+                "open": "11:30",
+                "close": "00:00"
+            },
+            "sunday": {
+                "open": "11:30",
+                "close": "00:00"
+            }
+        },
+        
+        
+
+    },
+    "name": "Star Cafe",
+    "type": ["Bar", "Pizza", "Café", "Internacional", "Pub", "Cubana"],
+    "contact_info": {
+        "phone": {
+            "number": null,
+            "type": null
+        },
+        "email": null,
+        "website": "https://m.facebook.com/starcafecuba/"
+    },
+    "hours": {
+        "monday": {
+            "open": "07:00",
+            "close": "02:00"
+        },
+        "tuesday": {
+            "open": "07:00",
+            "close": "02:00"
+        },
+        "wednesday": {
+            "open": "07:00",
+            "close": "02:00"
+        },
+        "thursday": {
+            "open": "07:00",
+            "close": "02:00"
+        },
+        "friday": {
+            "open": "07:00",
+            "close": "02:00"
+        },
+        "saturday": {
+            "open": "07:00",
+            "close": "02:00"
+        },
+        "sunday": {
+            "open": "07:00",
+            "close": "02:00"
+        }
+    },
+
+
+    "name": "Teniente Rey 360",
+    "contact_info": {
+        "phone": {
+            "number": "7 8602916",
+            "type": "landline"
+        },
+        "email": null,
+        "website": null
+    },
+    "hours": {
+        "monday": {
+            "open": "11:00",
+            "close": "21:30"
+        },
+        "tuesday": {
+            "open": "11:00",
+            "close": "21:30"
+        },
+        "wednesday": {
+            "open": "11:00",
+            "close": "21:30"
+        },
+        "thursday": {
+            "open": "11:00",
+            "close": "21:30"
+        },
+        "friday": {
+            "open": "11:00",
+            "close": "21:30"
+        },
+        "saturday": {
+            "open": "11:00",
+            "close": "21:30"
+        },
+        "sunday": {
+            "open": "11:00",
+            "close": "21:30"
+        }
+    },
+
+
+    "name": "Venami",
+        "type": ["Italiana", "Pizza", "Mediterranea", "Europea"],
+        "contact_info": {
+            "phone": {
+                "number": "(07) 8605156",
+                "type": "landline"
+            },
+            "email": null,
+            "website": "http://venamihabana.com"
+        },
+        "hours": {
+            "monday": {
+                "open": "11:30",
+                "close": "23:00"
+            },
+            "tuesday": {
+                "open": "11:30",
+                "close": "23:00"
+            },
+            "wednesday": {
+                "open": "11:30",
+                "close": "23:00"
+            },
+            "thursday": {
+                "open": "11:30",
+                "close": "23:00"
+            },
+            "friday": {
+                "open": "11:30",
+                "close": "23:00"
+            },
+            "saturday": {
+                "open": "11:30",
+                "close": "23:00"
+            },
+            "sunday": {
+                "open": "11:30",
+                "close": "23:00"
+            }
+        },
+
+
+        "name": "Yarini",
+        "contact_info": {
+            "phone": {
+                "number": "+53 5 8979835",
+                "type": "mobile"
+            },
+            "email": "info@yarinihabana.com",
+            "website": null
+        },
+        "hours": {
+            "monday": {
+                "open": "12:00",
+                "close": "00:00"
+            },
+            "tuesday": {
+                "open": "12:00",
+                "close": "00:00"
+            },
+            "wednesday": {
+                "open": "12:00",
+                "close": "00:00"
+            },
+            "thursday": {
+                "open": "12:00",
+                "close": "00:00"
+            },
+            "friday": {
+                "open": "12:00",
+                "close": "00:00"
+            },
+            "saturday": {
+                "open": "12:00",
+                "close": "00:00"
+            },
+            "sunday": {
+                "open": "12:00",
+                "close": "00:00"
+            }
+        },
+
+
+        "name": "Sibarita",
+    
+        "type": ["restaurante", "bar"],
+        
+        "type_of_food" : ["Caribena", "Latina" , "Internacional" , "Mediterránea" ,"Cubana", "Centroamericana"] ,
+    
+        "municipality": "La Habana Vieja",
+       
+        "services": ["Reservaciones", "Asiento", "Sirve alcohol", "Bar completo", "Servicio de mesa"],
+        
+        "address" : "O'Reilly #528 entre Bernaza y Villegas, Habana Vieja",
+        
+        "qualification": 5.0,
+       
+        "hours": {
+            
+            "monday": {"open": "12:00",  "close": "24:00"},    
+        
+            "tuesday": {"open": "12:00",  "close": "24:00"},
+        
+            "wednesday": {"open": "12:00",  "close": "24:00"},
+        
+            "thursday": {"open": "12:00",  "close": "24:00"},
+        
+            "friday": {"open": "12:00",  "close": "24:00"},
+        
+            "saturday": {"open": "12:00",  "close": "02:00"},
+        
+            "sunday": {"open": "12:00",  "close": "24:00"}
+    
+            
+           
+           
+            "municipality":"La Lisa"
+
+
+            "Place": "aroma de cafe",
+    "Location": [
+      {
+        "Address": "#5106, Calle 244 entre 51 y 61",
+        "Municipality": "La Lisa",
+        "Coordinates": null
+      }
+    ],
+    "type": "cafeteria",
+    "type_of_food": "cocina mixta y cocteleria",
+    "sector": "privado",
+    "hours": [
+        {
+         
+          "Monday": {"open": "12:00", "close": "00:00"},
+         
+          "Tuesday": {"open": "12:00", "close": "00:00"},
+         
+          "Wednesday": {"open": "12:00", "close": "00:00"},
+         
+          "Thursday": {"open": "12:00", "close": "00:00"},
+         
+          "Friday": {"open": "12:00", "close": "00:00"},
+         
+          "Saturday": {"open": "12:00", "close": "00:00"},
+         
+          "Sunday": {"open": "12:00", "close": "00:00"}
+        }
+      ],
+
+
+      "name": "juanky's pan",
+   
+    "location": "lisa",
+   
+    "address": "Avenida 23A entre 202 y 212, Reparto La Coronela, La Lisa, La Habana, Cuba",
+   
+    "specialty": ["snack food"],
+   
+    "hours": {
+   
+      "monday": {"open": "12:00", "close": "00:00"},
+   
+      "tuesday": {"open": "12:00", "close": "00:00"},
+      
+      "wednesday": {"open": "12:00", "close": "00:00"},
+      
+      "thursday": {"open": "12:00", "close": "00:00"},
+      
+      "friday": {"open": "12:00", "close": "01:00"},
+      
+      "saturday": {"open": "12:00", "close": "02:00"},
+    
+      "sunday": {"open": "12:00", "close": "00:00"}
+    },
+
+
+    "name": "la baliza",
+    "location": "lisa",
+    "address":null,
+    "type_of_food": ["comida rapida"],
+    "hours": {
+        
+        "monday": {"open": "11:00", "close": "00:00"},
+        
+        "tuesday": {"open": "11:00", "close": "00:00"},
+        
+        "wednesday": {"open": "11:00", "close": "00:00"},
+        
+        "thursday": {"open": "11:00", "close": "00:00"},
+        
+        "friday": {"open": "11:00", "close": "00:00"},
+        
+        "saturday": {"open": "11:00", "close": "00:00"},
+        
+        "sunday": {"open": "11:00", "close": "00:00"}
+    },
+
+
+    "Place": "la mia pizza",
+    "Location": [
+      {
+        "Address": "Avenida 29 entre 202 y 204, La Coronela",
+        "Municipality": "La Lisa",
+        "Coordinates": "3GCQ+FXQ"
+      }
+    ],
+    "type": "cafeteria",
+    "type_of_food": "cocina italiana",
+    "sector": "privado",
+    "hours": [
+      {
+       
+        "Monday": {"open": "10:30", "close": "02:00"},
+       
+        "Tuesday": {"open": "10:30", "close": "02:00"},
+       
+        "Wednesday": {"open": "10:30", "close": "02:00"},
+       
+        "Thursday": {"open": "10:30", "close": "02:00"},
+       
+        "Friday": {"open": "10:30", "close": "02:00"},
+       
+        "Saturday": {"open": "10:30", "close": "02:00"},
+       
+        "Sunday": {"open": "10:30", "close": "02:00"}
+      }
+
+
+      "name": "la novia",
+    "location": "lisa",
+    "address":null ,
+    "type_of_food": ["caribena"],
+    "hours": {
+       
+        "monday": {"open": "11:00", "close": "00:00"},
+       
+        "tuesday": {"open": "11:00", "close": "00:00"},
+       
+        "wednesday": {"open": "11:00", "close": "00:00"},
+       
+        "thursday": {"open": "11:00", "close": "00:00"},
+       
+        "friday": {"open": "11:00", "close": "00:00"},
+       
+        "saturday": {"open": "11:00", "close": "00:00"},
+       
+        "sunday": {"open": "11:00", "close": "00:00"}
+    },
+
+
+    "name": "lkg",
+    "location": "lisa",
+    "address":null,
+    "type_of_food": ["caribena"],
+    "hours": {
+       
+        "monday": {"open": "10:00", "close": "00:00"},
+       
+        "tuesday": {"open": "10:00", "close": "00:00"},
+       
+        "wednesday": {"open": "10:00", "close": "00:00"},
+       
+        "thursday": {"open": "10:00", "close": "00:00"},
+       
+        "friday": {"open": "10:00", "close": "00:00"},
+       
+        "saturday": {"open": "10:00", "close": "01:00"},
+       
+        "sunday": {"open": "10:00", "close": "01:00"}
+    },
+
+
+
+    "Place": "mi bohio",
+    "Location": [
+      {
+        "Address": "Finca La Pinta, #2409, Avenida 251 entre 20 y 28, Punta Brava",
+        "Municipality": "La Lisa",
+        "Coordinates": "2G96+3RJ"
+      }
+    ],
+    "type": "restaurante",
+    "type_of_food": "cocina mixta",
+    "sector": "privado",
+    "hours": [
+      {
+      
+        "Monday": {"open": "12:00", "close": "22:00"},
+      
+        "Tuesday": {"open": "12:00", "close": "22:00"},
+      
+        "Wednesday": {"open": "12:00", "close": "22:00"},
+      
+        "Thursday": {"open": "12:00", "close": "22:00"},
+      
+        "Friday": {"open": "12:00", "close": "22:00"},
+      
+        "Saturday": {"open": "12:00", "close": "22:00"},
+      
+        "Sunday": {"open": "12:00", "close": "22:00"}
+      }
+
+
+
+"name": "pacomeralgo",
+    "location": "lisa",
+    "adress":null,
+    "type_of_food": ["italiana"],
+    "hours": {
+        
+        "monday": {"open": "11:00", "close": "22:00"},
+        
+        "tuesday": {"open": "11:00", "close": "22:00"},
+        
+        "wednesday": {"open": "11:00", "close": "22:00"},
+        
+        "thursday": {"open": "11:00", "close": "22:00"},
+        
+        "friday": {"open": "11:00", "close": "22:00"},
+        
+        "saturday": {"open": "11:00", "close": "22:00"},
+        
+        "sunday": {"open": "11:00", "close": "22:00"}
+    },
+
+
+
+    "name": "ranchon don martin",
+   
+    "location": "lisa",
+    "address":null,
+    "type_of_food": ["cubana"],
+   
+    "hours": {
+   
+        "monday": {"open": "11:00", "close": "00:00"},
+   
+        "tuesday": {"open": "11:00", "close": "00:00"},
+   
+        "wednesday": {"open": "11:00", "close": "00:00"},
+   
+        "thursday": {"open": "11:00", "close": "00:00"},
+   
+        "friday": {"open": "11:00", "close": "00:00"},
+   
+        "saturday": {"open": "11:00", "close": "00:00"},
+   
+        "sunday": {"open": "11:00", "close": "00:00"}
+    },
+
+
+    
+    "municipality":"Marianao"
+
+
+
+"700Grados": {
+        "Type": "Restaurante",
+        "PhoneNumber": "54063906",
+        "WebPage": "700gradoshabana",
+        "sector": "Particular",
+        "OperatingHours": {
+           
+            "Monday": {"Open": "11:00", "Close": "03:00"},
+           
+            "Tuesday": {"Open": "11:00", "Close": "03:00"},
+           
+            "Wednesday": {"Open": "11:00", "Close": "03:00"},
+           
+            "Thursday": {"Open": "11:00", "Close": "03:00"},
+           
+            "Friday": {"Open": "11:00", "Close": "03:00"},
+           
+            "Saturday": {"Open": "11:00", "Close": "03:00"},
+           
+            "Sunday": {"Open": "11:00", "Close": "03:00"}
+        },
+
+
+        "BarTropicana": {
+        
+            "Type": "Bar",
+            
+            "PhoneNumber": "7279147",
+            
+            "WebPage": "Cabaret-Tropicana.com",
+            
+            "sector": "Estatal",
+            
+            "OperatingHours": {
+                
+                "Monday": {"Open": "12:00", "Close": "22:00"},
+                
+                "Tuesday": {"Open": "12:00", "Close": "22:00"},
+                
+                "Wednesday": {"Open": "12:00", "Close": "22:00"},
+                
+                "Thursday": {"Open": "12:00", "Close": "22:00"},
+                
+                "Friday": {"Open": "12:00", "Close": "22:00"},
+                
+                "Saturday": {"Open": "12:00", "Close": "22:00"},
+                
+                "Sunday": {"Open": "12:00", "Close": "22:00"}
+            },
+
+
+            "CafeteriaObelisco": {
+                "Type": "Restaurante",
+                "PhoneNumber": [null],
+                "WebPage": [null],
+                "sector": "Estatal",
+                "OperatingHours": {
+                   
+                    "Monday": {"Open": "09:00", "Close": "18:00"},
+                   
+                    "Tuesday": {"Open": "09:00", "Close": "18:00"},
+                   
+                    "Wednesday": {"Open": "09:00", "Close": "18:00"},
+                   
+                    "Thursday": {"Open": "09:00", "Close": "18:00"},
+                   
+                    "Friday": {"Open": "09:00", "Close": "18:00"},
+                   
+                    "Saturday": {"Open": "09:00", "Close": "18:00"},
+                   
+                    "Sunday": {"Open": "09:00", "Close": "18:00"}
+                },
+
+
+                "Colesterol5.1": {
+        
+                    "Type": "Restaurante",
+                    
+                    "PhoneNumber": "59531065",
+                    
+                    "WebPage": "Cafecolesterol5.1",
+                    
+                    "sector": "Particular",
+                    
+                    "OperatingHours": {
+                        
+                        "Monday": {"Open": "10:00", "Close": "00:00"},
+                        
+                        "Tuesday": {"Open": "10:00", "Close": "00:00"},
+                        
+                        "Wednesday": {"Open": "10:00", "Close": "00:00"},
+                        
+                        "Thursday": {"Open": "10:00", "Close": "00:00"},
+                        
+                        "Friday": {"Open": "10:00", "Close": "00:00"},
+                        
+                        "Saturday": {"Open": "10:00", "Close": "00:00"},
+                        
+                        "Sunday": {"Open": "10:00", "Close": "00:00"}
+                    },
+                    
+                    
+                    "RanchonDe41": {
+        
+                        "Type": "Restaurante",
+                        
+                        "PhoneNumber": "52014975",
+                        
+                        "WebPage": [null],
+                        
+                        "sector": "Particular",
+                        
+                        "OperatingHours": {
+                           
+                            "Monday": {"Open": "24:00", "Close": "24:00"},
+                           
+                            "Tuesday": {"Open": "24:00", "Close": "24:00"},
+                           
+                            "Wednesday": {"Open": "24:00", "Close": "24:00"},
+                           
+                            "Thursday": {"Open": "24:00", "Close": "24:00"},
+                           
+                            "Friday": {"Open": "24:00", "Close": "24:00"},
+                           
+                            "Saturday": {"Open": "24:00", "Close": "24:00"},
+                           
+                            "Sunday": {"Open": "24:00", "Close": "24:00"}
+                        },
+                        
+                        
+                        "MMCafeteria": {
+        "Type": "Cafeteria-Restaurante",
+        "PhoneNumber": "72611382",
+        "WebPage": "Cafeteria MM",
+        "sector": "Particular",
+        "OperatingHours": {
+            "Monday": {"Open": "09:00", "Close": "22:00"},
+            "Tuesday": {"Open": "09:00", "Close": "22:00"},
+            "Wednesday": {"Open": "09:00", "Close": "22:00"},
+            "Thursday": {"Open": "09:00", "Close": "22:00"},
+            "Friday": {"Open": "09:00", "Close": "22:00"},
+            "Saturday": {"Open": "10:00", "Close": "00:00"},
+            "Sunday": {"Open": "10:00", "Close": "00:00"}
+        },
+
+
+        "BarTropicana": {
+    
+            "Type": "Bar",
+        
+            "PhoneNumber": "7279147",
+        
+            "WebPage": "Cabaret-Tropicana.com",
+        
+            "sector": "Estatal",
+        
+            "OperatingHours": {
+        
+                "Monday": {"Open": "12:00", "Close": "22:00"},
+        
+                "Tuesday": {"Open": "12:00", "Close": "22:00"},
+        
+                "Wednesday": {"Open": "12:00", "Close": "22:00"},
+        
+                "Thursday": {"Open": "12:00", "Close": "22:00"},
+        
+                "Friday": {"Open": "12:00", "Close": "22:00"},
+        
+                "Saturday": {"Open": "12:00", "Close": "22:00"},
+        
+                "Sunday": {"Open": "12:00", "Close": "22:00"}
+            },
+
+
+            "Tropikana": {
+        "Type": "Restaurante",
+        "PhoneNumber": [null],
+        "WebPage": [null],
+        "sector": "Particular",
+        "OperatingHours": {
+           
+            "Monday": {"Open": "11:00", "Close": "22:00"},
+           
+            "Tuesday": {"Open": "11:00", "Close": "22:00"},
+           
+            "Wednesday": {"Open": "11:00", "Close": "22:00"},
+           
+            "Thursday": {"Open": "11:00", "Close": "22:00"},
+           
+            "Friday": {"Open": "11:00", "Close": "22:00"},
+           
+            "Saturday": {"Open": "11:00", "Close": "22:00"},
+           
+            "Sunday": {"Open": "11:00", "Close": "22:00"}
+        },
+
+
+
+        "municipality":"Playa"
+
+
+
+        "name": "Amalfi",
+    "municipality": "Playa",
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "59495759",
+        "facebook": "Amalfi",
+        "instagram": "@amalfi_havana_restaurant"
+    },
+    "hours": {
+        "monday": {
+            
+            "open": "12:00",
+            
+            "close": "22:30"
+        },
+        "tuesday": {
+            
+            "open": "12:00",
+            
+            "close": "22:30"
+        },
+        "wednesday": {
+            
+            "open": "12:00",
+            
+            "close": "22:30"
+        },
+        "thursday": {
+            
+            "open": "12:00",
+            
+            "close": "22:30"
+        },
+        "friday": {
+            
+            "open": "12:00",
+            
+            "close": "22:30"
+        },
+        "saturday": {
+            
+            "open": "12:00",
+            
+            "close": "22:30"
+        },
+        "sunday": {
+            
+            "open": "12:00",
+            
+            "close": "22:30"
+        }
+    },
+
+
+    "name": "Bocattas",
+    "municipality": "Playa",
+    "address": "Avenida 31 esquina a 18, Playa",
+    "contact": {
+        
+        "phone_number": false,
+        
+        "e-mail": false,
+        
+        "web_page": "https://linktr.ee/cafe_bocattas",
+        
+        "whatsapp": "53190043",
+        
+        "facebook": "Cafe Bocattas",
+        
+        "instagram": "@cafe_bocattas"
+    },
+    "hours": {
+        
+        "monday": {
+        
+            "open": "12:00",
+        
+            "close": "24:00"
+        },
+        "tuesday": {
+        
+            "open": "12:00",
+        
+            "close": "24:00"
+        },
+        "wednesday": {
+        
+            "open": "12:00",
+        
+            "close": "24:00"
+        },
+        "thursday": {
+        
+            "open": "12:00",
+        
+            "close": "24:00"
+        },
+        "friday": {
+        
+            "open": "12:00",
+        
+            "close": "24:00"
+        },
+        "saturday": {
+        
+            "open": "12:00",
+        
+            "close": "24:00"
+        },
+        "sunday": {
+        
+            "open": "12:00",
+        
+            "close": "24:00"
+        }
+    },
+
+
+
+    "name":"bom apetite"
+
+
+    "hours": {
+      
+            
+    },
+    
+    "monday": {
+        "open": "10:00",
+        "close": "04:00"
+    },
+    
+    "tuesday": {
+        "open": "10:00",
+        "close": "04:00"
+    },
+    
+    "wednesday": {
+        "open": "10:00",
+        "close": "04:00"
+    },
+    
+    "thursday": {
+        "open": "10:00",
+        "close": "04:00"
+    },
+    
+    "friday": {
+        "open": "10:00",
+        "close": "04:00"
+    },
+    
+    "saturday": {
+        "open": "10:00",
+        "close": "04:00"
+    },
+
+    "sunday": {
+        "open": "10:00",
+        "close": "04:00"
+},
+
+
+"type": "restaurante",
+"name": "Cafe Clington",
+"municipality": "Playa",
+"address": "Calle 60 #303, entre calle 3era y 3era A",
+"contact": {
+    "phone_number": false,
+    "e-mail": false,
+    "web_page": false,
+    "whatsapp": "52629909",
+    "facebook": false,
+    "instagram": "@cafe_clington_"
+},
+"hours": {
+    "monday": {
+        "open": "08:00",
+        "close": "18:00"
+    },
+    "tuesday": {
+        "open": "08:00",
+        "close": "18:00"
+    },
+    "wednesday": {
+        "open": "08:00",
+        "close": "18:00"
+    },
+    "thursday": {
+        "open": "08:00",
+        "close": "18:00"
+    },
+    "friday": {
+        "open": "08:00",
+        "close": "18:00"
+    },
+    "saturday": {
+        "open": "08:00",
+        "close": "18:00"
+    },
+    "sunday": {
+        "open": "08:00",
+        "close": "18:00"
+    }
+},
+
+
+"name": "D'kmino",
+"municipality": "Playa",
+"address": "Avenida 41, Playa ",
+"contact": {
+    "phone_number": "72090437",
+    "e-mail": false,
+    "web_page": false,
+    "whatsapp": "56801787",
+    "facebook": "DKmino",
+    "instagram": "@dkaminocomidasaludable"
+},
+"hours": {
+    "monday": {
+        "open": "11:00",
+        "close": "23:00"
+    },
+    "tuesday": {
+        "open": "11:00",
+        "close": "23:00"
+    },
+    "wednesday": {
+        "open": "11:00",
+        "close": "23:00"
+    },
+    "thursday": {
+        "open": "11:00",
+        "close": "23:00"
+    },
+    "friday": {
+        "open": "11:00",
+        "close": "23:00"
+    },
+    "saturday": {
+        "open": "11:00",
+        "close": "23:00"
+    },
+    "sunday": {
+        "open": "11:00",
+        "close": "23:00"
+    }
+},
+
+
+
+"type": "restaurante",
+"name": "El Palenque",
+"municipality": "Playa",
+"address": "Calle 17 e/ 174 y 180 Reparto Siboney ",
+
+"contact": {
+    "phone_number": "72038222",
+    "e-mail": false,
+    "web_page": false,
+    "whatsapp": false,
+    "facebook": "Restaurante El Palenque",
+    "instagram": false
+},
+"hours": {
+    "monday": {
+        "open": "11:00",
+        "close": "21:00"
+    },
+    "tuesday": {
+        "open": "11:00",
+        "close": "21:00"
+    },
+    "wednesday": {
+        "open": "11:00",
+        "close": "21:00"
+    },
+    "thursday": {
+        "open": "11:00",
+        "close": "21:00"
+    },
+    "friday": {
+        "open": "11:00",
+        "close": "21:00"
+    },
+    "saturday": {
+        "open": "11:00",
+        "close": "21:00"
+    },
+    "sunday": {
+        "open": "11:00",
+        "close": "21:00"
+    }
+},
+
+
+"name": "FoodMaster",
+        "type_of_food": ["Mexicana", "Americana", "Cafe", "Internacional", "Bares para comer", "Pizzas"],
+        "locality": {
+            "municipality": "Playa"
+        },
+        "hours": {
+            "monday": {
+                "open": "10:30",
+                "close": "21:00"
+            },
+            "tuesday": {
+                "open": "10:30",
+                "close": "21:00"
+            },
+            "wednesday": {
+                "open": "10:30",
+                "close": "21:00"
+            },
+            "thursday": {
+                "open": "10:30",
+                "close": "21:00"
+            },
+            "friday": {
+                "open": "10:30",
+                "close": "22:00"
+            },
+            "saturday": {
+                "open": "10:30",
+                "close": "22:00"
+            },
+            "sunday": {
+                "open": "10:30",
+                "close": "21:00"
+            }
+        },
+
+
+        "type_of_food": ["Cafe"],
+        "locality": {
+            "municipality": "Playa"
+        },
+        "open_hours": {
+            "monday": {
+                "open": "08:00",
+                "close": "12:00"
+            },
+            "tuesday": {
+                "open": "08:00",
+                "close": "12:00"
+            },
+            "wednesday": {
+                "open": "08:00",
+                "close": "12:00"
+            },
+            "thursday": {
+                "open": "08:00",
+                "close": "12:00"
+            },
+            "friday": {
+                "open": "08:00",
+                "close": "12:00"
+            },
+            "saturday": {
+                "open": "08:00",
+                "close": "12:00"
+            },
+            "sunday": {
+                "open": "08:00",
+                "close": "12:00"
+            }
+        },
+
+
+
+ "name": "Marina",
+        "web": "no poseen una web pero poseen insta",
+        "reference_point": "Hotel Gran Mutuh",
+        "status": "mipime",
+        "events": "Realizan eventos específicos de la temporada, ejemplos: Navidad, Halloween",
+        "people_trend": "Todas las edades",
+        "establishment_features": [
+            "vistas al mar",
+            "triplanta",
+            "establecimiento confeccionado de madera"
+        ],
+        "type_of_food": [
+            "cocteleria completa",
+            "comida criolla",
+            "comida italiana",
+            "comida espanola"
+        ],
+        "establishment_address": {
+            "province": "La Habana",
+            "municipality": "Playa",
+            "address": "1ra Avenida entre calle 70 y 68"
+        },
+        "hours": {
+            "sunday": {
+                "open": "12:00",
+                "close": "04:00"
+            },
+            "monday": {
+                "open": "12:00",
+                "close": "04:00"
+            },
+            "tuesday": {
+                "open": "12:00",
+                "close": "04:00"
+            },
+            "wednesday": {
+                "open": "12:00",
+                "close": "04:00"
+            },
+            "thursday": {
+                "open": "12:00",
+                "close": "04:00"
+            },
+            "friday": {
+                "open": "12:00",
+                "close": "04:00"
+            },
+            "saturday": {
+                "open": "12:00",
+                "close": "04:00"
+            }
+        },
+
+
+        "name": "Muelle 70",
+        "web": "no poseen una web pero poseen insta",
+        "reference_point": "Hotel Gran Mutuh",
+        "status": "mipime",
+        "events": "Realizan eventos especificos de la temporada, ejemplos: Navidad, Halloween",
+        "people_trend": "Todas las edades",
+        "establishment_features": [
+            "vistas al mar",
+            "biplanta",
+            "establecimiento confeccionado de madera"
+        ],
+        "type_of_food": [
+            "cocteleria completa",
+            "comida criolla",
+            "comida italiana",
+            "comida internacional"
+        ],
+        "establishment_address": {
+            "province": "La Habana",
+            "municipality": "Playa",
+            "address": "1ra Avenida entre calle 70 y 68"
+        },
+        "hours": {
+           
+            },
+            "monday": {
+                "open": "12:00",
+                "close": "04:00"
+            },
+            "tuesday": {
+                "open": "12:00",
+                "close": "04:00"
+            },
+            "wednesday": {
+                "open": "12:00",
+                "close": "04:00"
+            },
+            "thursday": {
+                "open": "12:00",
+                "close": "04:00"
+            },
+            "friday": {
+                "open": "12:00",
+                "close": "04:00"
+            },
+            "saturday": {
+                "open": "12:00",
+                "close": "04:00"
+            }, 
+            "sunday": {
+                "open": "12:00",
+                "close": "04:00"
+        },
+        
+
+
+        "name": "Salsa Mora",
+        "web": "no poseen una web pero poseen insta",
+        "reference_point": "Hotel Gran Mutuh",
+        "status": "mipime",
+        "events": "realizan actividades con una empresa extranjera, dan clases de cocteleria a dicha empresa.",
+        "people_trend": "Todas las edades",
+        "establishment_features": [
+            "vistas al mar",
+            "biplanta",
+            "establecimiento confeccionado de madera"
+        ],
+        "type_of_food": [
+            "cocteleria completa",
+            "comida criolla",
+            "comida internacional"
+        ],
+        "establishment_address": {
+            "province": "La Habana",
+            "municipality": "Playa",
+            "address": "1ra Avenida entre calle 70 y 68"
+        },
+        "hours": {
+            "sunday": {
+                "open": "12:00",
+                "close": "04:00"
+            },
+            "monday": {
+                "open": "12:00",
+                "close": "04:00"
+            },
+            "tuesday": {
+                "open": "12:00",
+                "close": "04:00"
+            },
+            "wednesday": {
+                "open": "12:00",
+                "close": "04:00"
+            },
+            "thursday": {
+                "open": "12:00",
+                "close": "04:00"
+            },
+            "friday": {
+                "open": "12:00",
+                "close": "04:00"
+            },
+            "saturday": {
+                "open": "12:00",
+                "close": "04:00"
+            }
+        },
+
+
+        
+        "municipality":"plaza"
+
+
+        "name": "Asia Cuba",
+    
+    "type": "Bar-Restaurante",
+    
+    "type_of_food": "Comida asiatica",
+    
+    "municipality": "Plaza de la Revolucion",
+    
+    "services": "Reservas, Wi-Fi gratuito, Estacionamiento, Generador electrico",
+    
+    "address": "Calle 6 ##562 entre 23 y 25, Vedado, La Habana",
+    
+    "qualification": 5.0,
+    
+    "hours": {
+    
+        "monday": {"open": "07:30", "close": "23:00"},
+       
+        "tuesday": {"open": "07:00", "close": "15:30"},
+       
+        "wednesday": {"open": "Closed", "close": "Closed"},
+       
+        "thursday": {"open": "07:30", "close": "23:00"},
+       
+        "friday": {"open": "07:30", "close": "23:00"},
+       
+        "saturday": {"open": "07:30", "close": "23:00"},
+       
+        "sunday": {"open": "07:30", "close": "23:00"}
+    },
+
+
+
+    "name": "Beirut",
+   
+    "type": ["Bar-Restaurante"],
+   
+    "type_of_food": ["Comida libanesa", "de oriente medio"],
+   
+    "municipality": "Plaza de la Revolucion",
+   
+    "services": ["Efectivo", "Transferencia", "Reservas", "Estacionamiento"],
+   
+    "address": "Calle 1ra entre A y B, Vedado",
+   
+    "qualification": 4.5 ,
+   
+    "hours": {
+   
+        "monday": {"open": "11:00", "close": "23:00"},
+   
+        "tuesday": {"open": "11:00", "close": "23:00"},
+   
+        "wednesday": {"open": "11:00", "close": "23:00"},
+   
+        "thursday": {"open": "11:00", "close": "23:00"},
+   
+        "friday": {"open": "11:00", "close": "23:00"},
+   
+        "saturday": {"open": "11:00", "close": "23:00"},
+   
+        "sunday": {"open": "11:00", "close": "23:00"}
+   
+    },
+
+
+    "name": "Bodegon del Asado",
+    
+    "type": ["Bar-Restaurante"],
+    
+    "type_of_food": ["Comida cubana", "criolla", "italiana"],
+    
+    "municipality": "Plaza de la Revolucion",
+    
+    "services": ["Efectivo", "Transferencia", "Reserva", "Delivery"],
+    
+    "address": "Calle 24, No 418, e / 23 y 25, Vedado",
+    
+    "qualification": 4.5,
+    
+    "hours": {
+    
+        "monday":{ "open":"12:00", "close": "00:00" },
+    
+        "tuesday":{ "open":"12:00", "close": "00:00"} ,
+    
+        "wednesday":{ "open":"12:00", "close": "00:00"} ,
+    
+        "thursday":{ "open":"12:00", "close": "00:00"} ,
+    
+        "friday":{ "open":"12:00", "close": "00:00"} ,
+    
+        "saturday":{ "open":"12:00", "close": "00:00"} ,
+    
+        "sunday":{ "open":"12:00", "close": "00:00" }
+    },
+    
+    
+    "name": "Bohio Mercadito",
+     
+    "type": ["Bar"],
+
+    "type_of_food": ["Americana"],
+
+    "municipality": "Plaza de la Revolucion",
+
+    "services": ["A la Carta"], 
+
+    "address": "Calle 19 / 12 y 10 Vedado", 
+
+    "qualification": 4.2,
+
+    "hours": { 
+       
+    "monday": {"open": "10:00", "close": "21:00"},
+
+    "tuesday": {"open": "10:00", "close": "21:00"},
+
+    "wednesday": {"open": "10:00", "close": "21:00"},
+
+    "thursday": {"open": "10:00", "close": "21:00"},
+
+    "friday": {"open": "10:00", "close": "21:00"},
+
+    "saturday": {"open": "10:00", "close": "21:00"},
+
+    "sunday": {"open": "10:00", "close": "21:00"} 
+   
+   },
+
+
+   "name": "Cafe De la Esquina",
+    
+    "type": "Bar-Restaurante",
+    
+    "type_of_food": ["Comida cubana", "caribena", "americana"],
+    
+    "municipality": "Plaza de la Revolucion",
+    
+    "address": "Paseo #101, esq. a 5ta., Vedado",
+    
+    "services": {
+    
+        "sector": "privado",
+    
+        "qualification": 4.0,
+    
+        "capacity": 50,
+    
+        "reservation": true,
+    
+        "parking": true,
+    
+        "delivery": true,
+    
+        "wifi": false,
+    
+        "electric_generator": false
+    
+    },
+    
+    
+    
+    "qualification": 4.0,
+    
+    "hours": {
+    
+        "monday": {"open": "08:00", "close": " 21:00"},
+    
+        "tuesday": {"open": "08:00", "close": "21:00"},
+    
+        "wednesday": {"open": "08:00", "close": "21:00"},
+    
+        "thursday": {"open": "08:00", "close": "21:00"},
+    
+        "friday": {"open": "08:00", "close": "21:00"},
+    
+        "saturday": {"open": "08:00", "close": "21:00"},
+    
+        "sunday": {"open": "08:00", "close": "21:00"}
+    
+    },
+
+
+
+
+    "name": "Casa Mia",
+    
+    "type": "Bar-Restaurante",
+    
+    "type_of_food": ["Comida Caribena", "latina", "saludable", "cubana", "internacional", "mariscos"],
+    
+    "municipality": "Plaza de la Revolucion",
+    
+    "services": {
+    
+        "sector": "privado",
+    
+        "qualification": 5.0,
+    
+        "payment_method": ["Efectivo", "Transferencia"],
+    
+        "capacity": 60,
+    
+        "reservation": true,
+    
+        "parking": true,
+    
+        "delivery": false,
+    
+        "wifi": false,
+    
+        "electric_generator": true
+    },
+    
+    "address": "Calle 1ra, No.103, entre C y D, Vedado",
+    
+    "qualification": 5.0,
+    
+    "hours": {
+    
+        "monday": {"open": "12:00", "close": "23:00"},
+    
+        "tuesday": {"open": "12:00", "close": "23:00"},
+    
+        "wednesday": {"open": "12:00", "close": "23:00"},
+    
+        "thursday": {"open": "12:00", "close": "23:00"},
+    
+        "friday": {"open": "12:00", "close": "23:00"},
+    
+        "saturday": {"open": "12:00", "close": "23:00"},
+    
+        "sunday": {"open": "12:00", "close": "23:00"}
+    },
+
+
+
+    "name": "Coco Blue",
+ 
+    "type": ["Bar"],
+  
+    "type_of_food": ["Caribeña", "Bar","Cafe", "Pub", "Cubana", "Bares para comer"],
+
+    "municipality": "Plaza de la revolucion",
+    
+    "services": ["A la Carta", "Entretenimiento"],
+    
+    "address":"calle 14 / 11 y 13 #112 Vedado ",
+    
+    "qualification": 4.5,
+    
+    "hours": { 
+        
+     "monday": { "open": null, "close": null },
+     
+     "tuesday": { "open": null, "close": null },
+     
+     "wednesday": { "open": null, "close": null },
+     
+     "thursday": { "open": "10:00", "close": "00:30" }, 
+     
+     "friday": { "open": "10:00", "close": "00:30" },
+     
+     "saturday": { "open": "10:00", "close": "00:30" },
+     
+     "sunday": { "open": "10:00", "close": "00:30" } 
+    
+    }, 
+
+
+    "type_of_establishment": ["Bar-Restaurante-Cafeteria"],
+    "name": "Decameron",
+    "address": {
+        "municipality": "Plaza de la Revolucion",
+        "address": "Calle Linea entre Paseo y 2, Vedado"
+    },
+    "sector": "privado",
+    "qualification": 4.5,
+    "type_of_food": ["Comida caribena", "cubana", "saludable", "fusion"],
+    "phone": 78322444,
+    "capacity": 50,
+    "reservation": true,
+    "parking": true,
+    "delivery": false,
+    "wifi": true,
+    "electric_generator": false,
+    "hours": {
+        
+        "monday": { "open": "11:30", "close": "23:00" },
+        
+        "tuesday": { "open": "11:30", "close": "23:00" },
+        
+        "wednesday": { "open": "11:30", "close": "23:00" },
+        
+        "thursday": { "open": "11:30", "close": "23:00" },
+        
+        "friday": { "open": "11:30", "close": "23:00" },
+        
+        "saturday": { "open": "11:30", "close": "23:00" },
+        
+        "sunday": { "open": "11:30", "close": "23:00" }
+    },
+
+
+    "name": "Distrito 25",
+    
+    "type": "Bar-Restaurante-Cafeteria",
+    
+    "type_of_food": ["Comida mexicana"],
+    
+    "address": "Calle 25 entre M y N, Vedado",
+    
+    "qualification": 3.5,
+    
+    "municipality": "Plaza de la Revolucion",
+    
+    "services":{
+    
+    "sector": "privado",
+    
+    "capacity": 50,
+    
+    "reservation": true,
+    
+    "parking": true,
+    
+    "delivery": false,
+    
+    "wifi": false,
+    
+    "electric generator": false,
+    
+      
+    "contact": {
+    
+        "phone": "52831416",
+    
+        "website": "",
+    
+        "facebook": "",
+    
+        "instagram": ""
+    
+    },
+      "hours": {
+    
+        "monday": {"open": "11:00", "close": " 22:00"},
+    
+        "tuesday": {"open": "11:00", "close": "22:00"},
+    
+        "wednesday": {"open": "11:00", "close": "22:00"},
+    
+        "thursday": {"open": "11:00", "close": "22:00"},
+    
+        "friday": {"open": "11:00", "close": "22:00"},
+    
+        "saturday": {"open": "11:00", "close": "22:00"},
+    
+        "sunday": {"open": "11:00", "close": "22:00"}
+    },
+
+
+
+
+    "type_of_establishment": ["restaurant", "bar"],
+    
+    "name": "Dona Lis Pizza",
+    
+    "address": {
+    
+        "municipality": "Plaza de la Revolucion",
+    
+        "address": "Esquina 23 y 12, Vedado, Plaza"
+    
+    },
+    
+    "hours": {
+    
+        "monday": { "open": "10:30", "close": "24:00" },
+    
+        "tuesday": { "open": "10:30", "close": "24:00" },
+    
+        "wednesday": { "open": "10:30", "close": "24:00" },
+    
+        "thursday": { "open": "10:30", "close": "24:00" },
+    
+        "friday": { "open": "10:30", "close": "24:00" },
+    
+    
+        "saturday": { "open": "10:30", "close": "24:00" },
+    
+        "sunday": { "open": "10:30", "close": "24:00" }
+    },
+
+
+
+    "name": "El bejuco",
+    "type": "Bar-Restaurante-Cafeteria",
+    "type_of_food": "Entrantes",
+    "address": "Calle Linea 1206 e/ 18 y 20, Vedado",
+    "municipality": "Plaza de la Revolucion",
+    "qualification": 4.8,
+    "services": {
+        
+        "sector": "privado",
+        
+        "capacity": 20,
+        
+        "reservation": true,
+        
+        "parking": true,
+        
+        "delivery": false,
+        
+        "wifi": true,
+        
+       "electric generator": true
+    },
+
+    "hours": {
+        
+        "monday": {"open": "09:00", "close": "04:00"},
+        
+        "tuesday": {"open": "09:00", "close": "04:00"},
+        
+        "wednesday": {"open": "09:00", "close": "04:00"},
+        
+        "thursday": {"open": "09:00", "close": "04:00"},
+        
+        "friday": {"open": "09:00", "close": "04:00"},
+        
+        "saturday": {"open": "09:00", "close": "04:00"},
+        
+        "sunday": {"open": "09:00", "close": "04:00"}
+    },
+
+
+
+    "name": "El Farallon",
+    "type_of_establishment": ["restaurant"],
+    "address": {
+        "city": "La Habana",
+        "district": "Vedado, Plaza de la Revolucion",
+        "streets": "Calle 22 # 361, esq. 23, Vedado."
+    },
+    "hours": {
+       
+        "monday": [{ "open": "12:00", "close": "24:00" }],
+       
+        "tuesday": [{ "open": "12:00", "close": "24:00" }],
+       
+        "wednesday": [{ "open": "12:00", "close": "24:00" }],
+       
+        "thursday": [{ "open": "12:00", "close": "24:00" }],
+       
+        "friday": [{ "open": "12:00", "close": "24:00" }],
+       
+        "saturday": [{ "open": "12:00", "close": "24:00" }],
+       
+        "sunday": [{ "open": "12:00", "close": "24:00" }]
+    },
+
+
+
+    "name": "El Pelicano",
+    "type_of_food": [],
+    "qualification": {
+        "qualification_google": null,
+        "qualification_tripadvisor": 4.5,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "contact": {
+        "phone": 63960310,
+        "website": "",
+        "facebook": "",
+        "instagram": "",
+        "whatsapp": true
+    },
+
+    "hours": {
+        "monday": {
+            "open": null,
+            "close": null
+        },
+        "tuesday": {
+            "open": null,
+            "close": null
+        },
+        "wednesday": {
+            "open": "10:00",
+            "close": "18:00"
+        },
+        "thursday": {
+            "open": "10:00",
+            "close": "18:00"
+        },
+        "friday": {
+            "open": "10:00",
+            "close": "18:00"
+        },
+        "saturday": {
+            "open": "10:00",
+            "close": "18:00"
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "18:00"
+        }
+    },
+
+
+
+    "type": "Bar-Restaurante",
+    "name": "Esquina D-Fraile",
+    "location": {
+       
+        "address": "Calle D entre 1era y 3era, Vedado.",
+       
+        "municipality": "Plaza de la Revolucion"
+    },
+    
+    "sector": "privado",
+    
+    "qualification": 5,
+    
+    "type_of_food": ["Comida Americana", "caribena", "latina", "criolla", "internacional"],
+    
+    "phone": 52932497,
+    
+    "capacity": 150,
+    
+    "reservation": true,
+    
+    "parking": true,
+    
+    "delivery": false,
+    
+    "wifi": false,
+    
+    "electric_generator": true,
+    
+    "hours": {
+    
+        "monday": {"open": "12:00", "close": "24:00"},
+    
+        "tuesday": {"open": "12:00", "close": "24:00"},
+    
+        "wednesday": {"open": "12:00", "close": "24:00"},
+    
+        "thursday": {"open": "12:00", "close": "24:00"},
+    
+        "friday": {"open": "12:00", "close": "24:00"},
+    
+        "saturday": {"open": "12:00", "close": "24:00"},
+    
+        "sunday": {"open": "12:00", "close": "24:00"}
+    },
+
+
+
+    "type": ["Restaurante"],
+    
+    "type_of_food": ["Caribena", "Latina", "Mediterranea", "Espanola", "Fusion"],
+    
+    "municipality": "Plaza de la Revolucion",
+    
+    "services": ["Bar completo", "Capacidad", "Parking gratis", "Reservas", "Servicio de mesa", "Sirve alcohol"],
+    
+    "address": "Avenida Paseo #458 Entre 21 Y 19, Vedado",
+    
+    "qualification": 5.0,
+    
+    "hours": {
+       
+        "monday": {"open": "07:30", "close": "23:00"},
+       
+        "tuesday": {"open": "07:30", "close": "23:00"},
+       
+        "wednesday": {"open": "07:30", "close": "23:00"},
+       
+        "thursday": {"open": "07:30", "close": "23:00"},
+       
+        "friday": {"open": "07:30", "close": "23:00"},
+       
+        "saturday": {"open": "07:30", "close": "01:00"},
+       
+        "sunday": {"open": "07:30", "close": "01:00"}
+    },
+
+
+
+    "type_of_establishment": ["restaurant"],
+    
+    "name": "Fonda La Paila",
+    
+    "address": {
+        "Locality": "Vedado, Plaza",
+        "streets": "Calle M e/ 25 y 27"
+    },
+    
+    "hours": {
+        
+        "monday": { "open": "12:00", "close": "24:00" },
+        
+        "tuesday": { "open": "12:00", "close": "24:00" },
+        
+        "wednesday": { "open": "12:00", "close": "24:00" },
+        
+        "thursday": { "open": "12:00", "close": "24:00" },
+        
+        "friday": { "open": "12:00", "close": "24:00" },
+        
+        "saturday": { "open": "12:00", "close": "24:00" },
+        
+        "sunday": { "open": "12:00", "close": "24:00" }
+           
+    },
+
+
+    "type_of_establishment": ["restaurant"],
+    
+    "name": "Fuumiyaki",
+    
+    "municipality": "Plaza de la Revolucion",
+    
+    "address": "Ave 26/23 y 25, Vedado",
+    
+    "hours": {
+    
+        "monday": { "open": "12:00", "close": "23:50" },
+    
+        "tuesday": { "open": "12:00", "close": "23:50" },
+    
+        "wednesday": { "open": "12:00", "close": "23:50" },
+    
+        "thursday": { "open": "12:00", "close": "23:50" },
+    
+        "friday": { "open": "12:00", "close": "23:50" },
+    
+        "saturday": { "open": "12:00", "close": "23:50" },
+    
+        "sunday": { "open": "12:00", "close": "23:50" }
+    },
+
+
+    "type": "Bar-Restaurante",
+    
+    "name": "Habana Blues",
+    
+    "address": "Calle H no. 405 entre 17 y 19, Vedado",
+    
+    "municipality": "Plaza de la Revolucion",
+    
+    "province": "La Habana",
+    
+    "sector": "privado",
+    
+    "qualification": " ",
+    
+    "type_of_food": ["Comida caribeña", "latina", "criolla", "cubana"],
+    
+    "payment_method": ["Efectivo", "transferencia"],
+    
+    "phone": "78356545",
+    
+    "capacity": 60,
+    
+    "reservation": true,
+    
+    "parking": true,
+    
+    "delivery": false,
+    
+    "wifi": false,
+    
+    "electric_generator": false,
+    
+    "hours": {
+    
+        "monday": { "open": "12:00", "close": "22:00" },
+    
+        "tuesday": { "open": "12:00", "close": "22:00" },
+    
+        "wednesday": { "open": "12:00", "close": "22:00" },
+    
+        "thursday": { "open": "12:00", "close": "22:00" },
+    
+        "friday": { "open": "12:00", "close": "22:00" },
+    
+        "saturday": { "open": "12:00", "close": "22:00" },
+    
+        "sunday": { "open": "12:00", "close": "22:00" }
+    },
+
+
+    "type_of_establishment": ["restaurant"],
+    
+    "name": "La Carreta",
+    
+    "address": {
+    
+        "municipality": "Plaza de la Revolucion",
+    
+        "address": "Calle 21 entre J y K, Vedado, Plaza"
+    },
+    "hours": {
+    
+        "monday": { "open": "11:00", "close": "22:45" },
+    
+        "tuesday": { "open": "11:00", "close": "22:45" },
+    
+        "wednesday": { "open": "11:00", "close": "22:45" },
+    
+        "thursday": { "open": "11:00", "close": "22:45" },
+    
+        "friday": { "open": "11:00", "close": "22:45" },
+    
+        "saturday": { "open": "11:00", "close": "22:45" },
+    
+        "sunday": { "open": "11:00", "close": "22:45" }
+    },
+
+
+
+"type_of_establishment": ["restaurant", "bar"],
+   
+    "name": "La Catedral",
+   
+    "address": {
+   
+        "municipality": "Plaza de la Revolucion",
+   
+        "address": "Calle 8 e/ Calzada 5ta, Vedado. Plaza de la Revolucion, La Habana 10400 Cuba"
+    },
+    "hours": {
+   
+        "monday": { "open": "08:00", "close": "23:00" },
+   
+        "tuesday": { "open": "08:00", "close": "23:00" },
+   
+        "wednesday": { "open": "08:00", "close": "23:00" },
+   
+        "thursday": { "open": "08:00", "close": "23:00" },
+   
+        "friday": { "open": "08:00", "close": "23:00" },
+   
+        "saturday": { "open": "08:00", "close": "23:00" },
+   
+        "sunday": { "open": "08:00", "close": "23:00" }
+    },
+
+
+
+    "type_of_establishment": ["restaurante", "bar"],
+    "name": "La Pelota",
+    "address": {
+        "municipality": "Plaza de la Revolucion",
+        "address": "Esquina 23 y 12, Vedado, Plaza"
+    },
+    "hours": {
+       
+        "monday": { "open": "09:45", "close": "21:45" },
+       
+        "tuesday": { "open": "09:45", "close": "21:45" },
+       
+        "wednesday": { "open": "09:45", "close": "21:45" },
+       
+        "thursday": { "open": "09:45", "close": "21:45" },
+       
+        "friday": { "open": "09:45", "close": "21:45" },
+       
+        "saturday": { "open": "09:45", "close": "21:45" },
+       
+        "sunday": { "open": "09:45", "close": "21:45" }
+    },
+
+
+
+    "type_of_establishment": ["restaurant"],
+    "name": "Mar Adentro",
+    "address": {
+        "municipality": "Plaza de la Revolucion",
+        "address": "Calle C, #15, entre 1ª y 3ª, Havana, Cuba"
+    },
+    "hours": {
+       
+        "monday": { "open": "09:00", "close": "00:30" },
+       
+        "tuesday": { "open": "09:00", "close": "00:30" },
+       
+        "wednesday": { "open": "09:00", "close": "00:30" },
+       
+        "thursday": { "open": "09:00", "close": "00:30" },
+       
+        "friday": { "open": "09:00", "close": "00:30" },
+       
+        "saturday": { "open": "09:00", "close": "00:30" },
+       
+        "sunday": { "open": "09:00", "close": "00:30" }
+    },
+
+
+
+    "type": "Bar-Restaurante",
+   
+    "name": "Razones y Motivos", 
+   
+    "location": {
+   
+        "address": "Calle F No.63 entre 3era y 5ta, Vedado",
+   
+        "municipe": "Plaza de la Revolucion",
+   
+        "province": "La Habana"
+    },
+   
+    "sector": "privado",
+   
+    
+    "qualification":4.5,
+    
+    
+    "type_of_food": ["Comida Caribena", "Latina", "Cubana", "criolla", "Sudamericana", "Centroamericana"],
+
+    "payment method": ["Efectivo","Transferencia"],
+    
+    "phone": 78328732, 
+
+    "capacity": 45,
+    
+    "reservation": true,
+
+    "parking": true,
+
+    "delivery": false,
+
+    "wifi": false,
+
+    "electric generator": false,
+    
+   "hours": { 
+    
+   
+   "monday": {"open": "12:00", "close": "00:00"}, 
+   
+   "tuesday": {"open": "12:00", "close": "00:00"},
+   
+   "wednesday": {"open": "12:00", "close": "00:00"},
+   
+   "thursday": {"open": "12:00", "close": "00:00"},
+   
+   "friday": {"open": "12:00", "close": "00:00"},
+   
+   "saturday": {"open": "12:00", "close": "00:00"},
+   
+   "sunday": {"open": "12:00", "close": "00:00"} 
+    
+},
+
+
+
+"type_of_establishment": ["Bar-Restaurante-Cafeteria"],
+"name": "Sonar contigo",
+"address": {
+    "municipality": "Plaza de la Revolucion",
+    "address": "Esquina Ave 23 y Calle C"
+},
+"sector": "privado",
+"qualification": 3.9,
+"type_of_food": ["Desayunos", "Cafes"],
+"phone": 53395848,
+"capacity": 40,
+"reservation": false,
+"parking": true,
+"delivery": false,
+"wifi": false,
+"electric_generator": false,
+"hours": {
+    
+    "monday": { "open": "13:00", "close": "20:00" },
+    
+    "tuesday": { "open": "13:00", "close": "20:00" },
+    
+    "wednesday": { "open": "13:00", "close": "20:00" },
+    
+    "thursday": { "open": "13:00", "close": "20:00" },
+    
+    "friday": { "open": "13:00", "close": "20:00" },
+    
+    "saturday": { "open": "13:00", "close": "20:00" },
+    
+    "sunday": { "open": "13:00", "close": "20:00" }
+},
+
+
+"type_of_establishment": ["bar"],
+"name": "Sport Bar",
+"address": {
+    "municipality": "Plaza de la Revolución",
+    "address": "23 y 12, Vedado, Plaza"
+},
+"hours": {
+    
+    "monday": { "open": "00:00", "close": "24:00" },
+    
+    "tuesday": { "open": "00:00", "close": "24:00" },
+    
+    "wednesday": { "open": "00:00", "close": "24:00" },
+    
+    "thursday": { "open": "00:00", "close": "24:00" },
+    
+    "friday": { "open": "00:00", "close": "24:00" },
+    
+    "saturday": { "open": "00:00", "close": "24:00" },
+    
+    "sunday": { "open": "00:00", "close": "24:00" }
+},
+
+
+
+
+"type_of_establishment": ["Bar-Restaurante"],
+  
+"name": "Tablazo",
+
+"address": {
+
+    "municipality": "Plaza de la Revolucion",
+
+    "address": "Calle 1era entre C y D, Vedado."
+},
+
+"sector": "privado",
+
+"qualification": 4.5,
+
+"type_of_food": ["Italiana", "caribena", "latina", "internacional", "cubana"],
+
+"phone": 78351321,
+
+"capacity": 40,
+
+"reservation": true,
+
+"parking": true,
+
+"delivery": true,
+
+"wifi": false,
+
+"electric_generator": true,
+
+
+    "hours": {
+       
+        "monday": { "open": "09:00", "close": "00:00" },
+       
+        "tuesday": { "open": "09:00", "close": "00:00" },
+       
+        "wednesday": { "open": "09:00", "close": "00:00" },
+       
+        "thursday": { "open": "09:00", "close": "00:00" },
+       
+        "friday": { "open": "09:00", "close": "00:00" },
+       
+        "saturday": { "open": "09:00", "close": "00:00" },
+       
+        "sunday": { "open": "09:00", "close": "00:00" }
+    },
+
+
+    "type_of_establishment": ["Bar-Restaurante-Cafeteria"],
+    
+    "name": "El Vampirito",
+    
+    "address": {
+    
+        "municipality": "Plaza de la Revolucion",
+    
+        "address": "Calle 6 entre 19 y 21, Vedado"
+    },
+    
+    "sector": "privado",
+    
+    "qualification": 4.5,
+    
+    "type_of_food": ["Pizza", "Comida italiana", "Sandwiches"],
+    
+    "phone": 78300774,
+    
+    "capacity": 30,
+    
+    "reservation": false,
+    
+    "parking": false,
+    
+    "delivery": false,
+    
+    "wifi": false,
+    
+    "electric_generator": false,
+    
+    "hours": {
+        
+        "monday": { "open": "10:00", "close": "23:00" },
+        
+        "tuesday": { "open": "10:00", "close": "23:00" },
+        
+        "wednesday": { "open": "10:00", "close": "23:00" },
+        
+        "thursday": { "open": "10:00", "close": "23:00" },
+        
+        "friday": { "open": "10:00", "close": "23:00" },
+        
+        "saturday": { "open": "10:00", "close": "23:00" },
+        
+        "sunday": { "open": "10:00", "close": "23:00" }
+    },
+
+
+
+    "type": "Bar-Restaurante",
+    
+    "name": "Vita Nuova", 
+    
+    "location": {
+    
+        "address": "Calle L esquina 21, Vedado",
+    
+        "municipe": "Plaza de la Revolucion",
+    
+        "province": "La Habana"
+    },
+    
+    "sector": "privado",
+    
+    
+    "qualification": 4,
+    
+    
+    "type_of_food": ["Comida Italiana", "caribeña", "internacional", "cubana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 78329774,
+    
+    "capacity": 40,
+    
+    "reservation": true ,
+
+    "parking": true,
+
+    "delivery": false,
+
+    "wifi": true,
+
+    "electric generator": true,
+    
+    "hours": {
+    
+        "monday": { "open": "11:00", "close": "00:00" },
+    
+        "tuesday": { "open": "11:00", "close": "00:00" },
+    
+        "wednesday": { "open": "11:00", "close": "00:00" },
+    
+        "thursday": { "open": "11:00", "close": "00:00" },
+    
+        "friday": { "open": "11:00", "close": "00:00" },
+    
+        "saturday": { "open": "11:00", "close": "00:00" },
+    
+        "sunday": { "open": "11:00", "close": "00:00" }
+    },
+
+
+
+    "type_of_establishment": ["restaurant"],
+   
+    "name": "Waspa",
+   
+    "address": {
+   
+        "municipality": "Plaza de la Revolucion",
+   
+        "address": "Calle 4 entre 15 y 17, Vedado, Plaza"
+    },
+    "hours": {
+   
+        "monday": { "open": "11:30", "close": "23:00" },
+   
+        "tuesday": { "open": "09:00", "close": "23:00" },
+   
+        "wednesday": { "open": "09:00", "close": "23:00" },
+   
+        "thursday": { "open": "09:00", "close": "23:00" },
+   
+        "friday": { "open": "09:00", "close": "23:00" },
+   
+        "saturday": { "open": "09:00", "close": "23:00" },
+   
+        "sunday": { "open": "09:00", "close": "23:00" }
+    },
+    
+    
+    "name":"Ristorante Gusto",
+   
+    "type": ["Restaurante", "Pizzeria"],
+   
+    "type_of_food": ["Italiana", "Mediterranea"],
+   
+    "municipality": "Plaza de la Revolucioon",
+   
+    "services": ["Servicio de mesa"],
+   
+    "address": "Calle N 153 E/ 17 y 19 Vedado, La Habana, Cuba",
+   
+    "qualification": 4.0,
+   
+    "hours": {
+   
+        "monday": {"open": "8:30", "close": "23:45"},
+   
+        "tuesday": {"open": "8:30", "close": "23:45"},
+   
+        "wednesday": {"open": "8:30", "close": "23:45"},
+   
+        "thursday": {"open": "8:30", "close": "23:45"},
+   
+        "friday": {"open": "8:30", "close": "23:45"},
+   
+        "saturday": {"open": "8:30", "close": "23:45"},
+   
+        "sunday": {"open": "8:30", "close": "23:45"}
+    },
+
+
+     
+    "municipality":"Regla"
+
+    "name": "2KFE",
+    "locality": {
+        "municipality": "Regla"
+    },
+    "hours": {
+        "monday": {
+            "open": "10:00",
+            "close": "20:00"
+        },
+        "tuesday": {
+            "open": "10:00",
+            "close": "20:00"
+        },
+        "wednesday": {
+            "open": "10:00",
+            "close": "20:00"
+        },
+        "thursday": {
+            "open": "10:00",
+            "close": "20:00"
+        },
+        "friday": {
+            "open": "10:00",
+            "close": "20:00"
+        },
+        "saturday": {
+            "open": "10:00",
+            "close": "20:00"
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "20:00"
+        }
+
+
+        "municipality": "regla",
+        "name": "5ta billar",
+        "type_cuisine": ["cocteleria", "internacional"],
+        "hours": {
+            "monday": {
+                "open": "15:00",
+                "close": "00:00"
+            },
+            "tuesday": {
+                "open": "15:00",
+                "close": "00:00"
+            },
+            "wednesday": {
+                "open": "15:00",
+                "close": "00:00"
+            },
+            "thursday": {
+                "open": "15:00",
+                "close": "00:00"
+            },
+            "friday": {
+                "open": "15:00",
+                "close": "00:00"
+            },
+            "saturday": {
+                "open": "15:00",
+                "close": "00:00"
+            },
+            "sunday": {
+                "open": "15:00",
+                "close": "00:00"
+            }
+        },
+
+
+
+       "name":"cafe atardecer"
+
+       "municipality":"regla"
+
+       "hours": {
+        
+        "monday": {"open": "07:00", "close": "19:00"},
+        
+        "tuesday": {"open": "07:00", "close": "19:00"},
+        
+        "wednesday": {"open": "07:00", "close": "19:00"},
+        
+        "thursday": {"open": "07:00", "close": "19:00"},
+        
+        "friday": {"open": "07:00", "close": "19:00"},
+        
+        "saturday": {"open": "07:00", "close": "19:00"},
+        
+        "sunday": {"open": "07:00", "close": "19:00"}
+    },
+
+
+
+    "municipality": "Regla",
+    "name": "Restaurante El Pavo",
+    "type_of_food": ["criolla", "internacional"],
+    "hours": {
+        "monday": {
+            "open": "12:00",
+            "close": "23:00"
+        },
+        "tuesday": {
+            "open": "12:00",
+            "close": "23:00"
+        },
+        "wednesday": {
+            "open": "12:00",
+            "close": "23:00"
+        },
+        "thursday": {
+            "open": "12:00",
+            "close": "23:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "close": "23:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "close": "23:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "close": "23:00"
+        }
+    },
+
+
+    "municipality": "Regla",
+    "name": "La Nueva Guitarreta",
+    "type_of_food": ["internacional", "cocteleria"],
+    "hours": {
+        "monday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "tuesday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "wednesday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "thursday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "close": "24:00"
+        }
+    },
+
+
+
+    "municipality":"San Miguel"
+
+    "establishment": {
+        "name": "Bar Colina",
+        "phone_number": "",
+        "type": "bar",
+        "type_of_food": "",
+        "website": null,
+        "hours": {
+            "monday": {
+                "open": "11:00",
+                "close": "23:00"
+            },
+            "tuesday": {
+                "open": "11:00",
+                "close": "23:00"
+            },
+            "wednesday": {
+                "open": "11:00",
+                "close": "23:00"
+            },
+            "thursday": {
+                "open": "11:00",
+                "close": "23:00"
+            },
+            "friday": {
+                "open": "11:00",
+                "close": "23:00"
+            },
+            "saturday": {
+                "open": "11:00",
+                "close": "23:00"
+            },
+            "sunday": {
+                "open": "11:00",
+                "close": "23:00"
+            }
+        },
+
+
+
+        "name": "buena vibra",
+    "phone_number": "",
+    "type": "cafeteria",
+    "type_of_food": "",
+    "website": null,
+    "hours": {
+        "monday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "tuesday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "wednesday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "thursday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "close": "22:00"
+        }
+    },
+
+
+    "establishment": {
+        "name": "Cafe Toscano",
+        "phone_number": "",
+        "type": "cafeteria",
+        "type_of_food": "",
+        "website": null,
+        "hours": {
+            "monday": {
+                "open": "08:00",
+                "close": "22:00"
+            },
+            "tuesday": {
+                "open": "08:00",
+                "close": "22:00"
+            },
+            "wednesday": {
+                "open": "08:00",
+                "close": "22:00"
+            },
+            "thursday": {
+                "open": "08:00",
+                "close": "22:00"
+            },
+            "friday": {
+                "open": "08:00",
+                "close": "22:00"
+            },
+            "saturday": {
+                "open": "08:00",
+                "close": "22:00"
+            },
+            "sunday": {
+                "open": "08:00",
+                "close": "22:00"
+            }
+        },
+
+
+
+        "establishment": {
+        "name": "Don Balbino's",
+        "phone_number": "",
+        "type": "bar-cafetería",
+        "type_of_food": "",
+        "website": null,
+        "hours": {
+            "monday": {
+                "open": "08:30",
+                "close": "23:00"
+            },
+            "tuesday": {
+                "open": "08:30",
+                "close": "23:00"
+            },
+            "wednesday": {
+                "open": "08:30",
+                "close": "23:00"
+            },
+            "thursday": {
+                "open": "08:30",
+                "close": "23:00"
+            },
+            "friday": {
+                "open": "08:30",
+                "close": "23:00"
+            },
+            "saturday": {
+                "open": "08:30",
+                "close": "23:00"
+            },
+            "sunday": {
+                "open": "08:30",
+                "close": "23:00"
+            }
+        },
+
+
+        "establishment": {
+        "name": "Bar Colina",
+        "municipality": "San Miguel del Padron",
+        "address": "esquina b y calzada de guines reparto merceditas",
+        "local": "bar",
+        "hours": {
+            "monday": {
+                "open": "11:00",
+                "close": "23:00"
+            },
+            "tuesday": {
+                "open": "11:00",
+                "close": "23:00"
+            },
+            "wednesday": {
+                "open": "11:00",
+                "close": "23:00"
+            },
+            "thursday": {
+                "open": "11:00",
+                "close": "23:00"
+            },
+            "friday": {
+                "open": "11:00",
+                "close": "23:00"
+            },
+            "saturday": {
+                "open": "11:00",
+                "close": "23:00"
+            },
+            "sunday": {
+                "open": "11:00",
+                "close": "23:00"
+            }
+        },
+
+
+        {
+            "name": "el trafico",
+            "municipality": "san miguel del padron",
+            "address": "calzada de guines entre 90 y 94",
+            "local": "restaurante-cafeteria",
+            "hours": {
+                "monday": {
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                "tuesday": {
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                "wednesday": {
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                "thursday": {
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                "friday": {
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                "saturday": {
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                "sunday": {
+                    "open": "10:00",
+                    "close": "22:00"
+                }
+            },
+
+
+            "establishment": {
+                "name": "GaraG",
+                "phone_number": "",
+                "type": "Bar-Restaurante",
+                "specialty": "Comida Mixta",
+                "website": "",
+                "hours": {
+                    "monday": {
+                        "open": "12:00",
+                        "close": "00:00"
+                    },
+                    "tuesday": {
+                        "open": "12:00",
+                        "close": "00:00"
+                    },
+                    "wednesday": {
+                        "open": "12:00",
+                        "close": "00:00"
+                    },
+                    "thursday": {
+                        "open": "12:00",
+                        "close": "00:00"
+                    },
+                    "friday": {
+                        "open": "12:00",
+                        "close": "00:00"
+                    },
+                    "saturday": {
+                        "open": "12:00",
+                        "close": "00:00"
+                    },
+                    "sunday": {
+                        "open": "12:00",
+                        "close": "00:00"
+                    }
+                },
+                
+             
+                "establishment": {
+        "name": "KY-13",
+        "phone_number": "",
+        "type": "restaurante-cafeteria",
+        "specialty": "Comida Mixta",
+        "website": "",
+        "hours": {
+            "monday": {
+                "open": "10:00",
+                "close": "23:00"
+            },
+            "tuesday": {
+                "open": "10:00",
+                "close": "23:00"
+            },
+            "wednesday": {
+                "open": "10:00",
+                "close": "23:00"
+            },
+            "thursday": {
+                "open": "10:00",
+                "close": "23:00"
+            },
+            "friday": {
+                "open": "10:00",
+                "close": "23:00"
+            },
+            "saturday": {
+                "open": "10:00",
+                "close": "23:00"
+            },
+            "sunday": {
+                "open": "10:00",
+                "close": "23:00"
+            }
+        },
+
+
+
+
+        "establishment": {
+        "name": "La Patrona",
+        "phone_number": "",
+        "type": "cafeteria",
+        "specialty": "",
+        "website": "",
+        "hours": {
+            "monday":{
+                "open": null,
+                "close": null
+            },
+            "tuesday": {
+                "open": "08:00",
+                "close": "00:00"
+            },
+            "wednesday": {
+                "open": "08:00",
+                "close": "00:00"
+            },
+            "thursday": {
+                "open": "08:00",
+                "close": "00:00"
+            },
+            "friday": {
+                "open": "08:00",
+                "close": "00:00"
+            },
+            "saturday": {
+                "open": "08:00",
+                "close": "00:00"
+            },
+            "sunday": {
+                "open": "08:00",
+                "close": "00:00"
+            }
+        },
+
+
+        "establishment": {
+            "name": "Yesterday Havana",
+            "phone_number": "76930649",
+            "type": "Bar-Restaurante-Dulceria",
+            "type_of_food": "Comida Mixta",
+            "website": null,
+            "hours": {
+                "monday": {
+                    "open": null,
+                    "close": null
+                },
+                "tuesday": {
+                    "open": null,
+                    "close": null
+                },
+                "wednesday": {
+                    "open": "12:00",
+                    "close": "02:00"
+                },
+                "thursday": {
+                    "open": "12:00",
+                    "close": "02:00"
+                },
+                "friday": {
+                    "open": "12:00",
+                    "close": "02:00"
+                },
+                "saturday": {
+                    "open": "12:00",
+                    "close": "02:00"
+                },
+                "sunday": {
+                    "open": "12:00",
+                    "close": "02:00"
+                }
+            },
