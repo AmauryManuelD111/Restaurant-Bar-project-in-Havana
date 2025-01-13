@@ -1,0 +1,202 @@
+{
+    "name": "El Pelicano",
+    "type_of_food": [],
+    "qualification": {
+        "qualification_google": null,
+        "qualification_tripadvisor": 4.5,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "contact": {
+        "phone": 63960310,
+        "website": "",
+        "facebook": "",
+        "instagram": "",
+        "whatsapp": true
+    },
+
+    "hours": {
+        "monday": {
+            "open": null,
+            "close": null
+        },
+        "tuesday": {
+            "open": null,
+            "close": null
+        },
+        "wednesday": {
+            "open": "10:00",
+            "close": "18:00"
+        },
+        "thursday": {
+            "open": "10:00",
+            "close": "18:00"
+        },
+        "friday": {
+            "open": "10:00",
+            "close": "18:00"
+        },
+        "saturday": {
+            "open": "10:00",
+            "close": "18:00"
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "18:00"
+        }
+    },
+    
+    "services": ["A domicilio", "Zoologico"],
+    
+    "menu": {
+    
+        "breakfasts": [
+            {
+                "name": "Pan con Jamon y Queso",
+                "price": 350
+            },
+            {
+                "name": "Pan con Perro",
+                "price": 360
+            },
+            {
+                "name": "Pan con Lechon",
+                "price": 500
+            },
+            {
+                "name": "Pan con Hamburguesa",
+                "price": 550
+            }
+        ],
+        "starters": [
+            {
+                "name": "Croquetas",
+                "price": 350
+            },
+            {
+                "name": "Picadera de Jamon y Queso",
+                "price": 450
+            },
+            {
+                "name": "Papas Fritas",
+                "price": 550
+            },
+            {
+                "name": "Bolitas de Queso",
+                "price": 650
+            },
+            {
+                "name": "Salchipapa",
+                "price": 750
+            }
+        ],
+        "main_courses": [
+            {
+                "name": "Pollo Frito",
+                "price": 420
+            },
+            {
+                "name": "Pollo Chiflado",
+                "price": 520
+            },
+            {
+                "name": "Brochetas de Pollo y Vegetales",
+                "price": 580
+            },
+            {
+                "name": "Brochetas Mixtas",
+                "price": 700
+            },
+            {
+                "name": "Brochetas de Cerdo",
+                "price": 950
+            },
+            {
+                "name": "Bistec de Cerdo",
+                "price": 950
+            },
+            {
+                "name": "Lonja de Cerdo",
+                "price": 950
+            },
+            {
+                "name": "Masa de Cerdo",
+                "price": 990
+            },
+            {
+                "name": "Arroz Moro",
+                "price": 150
+            },
+            {
+                "name": "Arroz Blanco",
+                "price": 150
+            }
+        ],
+        "pizzas": [null],
+        "pasta": [null],
+        "desserts": [
+            {
+                "name": "Paleta de Chocolate",
+                "price": 260
+            },
+            {
+                "name": "Pote de Helado",
+                "price": 495
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "name": "Cerveza",
+                "price": 190
+            },
+            {
+                "name": "Chelada",
+                "price": 290
+            },
+            {
+                "name": "Cuba Libre",
+                "price": 380
+            },
+            {
+                "name": "Michelada",
+                "price": 390
+            }
+        ],
+        "non_alcoholic": [
+            {
+                "name": "Cafe Expresso",
+                "price": 90
+            },
+            {
+                "name": "Cafe Cortado",
+                "price": 110
+            },
+            {
+                "name": "Cafe Bombon",
+                "price": 150
+            },
+            {
+                "name": "Jugo de Cajita",
+                "price": 190
+            },
+            {
+                "name": "Agua",
+                "price": 120
+            },
+            {
+                "name": "Refresco de L ata",
+                "price": 195
+            },
+            {
+                "name": "Limonada Frape",
+                "price": 250
+            },
+            {
+                "name": "Energizante",
+                "price": 220
+            }
+        ]
+    }
+}

@@ -1,0 +1,165 @@
+{
+     "name": "Bohio Mercadito",
+     
+     "type": ["Bar"],
+
+     "type_of_food": ["Americana"],
+
+     "municipality": "Plaza de la Revolucion",
+
+     "services": ["A la Carta"], 
+
+     "address": "Calle 19 / 12 y 10 Vedado", 
+
+     "qualification": 4.2,
+
+     "hours": { 
+        
+     "monday": {"open": "10:00", "close": "21:00"},
+
+     "tuesday": {"open": "10:00", "close": "21:00"},
+
+     "wednesday": {"open": "10:00", "close": "21:00"},
+
+     "thursday": {"open": "10:00", "close": "21:00"},
+
+     "friday": {"open": "10:00", "close": "21:00"},
+
+     "saturday": {"open": "10:00", "close": "21:00"},
+
+     "sunday": {"open": "10:00", "close": "21:00"} 
+    
+    },
+    "contact":{
+    
+        "phone":null ,
+
+        "email": null ,
+
+        "website":null ,     
+
+        "facebook": null,
+
+        "instagram": true   
+    },
+"menu": {
+        
+    "breakfasts": [
+            {
+                "item": "Baguette Jamon y Queso",
+        
+                "price": 700
+                
+            },
+        
+            {
+                "item": "Croissant Nutella",
+        
+                "price": 800
+                
+            },
+        
+            {
+                "item": "Croissant Jamon y Queso",
+        
+                "price": 900
+               
+            },
+        
+            {
+                "item": "Mini Croissants Chocolate",
+        
+                "price": 150
+                
+            },
+        
+            {
+                "item": "Dona Chocolate",
+        
+                "price": 250
+               
+            }
+        
+        ],
+        "starters": [null],
+        
+        "main_courses": [null],
+        
+        "pizzas": [null],
+        
+        "pasta": [null],
+        
+        "desserts": [null]
+    
+    },
+    
+    "drinks": {
+    
+        "alcoholic_drinks": [],
+    
+        "non-alcoholic": [
+            {
+    
+                "item": "Capuchino",
+    
+                "price": 250
+                
+            },
+    
+            {
+                "item": "Expresso",
+    
+                "price": 100
+                
+            },
+    
+            {
+                "item": "Cortado",
+    
+                "price": 150
+               
+            },
+    
+            {
+                "item": "Bombon",
+    
+                "price": 250
+                
+            },
+    
+            {
+                "item": "Affogato",
+    
+                "price": 500
+                
+            },
+    
+            {
+                "item": "Frappuccino",
+    
+                "price": 500
+                
+            },
+            {
+                "item": "Frutos del Bosque/Platano",
+    
+                "price": 600
+                
+            },
+            {
+                "item": "Mango",
+    
+                "price": 500
+                
+            },
+    
+            {
+                "item": "Frutabomba",
+    
+                "price": 500
+                
+            }
+        ]
+    }
+    
+}
