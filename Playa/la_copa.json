@@ -1,0 +1,141 @@
+{
+    "establishment": {
+        "classification": {
+            "type": ["restaurante"]
+        },
+        "name": "Cafe Literario La Copa",
+        "type_of_food": ["Cafe"],
+        "locality": {
+            "municipality": "Playa"
+        },
+        "open_hours": {
+            "monday": {
+                "open": "08:00",
+                "close": "12:00"
+            },
+            "tuesday": {
+                "open": "08:00",
+                "close": "12:00"
+            },
+            "wednesday": {
+                "open": "08:00",
+                "close": "12:00"
+            },
+            "thursday": {
+                "open": "08:00",
+                "close": "12:00"
+            },
+            "friday": {
+                "open": "08:00",
+                "close": "12:00"
+            },
+            "saturday": {
+                "open": "08:00",
+                "close": "12:00"
+            },
+            "sunday": {
+                "open": "08:00",
+                "close": "12:00"
+            }
+        },
+        "quality": {
+            "qualification_google": 2.6,
+            "qualification_tripadvisor": 4.5,
+            "qualification_facebook": null
+        },
+        "reservation_options": false,
+        "social_networks": ["Instagram"],
+        "service_details": ["A la carta"],
+        "menu": {
+            "breakfasts": [null],
+            "starters": [
+                {
+                    "name": "Croquetas con Tostadas",
+                    "price": 500
+                },
+                {
+                    "name": "Papas Fritas",
+                    "price": 600
+                },
+                {
+                    "name": "Hot Dog",
+                    "price": 600
+                },
+                {
+                    "name": "Sandwich de Jamon y Queso",
+                    "price": 700
+                },
+                {
+                    "name": "Pan con Hamburguesa",
+                    "price": 700
+                },
+                {
+                    "name": "Croissant de Jamon con Queso",
+                    "price": 800
+                },
+                {
+                    "name": "Croissant Natural",
+                    "price": 500
+                }
+            ],
+            "main_courses": [null],
+            "pizzas": [null],
+            "pasta": [null],
+            "desserts": [
+                {
+                    "name": "Copa de Helado",
+                    "price": 500
+                },
+                {
+                    "name": "Suero Helado",
+                    "price": 800
+                }
+            ]
+        },
+        "drinks": {
+            "alcoholic_drinks": [null],
+            "non_alcoholic": [
+                {
+                    "name": "Malteada",
+                    "price": 500
+                },
+                {
+                    "name": "Malta Bucanero",
+                    "price": 300
+                },
+                {
+                    "name": "Energizante",
+                    "price": 230
+                },
+                {
+                    "name": "Jugo de Lata",
+                    "price": 270
+                },
+                {
+                    "name": "Agua Natural",
+                    "price": 120
+                },
+                {
+                    "name": "Cafe Expresso",
+                    "price": 1500
+                },
+                {
+                    "name": "Cafe Cortado",
+                    "price": 200
+                },
+                {
+                    "name": "Cafe Bombon",
+                    "price": 350
+                },
+                {
+                    "name": "Capuchino",
+                    "price": 400
+                },
+                {
+                    "name": "Frapucchino",
+                    "price": 500
+                }
+            ]
+        }
+    }
+}
