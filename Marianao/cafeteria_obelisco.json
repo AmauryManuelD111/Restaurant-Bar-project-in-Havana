@@ -1,0 +1,100 @@
+{
+    "CafeteriaObelisco": {
+        "Type": "Restaurante",
+        "PhoneNumber": [null],
+        "WebPage": [null],
+        "sector": "Estatal",
+        "OperatingHours": {
+           
+            "Monday": {"Open": "09:00", "Close": "18:00"},
+           
+            "Tuesday": {"Open": "09:00", "Close": "18:00"},
+           
+            "Wednesday": {"Open": "09:00", "Close": "18:00"},
+           
+            "Thursday": {"Open": "09:00", "Close": "18:00"},
+           
+            "Friday": {"Open": "09:00", "Close": "18:00"},
+           
+            "Saturday": {"Open": "09:00", "Close": "18:00"},
+           
+            "Sunday": {"Open": "09:00", "Close": "18:00"}
+        },
+        "Location": {
+            
+            "District": "Marianao",
+            
+            "Address": "Avenida 31",
+            
+            "Coordinates": "3HMG+V7F"
+        },
+        "type_of_food": "Variada",
+        "Menu": {
+            "Breakfast": {
+                
+                "Egg": [null],
+                
+                "Tortilla": [null],
+                
+                "Hamburguer": [null],
+                
+                "Sandwich": [null],
+                
+                "Bread": {
+                    "Pan con queso y embutido": {
+                        "Price": 250
+                    }
+                }
+            },
+            "starters": {
+                "Bolitas de carne": {
+                    "Price": 20
+                },
+                "Dados de queso": {
+                    "Price": 180
+                }
+            },
+            "MainCourses": {
+                "Pasta": [null],
+                "Pizza": {
+                    "Pizza de queso": {
+                        "Price": 200
+                    }
+                },
+                "Pork": [null],
+                "Chicken": [null],
+                "Beef": [null],
+                "Sea": [null],
+                "Extras": {
+                    "Frijol negro": {
+                        "Price": 55
+                    },
+                    "Arroz blanco": {
+                        "Price": 70
+                    }
+                }
+            },
+            "Desserts": [null],
+            "Beverages": {
+                "Agua saborizada": {
+                    "Price": 50
+                },
+                "Agua natural": {
+                    "Price": 180
+                },
+                "Cerveza cristal": {
+                    "Price": 180
+                },
+                "Vino blanco entre Rio": {
+                    "Price": 160
+                },
+                "Vino blanco": {
+                    "Price": 160
+                },
+                "Cerveza": {
+                    "Price": 50
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "LaYaya": {
+        "Type": "Restaurante",
+        "PhoneNumber": "52016522",
+        "WebPage": [null],
+        "sector": "Particular",
+        "OperatingHours": {
+            
+            "Monday": {"Open": "11:00", "Close": "23:00"},
+            
+            "Tuesday": {"Open": "11:00", "Close": "23:00"},
+            
+            "Wednesday": {"Open": "11:00", "Close": "23:00"},
+            
+            "Thursday": {"Open": "11:00", "Close": "23:00"},
+            
+            "Friday": {"Open": "12:00", "Close": "00:00"},
+            
+            "Saturday": {"Open": "12:00", "Close": "00:00"},
+            
+            "Sunday": {"Open": "12:00", "Close": "00:00"}
+        },
+        "Location": {
+            
+            "District": "Marianano",
+            
+            "Address": "100 Y 51",
+            
+            "Coordinates": "3HJH+G9J"
+        },
+        "type_of_food": "Variada",
+        "Menu": {
+            "Breakfast": {
+                "Tortilla": [null],
+                "Hamburguer": {
+                    "Hamburguesa": {
+                        "Price": 400
+                    },
+                    "Hamburguesa yuya": {
+                        "Price": 900
+                    }
+                },
+                "Sandwich": [null],
+                "Bread": {
+                    "Pan con jamon": {
+                        "Price": 350
+                    },
+                    "Pan con perro": {
+                        "Price": 280
+                    }
+                }
+            },
+            "starters": {
+                "Superpicadera": {
+                    "Price": 2500
+                },
+                "Tostones rellenos": {
+                    "Price": 600
+                },
+                "Frituras de malanga": {
+                    "Price": 500
+                },
+                "Papas fritas": {
+                    "Price": 500
+                },
+                "Croquetas": {
+                    "Price": 600
+                }
+            },
+            "MainCourses": {
+                "Pasta": {
+                    "Spaguettis con queso gouda": {
+                        "Price": 700
+                    },
+                    "Spaguettis doble queso": {
+                        "Price": 1000
+                    }
+                },
+                "Pizza": {
+                    "Pizza napolitana": {
+                        "Price": 1000
+                    },
+                    "Pizza doble queso": {
+                        "Price": 1300
+                    },
+                    "Pizza de jamon": {
+                        "Price": 1350
+                    }
+                },
+                "Pork": [null],
+                "Chicken": {
+                    "Fajitas de pollo con papa": {
+                        "Price": 900
+                    }
+                },
+                "Beef": [null],
+                "Sea": [null],
+                "Extras": {
+                    "Jamon": {
+                        "Price": 260
+                    },
+                    "Queso": {
+                        "Price": 260
+                    },
+                    "Salami": {
+                        "Price": 200
+                    }
+                }
+            },
+            "Desserts": {
+                "Helados gusto": {
+                    "Price": 1000
+                }
+            },
+            "Beverages": {
+                "Refrescos Importados": {
+                    "Price": 250
+                },
+                "Cervezas importadas": {
+                    "Price": 250
+                },
+                "Jugo de lata": {
+                    "Price": 280
+                },
+                "Jugos caja": {
+                    "Price": 650
+                },
+                "Malta Santa Isabel": {
+                    "Price": 280
+                },
+                "Cerveza Cubelazo": {
+                    "Price": 2700
+                },
+                "Termo de cerveza": {
+                    "Price": 2000
+                }
+            }
+        }
+    }
+}
