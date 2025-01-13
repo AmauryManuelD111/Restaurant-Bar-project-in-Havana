@@ -1,0 +1,157 @@
+{
+    "DMitu": {
+       
+        "Name": "D'Mitu",
+       
+        "Location": {
+       
+            "Address": "#64, Calle 1ra entre Gertrudis y Lagueruela, La Vibora",
+       
+            "Municipality": "10 de Octubre"
+        },
+       
+        "Type": "Pizzeria",
+       
+        "TypeOfFood": "Cocina italiana",
+       
+        "Sector": "Privado",
+       
+        "Capacity": 16,
+       
+        "ParkingService": true,
+       
+        "WiFi": false,
+       
+        "SmokingArea": false,
+       
+        "Hours": {
+       
+            "Monday": {"Open": "10:00", "Close": "22:00"},
+       
+            "Tuesday": {"Open": "10:00", "Close": "22:00"},
+       
+            "Wednesday": {"Open": "10:00", "Close": "22:00"},
+       
+            "Thursday": {"Open": "10:00", "Close": "22:00"},
+       
+            "Friday": {"Open": "10:00", "Close": "22:00"},
+       
+            "Saturday": {"Open": "10:00", "Close": "22:00"},
+       
+            "Sunday": {"Open": "10:00", "Close": "22:00"}
+        },
+       
+        "ContactInformation": {
+       
+            "PhoneNumbers": ["53578505", "76988258"],
+       
+            "SocialMedia": {
+       
+                "Facebook": "D'Mytu",
+       
+                "Instagram": "@d_mitu.restaurante",
+       
+                "Website": null,
+       
+                "Email": "mgabanchomoreno@gmail.com"
+            }
+        },
+        "Qualification": {
+            "Tripadvisor": null,
+            "GoogleMaps": 2.5
+        },
+       
+        "Reservations": true,
+       
+        "Delivery": {
+       
+            "ServiceExistence": true,
+       
+            "DeliveryArea": ["La Habana"]
+        },
+       
+        "PaymentMethods": {
+       
+            "AcceptedMethods": ["Tarjeta", "Efectivo"],
+       
+            "AcceptedCurrencies": ["CUP", "USD", "EUR", "Otras"]
+        },
+        "Menu": {
+            "MainCourse": [
+       
+                {"Name": "Pizza de queso", "Price": 850},
+       
+                {"Name": "Pizza de jamon", "Price": 1000},
+       
+                {"Name": "Pizza de chorizo", "Price": 1000},
+       
+                {"Name": "Pizza Hawaiana", "Price": 1050},
+       
+                {"Name": "Pizza Familiar mixta", "Price": 2800},
+       
+                {"Name": "Pizza Familiar con bordes de queso", "Price": 3200},
+       
+                {"Name": "Super Pizza de queso", "Price": 1200},
+       
+                {"Name": "Super Pizza de jamon", "Price": 1300},
+       
+                {"Name": "Super Pizza de chorizo", "Price": 1300},
+       
+                {"Name": "Super Pizza Hawaiana", "Price": 1300},
+       
+                {"Name": "Super Pizza mixta", "Price": 2000},
+       
+                {"Name": "Calzone D'Mitu", "Price": 900},
+       
+                {"Name": "Takazo D'Mitu", "Price": 1000},
+       
+                {"Name": "Pizza D'Mitu", "Price": 1400},
+       
+                {"Name": "Pastelon a su gusto", "Price": 1700},
+       
+                {"Name": "Super Takazo", "Price": 1900},
+       
+                {"Name": "Pizza Sol", "Price": 2000},
+       
+                {"Name": "Fugazzeta D'Mitu", "Price": 2100},
+       
+                {"Name": "Canelones", "Price": 800},
+       
+                {"Name": "Espaghettis", "Price": 800},
+       
+                {"Name": "Fettuccine", "Price": 800},
+       
+                {"Name": "Farfalle", "Price": 800},
+       
+                {"Name": "Lasagna", "Price": 900},
+       
+                {"Name": "Raviolis", "Price": 900}
+            ],
+            "Additionals": [
+       
+                {"Name": "Pina", "Price": 200},
+       
+                {"Name": "Cebolla", "Price": 200},
+       
+                {"Name": "Pimiento", "Price": 200},
+       
+                {"Name": "Jamon", "Price": 300},
+       
+                {"Name": "Bacon", "Price": 500},
+       
+                {"Name": "Queso", "Price": 300},
+       
+                {"Name": "Aceituna", "Price": 350},
+       
+                {"Name": "Chorizo", "Price": 300},
+       
+                {"Name": "Champignon", "Price": 400},
+       
+                {"Name": "Atun", "Price": 450},
+       
+                {"Name": "Camaron", "Price": 600}
+            ]
+ },
+            "VegetarianOptions": true
+        }
+    }

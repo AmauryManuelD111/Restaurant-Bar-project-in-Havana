@@ -1,0 +1,118 @@
+{
+    "CrispyChicken": {
+    
+        "Name": "Crispy Chicken",
+    
+        "Location": {
+    
+            "Address": "Avenida de Acosta y Juan Delgado, Monaco",
+    
+            "Municipality": "10 de Octubre"
+        },
+    
+        "Type": "Cafeteria",
+    
+        "TypeOfFood": "Cocina rapida",
+    
+        "Sector": "Privado",
+    
+        "Capacity": 10,
+    
+        "Parking": true,
+    
+        "WiFi": false,
+    
+        "SmokingArea": true,
+    
+        "Hours": {
+    
+            "Monday": {"Open": "11:00", "Close": "23:00"},
+    
+            "Tuesday": {"Open": "11:00", "Close": "23:00"},
+    
+            "Wednesday": {"Open": "11:00", "Close": "23:00"},
+    
+            "Thursday": {"Open": "11:00", "Close": "23:00"},
+    
+            "Friday": {"Open": "11:00", "Close": "23:00"},
+    
+            "Saturday": {"Open": "11:00", "Close": "23:00"},
+    
+            "Sunday": {"Open": "11:00", "Close": "23:00"}
+        },
+        "ContactInformation": {
+    
+            "PhoneNumber": "50763525",
+    
+            "SocialMedia": {
+    
+                "Facebook": "Crispy Chicken",
+    
+                "Instagram": "@crispy.chicken.monaco",
+    
+                "Website": null,
+    
+                "Email": null
+            }
+        },
+    
+        "Reservations": false,
+    
+        "Delivery": {
+    
+            "ServiceExistence": true,
+    
+            "DeliveryArea": ["La Habana"]
+    
+        },
+    
+        "PaymentMethods": {
+    
+            "AcceptedMethods": ["Tarjeta", "Efectivo"],
+    
+            "AcceptedCurrencies": ["CUP", "USD", "EUR"]
+        },
+        "Menu": {
+            "Starters": [
+    
+                {"Name": "Mini Hot Dog", "Price": 300},
+    
+                {"Name": "Flamenquin", "Price": 1000},
+    
+                {"Name": "San Jacobo", "Price": 1000},
+    
+                {"Name": "Tostones rellenos", "Price": 800},
+    
+                {"Name": "Entremes de jamon y queso", "Price": 1200},
+    
+                {"Name": "Picadera de la casa", "Price": 2500},
+    
+                {"Name": "Chips de boniato", "Price": 500}
+            ],
+            "MainCourse": [
+    
+                {"Name": "Pollo frito", "Price": 1300},
+    
+                {"Name": "Pollo chiflado", "Price": 1600},
+    
+                {"Name": "Pollo chiflado sin hueso", "Price": 1800},
+    
+                {"Name": "Pollo relleno de jamon y queso", "Price": 2000},
+    
+                {"Name": "Nuggets de pollo", "Price": 1000},
+    
+                {"Name": "Sandwich de pollo", "Price": 900}
+            ],
+            "Drinks": [
+    
+                {"Name": "Batido de helado", "Price": 1000},
+    
+                {"Name": "Malteada", "Price": 900},
+    
+                {"Name": "Jugo natural", "Price": 400},
+    
+                {"Name": "Vaca Negra", "Price": 800}
+            ]
+        }
+    }
+}

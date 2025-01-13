@@ -1,0 +1,290 @@
+{
+    "Lacret559": {
+        "Name": "Lacret 559",
+        "Location": {
+            "Address": "#559, Calle Lacret entre Goicuria y Mayia Rodriguez, Santos Suarez",
+            "Municipality": "10 de Octubre",
+            "Coordinates": "4J2G+J2P"
+        },
+        "Type": "Bar-Cafeteria",
+        "type_of_food": "Cocteleria y comida mixta",
+        "Sector": "Privado",
+        "Capacity": 20,
+        "ParkingService": false,
+        "WiFi": false,
+        "SmokingArea": true,
+        "Hours": {
+            
+            "Monday": {"Open": "14:00", "Close": "02:00"},
+            
+            "Tuesday": {"Open": "14:00", "Close": "02:00"},
+            
+            "Wednesday": {"Open": "14:00", "Close": "02:00"},
+            
+            "Thursday": {"Open": "14:00", "Close": "02:00"},
+            
+            "Friday": {"Open": "14:00", "Close": "02:00"},
+            
+            "Saturday": {"Open": "14:00", "Close": "02:00"},
+            
+            "Sunday": {"Open": "14:00", "Close": "02:00"}
+        },
+        "Qualification": {
+            "Tripadvisor": 5.0,
+            "GoogleMaps": 4.3
+        },
+        "Reservations": false,
+        "Delivery": {
+            "ServiceExistence": true,
+            "DeliveryArea": ["10 de Octubre"]
+        },
+        "ContactInformation": {
+            "PhoneNumbers": ["52906422", "54749319"],
+            "SocialMedia": {
+                "Facebook": "Catering Cuba Lacret 559",
+                "Instagram": "@bar_lacret559",
+                "Website": null,
+                "Email": null
+            }
+        },
+        "PaymentMethods": {
+            "AcceptedMethods": ["Tarjeta", "Efectivo"],
+            "AcceptedCurrencies": ["CUP", "USD", "EUR", "MLC", "Otras"]
+        },
+        "Menu": {
+            "Starters": [
+                
+                {"Name": "Frituras de malanga", "Price": 425},
+                
+                {"Name": "Croquetas 559", "Price": 650},
+                
+                {"Name": "Croqueton de res", "Price": 1000},
+                
+                {"Name": "Eperlan de pescado", "Price": 700},
+                
+                {"Name": "Carpaccio de res", "Price": 1550},
+                
+                {"Name": "Carpaccio de langosta", "Price": 1500},
+                
+                {"Name": "Carpaccio de pulpo", "Price": 1600},
+                
+                {"Name": "Ceviche", "Price": 950},
+                
+                {"Name": "Piquillos rellenos del mar", "Price": 1050},
+                
+                {"Name": "Piquillos rellenos de ropa vieja", "Price": 1550},
+                
+                {"Name": "Papas bravas", "Price": 700},
+                
+                {"Name": "Fajitas de pollo", "Price": 700},
+                
+                {"Name": "Brusquetas a la parmesana", "Price": 600},
+                
+                {"Name": "Totopitos al ajo", "Price": 400},
+                
+                {"Name": "Totopitos picantes", "Price": 400},
+                
+                {"Name": "Papas fritas", "Price": 700},
+                
+                {"Name": "Tacos de res", "Price": 1550},
+                
+                {"Name": "Tacos del mar", "Price": 1550},
+                
+                {"Name": "Tacos de cerdo", "Price": 1200},
+                
+                {"Name": "Tacos de pollo", "Price": 1000}
+            ],
+            "MainCourse": [
+                
+                {"Name": "Pizza de queso azul", "Price": 2000},
+                
+                {"Name": "Pizza napolitana", "Price": 1360},
+                
+                {"Name": "Pizza Margarita", "Price": 1400},
+                
+                {"Name": "Pizza Parmesana", "Price": 1800},
+                
+                {"Name": "Pizza Carbonara", "Price": 1950},
+                
+                {"Name": "Pizza Hawaiana", "Price": 1800},
+                
+                {"Name": "Pizza Cantabrica", "Price": 1800},
+                
+                {"Name": "Pizza Marina", "Price": 2400},
+                
+                {"Name": "Pizza Mediterranea", "Price": 1800},
+                
+                {"Name": "Pizza Mixta Lacret", "Price": 2700},
+                
+                {"Name": "Pizza de jamon", "Price": 1500},
+                
+                {"Name": "Pizza de chorizo", "Price": 1450},
+                
+                {"Name": "Pizza de bacon", "Price": 1850},
+                
+                {"Name": "Pizza de cebolla", "Price": 1400},
+                
+                {"Name": "Pizza de pimiento", "Price": 1500},
+                
+                {"Name": "Pizza de vegetales", "Price": 1700},
+                
+                {"Name": "Pizza de champignon", "Price": 1700},
+                
+                {"Name": "Pizza de camaron", "Price": 2500},
+                
+                {"Name": "Pizza de atun", "Price": 2300},
+                
+                {"Name": "Pizza de aceitunas", "Price": 1400},
+                
+                {"Name": "Pizza de jamon Serrano", "Price": 3000},
+                
+                {"Name": "Pizza Iberica", "Price": 3400},
+                
+                {"Name": "Pizza de pepperoni", "Price": 2000},
+                
+                {"Name": "Pizza Ranchera", "Price": 2500},
+                
+                {"Name": "Langosta al gusto", "Price": 2600},
+                
+                {"Name": "Camarones al gusto", "Price": 2400},
+                
+                {"Name": "Lomo ahumado", "Price": 2175},
+                
+                {"Name": "Lomo importado", "Price": 2500},
+                
+                {"Name": "Chuleta de cerdo", "Price": 2100},
+                
+                {"Name": "Enchilado de cangrejo", "Price": 2400},
+                
+                {"Name": "Hamburguesa de res", "Price": 850},
+                
+                {"Name": "Ropa Vieja de res", "Price": 2025},
+                
+                {"Name": "Pechuga de pollo grille", "Price": 1975},
+                
+                {"Name": "Pechuga de pollo a la Gordon Blue", "Price": 2175},
+                
+                {"Name": "Pescado grille", "Price": 1975},
+                
+                {"Name": "Pescado enchilado", "Price": 1975},
+                
+                {"Name": "Pescado Canciller", "Price": 2175}
+            ],
+            "Additionals": [
+               
+                {"Name": "Queso", "Price": 800},
+               
+                {"Name": "Jamon", "Price": 450},
+                
+                {"Name": "Chorizo", "Price": 500},
+               
+                {"Name": "Bacon", "Price": 650},
+               
+                {"Name": "Cebolla", "Price": 250},
+               
+                {"Name": "Pimiento", "Price": 250},
+               
+                {"Name": "Champignon", "Price": 400},
+
+                {"Name": "Aceituna", "Price": 500},
+               
+                {"Name": "Pina", "Price": 200},
+               
+                {"Name": "Pulpo", "Price": 900},
+               
+                {"Name": "Langosta", "Price": 900}
+            ],
+            "Siders": [
+                
+                {"Name": "Arroz blanco", "Price": 400},
+                
+                {"Name": "Arroz Pilaf", "Price": 500},
+                
+                {"Name": "Chips de boniato", "Price": 400},
+                
+                {"Name": "Chips de malanga", "Price": 400},
+                
+                {"Name": "Papas fritas", "Price": 400}
+            ],
+            "Drinks": [
+                
+                {"Name": "Cerveza importada", "Price": 340},
+                
+                {"Name": "Cerveza en lata", "Price": 340},
+                
+                {"Name": "Cerveza en botella", "Price": 490},
+                
+                {"Name": "Agua natural", "Price": 250},
+                
+                {"Name": "Agua gaseada", "Price": 250},
+                
+                {"Name": "Kermato", "Price": 650},
+                
+                {"Name": "Energizante", "Price": 430},
+                
+                {"Name": "Refresco", "Price": 350},
+                
+                {"Name": "Malta", "Price": 430},
+                
+                {"Name": "Cafe Expresso", "Price": 175},
+                
+                {"Name": "Copa de vino tinto", "Price": 550},
+                
+                {"Name": "Copa de vino de frutas", "Price": 350},
+                
+                {"Name": "Shot de tequila blanco", "Price": 650},
+                
+                {"Name": "Shot de tequila reposado", "Price": 750},
+                
+                {"Name": "Cerveza nacional de lata", "Price": 400},
+                
+                {"Name": "Jugos naturales", "Price": 300},
+                
+                {"Name": "Cubetazo de 5 cervezas importadas en lata", "Price": 1550},
+                
+                {"Name": "Sangria", "Price": 660},
+                
+                {"Name": "Tinto de Verano", "Price": 660},
+                
+                {"Name": "Calimocho", "Price": 560},
+                
+                {"Name": "Screwdriver", "Price": 470},
+                
+                {"Name": "Caipiroska", "Price": 570},
+                
+                {"Name": "Caipirissima", "Price": 570},
+                
+                {"Name": "Caipirinha", "Price": 600},
+                
+                {"Name": "Cubata", "Price": 470},
+                
+                {"Name": "Cuba Libre", "Price": 470},
+                
+                {"Name": "Cubanito", "Price": 480},
+                
+                {"Name": "Mojito", "Price": 580},
+                
+                {"Name": "Barbados Surprise", "Price": 580},
+                
+                {"Name": "Whiscola", "Price": 460},
+                
+                {"Name": "Old Fashioned", "Price": 650},
+                
+                {"Name": "Long Island", "Price": 850},
+                
+                {"Name": "Gin Tonic", "Price": 610},
+                
+                {"Name": "Margarita", "Price": 700},
+                
+                {"Name": "Canchanchara", "Price": 580},
+                
+                {"Name": "Michelada", "Price": 500},
+                
+                {"Name": "Chelada", "Price": 250},
+                
+                {"Name": "Limonada", "Price": 500}
+            ],
+            "Desserts": null
+        }
+    }
+}

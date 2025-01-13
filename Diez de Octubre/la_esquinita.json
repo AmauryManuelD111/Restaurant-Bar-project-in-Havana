@@ -1,0 +1,160 @@
+{
+    "LaEsquinita": {
+   
+        "Name": "La Esquinita",
+   
+        "Location": {
+   
+            "Address": "Calle Juan Lefont entre Libertad y Johnson",
+   
+            "Municipality": "10 de Octubre",
+   
+            "Coordinates": "3JXC+W79"
+   
+        },
+   
+        "Type": "Bar-Cafeteria",
+   
+        "TypeOfFood": "Cocina mixta",
+   
+        "Sector": "Privado",
+   
+        "Capacity": 12,
+   
+        "ParkingService": true,
+   
+        "WiFi": false,
+   
+        "SmokingArea": true,
+   
+        "Hours": {
+   
+            "Monday": {"Open": "09:00", "Close": "21:00"},
+   
+            "Tuesday": {"Open": "09:00", "Close": "21:00"},
+   
+            "Wednesday": {"Open": "09:00", "Close": "21:00"},
+   
+            "Thursday": {"Open": "09:00", "Close": "21:00"},
+   
+            "Friday": {"Open": "10:00", "Close": "23:00"},
+   
+            "Saturday": {"Open": "10:00", "Close": "23:00"},
+   
+            "Sunday": {"Open": "10:00", "Close": "23:00"}
+        },
+        "Qualification": {
+   
+            "Tripadvisor": null,
+   
+            "GoogleMaps": 5.0
+        },
+        "Reservations": false,
+   
+        "Delivery": {
+   
+            "ServiceExistence": false,
+   
+            "DeliveryArea": null
+        },
+        "ContactInformation": {
+   
+            "PhoneNumbers": ["76404105", "59104644", "56941945"],
+   
+            "SocialMedia": {
+   
+                "Facebook": null,
+   
+                "Instagram": null,
+   
+                "Website": null,
+   
+                "Email": null
+   
+            }
+        },
+        "PaymentMethods": {
+   
+            "AcceptedMethods": ["Tarjeta", "Efectivo"],
+   
+            "AcceptedCurrencies": ["CUP", "USD", "EUR"]
+        },
+        "Menu": {
+            "Starters": [
+   
+                {"Name": "Picadera La Esquinita", "Price": 1000},
+   
+                {"Name": "Tostones", "Price": 400}
+            ],
+            "MainCourse": [
+   
+                {"Name": "Arroz frito", "Price": 500},
+   
+                {"Name": "Arroz frito con mariscos", "Price": 950},
+   
+                {"Name": "Bistec Gordon Blue", "Price": 1300},
+   
+                {"Name": "Pollo Chiflado", "Price": 650},
+   
+                {"Name": "Espaghettis blancos", "Price": 300},
+   
+                {"Name": "Espaghettis de queso Gouda", "Price": 450},
+   
+                {"Name": "Espaghettis blancos de jamon", "Price": 400},
+   
+                {"Name": "Espaghettis de queso Gouda con jamon", "Price": 550},
+   
+                {"Name": "Espaghettis blancos con chorizo", "Price": 400},
+   
+                {"Name": "Espaghettis de queso Gouda con chorizo", "Price": 550},
+   
+                {"Name": "Hamburguesa sencilla", "Price": 500},
+   
+                {"Name": "Hamburguesa de jamon", "Price": 500},
+   
+                {"Name": "Hamburguesa de queso Gouda", "Price": 550},
+   
+                {"Name": "Hamburguesa de chorizo", "Price": 500},
+   
+                {"Name": "Hamburguesa de jamon y Gouda", "Price": 650},
+   
+                {"Name": "Hamburguesa La Esquinita", "Price": 750},
+   
+                {"Name": "Pizza de queso blanco", "Price": 200},
+   
+                {"Name": "Pizza de queso Gouda", "Price": 300},
+   
+                {"Name": "Pizza de queso blanco y jamon", "Price": 300},
+   
+                {"Name": "Pizza de queso Gouda y jamon", "Price": 400},
+   
+                {"Name": "Pizza de queso blanco y chorizo", "Price": 300},
+   
+                {"Name": "Pizza de queso Gouda y chorizo", "Price": 400},
+   
+                {"Name": "Pizza de queso blanco y atun", "Price": 500},
+   
+                {"Name": "Pizza de queso Gouda y atun", "Price": 600},
+   
+                {"Name": "Pizza de queso blanco y cebolla", "Price": 300},
+   
+                {"Name": "Pizza de queso Gouda y cebolla", "Price": 400},
+   
+                {"Name": "Pizza de queso blanco y pimiento ", "Price": 300},
+   
+                {"Name": "Pizza de queso Gouda y pimiento", "Price": 400},
+   
+                {"Name": "Pizza grande de queso blanco Hawaiana", "Price": 400},
+   
+                {"Name": "Pizza grande de queso Gouda Hawaiana", "Price": 500},
+   
+                {"Name": "Pizza grande Especial La Esquinita", "Price": 1200},
+   
+                {"Name": "Pizza grande Familiar La Esquinita", "Price": 3000}
+            ],
+            "Siders": [
+                {"Name": "Papas fritas", "Price": 100}
+            ]
+        }
+    }
+}
