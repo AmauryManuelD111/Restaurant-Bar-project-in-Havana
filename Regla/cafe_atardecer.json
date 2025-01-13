@@ -1,0 +1,154 @@
+{
+    "name": "cafe atardecer",
+    "sector": "estatal",
+    "information": {
+        "website": "",
+        "instagram": "",
+        "facebook": "",
+        "telephone_number": []
+    },
+    "location": {
+        "municipality": "regla",
+        "direction": "marti entre perdomo y albuquerque, regla, la habana, cuba"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 5.0,
+        "cant_g": 1,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": ["familiar"],
+        "type_of_food": ["criolla"],
+        "capacity": 22,
+        "areas": {
+            "inside": false,
+            "outside": true,
+            "bar": false,
+            "bathroom": true,
+            "waiting_room": false
+        },
+        "time_of_service": null
+    },
+    "hours": {
+        
+        "monday": {"open": "07:00", "close": "19:00"},
+        
+        "tuesday": {"open": "07:00", "close": "19:00"},
+        
+        "wednesday": {"open": "07:00", "close": "19:00"},
+        
+        "thursday": {"open": "07:00", "close": "19:00"},
+        
+        "friday": {"open": "07:00", "close": "19:00"},
+        
+        "saturday": {"open": "07:00", "close": "19:00"},
+        
+        "sunday": {"open": "07:00", "close": "19:00"}
+    },
+    "logistics": {
+        "full_staff": true,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": 40,
+            "local": 60
+        },
+        "ecological": false
+    },
+    "experiences": {
+        "live_music": false,
+        "show": [],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": false,
+        "parking": false,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": false
+        },
+        "transfer": false,
+        "10%": false
+    },
+    "menu": {
+        "digital_menu": false,
+        "others_languages": false,
+        "grammage": false,
+        "plate_description": false,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {
+                "croqueta": {
+                    "price": 75,
+                    "name": "croqueta"
+                },
+                "medallon": {
+                    "price": 90,
+                    "name": "pan",
+                    "principal_ingredient": "harina"
+                },
+                "queso": {
+                    "price": 90,
+                    "name": "pan",
+                    "principal_ingredient": "queso"
+                },
+                "perro": {
+                    "price": 120,
+                    "name": "pan con salchicha"
+                },
+                "jamon_queso": {
+                    "price": 150,
+                    "name": "pan con queso y jamon"
+                }
+            },
+            "starters": {},
+            "main": {
+                "pollo_empanado": {
+                    "price": 450
+                },
+                "pollo_fajitas": {
+                    "price": 450
+                },
+                "cerdo_escalope": {
+                    "price": 480
+                },
+                "cerdo_fajitas": {
+                    "price": 480
+                },
+                "cerdo_fricesse": {
+                    "price": 380
+                },
+                "pescado_frito": {
+                    "price": 500
+                }
+            },
+            "desserts": {},
+            "drinks": {
+                "agua": {
+                    "price": 20
+                },
+                "refresco": {
+                    "price": 30
+                },
+                "cerveza": {
+                    "price": 50
+                }
+            }
+        }
+    }
+}
